@@ -1,0 +1,15 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0007059", "chromosome segregation", 1.564, -5.329, -3.707, 2.447, 0.997, 0.000, -1, False
+"GO:0051983", "regulation of chromosome segregation", 0.493, 3.138, -4.789, 1.949, 0.971, 0.000, -1, False
+"GO:0140014", "mitotic nuclear division", 1.026, 4.220, 3.678, 2.265, 0.581, 0.004, -1, False
+"GO:0051306", "mitotic sister chromatid separation", 0.017, null, null, 0.602, 0.576, 0.599, 140014, True
+"GO:0098813", "nuclear chromosome segregation", 1.234, null, null, 2.344, 0.509, 0.626, 140014, True
+"GO:0008608", "attachment of spindle microtubules to kinetochore", 0.129, null, null, 1.380, 0.558, 0.741, 140014, True
+"GO:0000070", "mitotic sister chromatid segregation", 0.650, null, null, 2.068, 0.477, 0.868, 140014, True
+"GO:0000819", "sister chromatid segregation", 0.807, null, null, 2.161, 0.506, 0.888, 140014, True
+"GO:0051783", "regulation of nuclear division", 0.757, -4.247, 4.759, 2.134, 0.775, 0.033, -1, False
+"GO:0007088", "regulation of mitotic nuclear division", 0.611, null, null, 2.041, 0.616, 0.506, 51783, True
+"GO:0010965", "regulation of mitotic sister chromatid separation", 0.359, null, null, 1.813, 0.541, 0.566, 51783, True
+"GO:0033047", "regulation of mitotic sister chromatid segregation", 0.252, null, null, 1.663, 0.502, 0.910, 51783, True
+"GO:1905818", "regulation of chromosome separation", 0.398, null, null, 1.857, 0.539, 0.948, 51783, True
+"GO:0033045", "regulation of sister chromatid segregation", 0.398, null, null, 1.857, 0.489, 0.956, 51783, True

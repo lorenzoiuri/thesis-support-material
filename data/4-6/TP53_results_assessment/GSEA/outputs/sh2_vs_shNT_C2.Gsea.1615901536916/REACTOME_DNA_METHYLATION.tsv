@@ -1,0 +1,62 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	H2AJ	H2A.J histone [Source:HGNC Symbol;Acc:HGNC:14456]	3550	0.8411421775817871	-0.078312695	No	
+row_1	H4C13	H4 clustered histone 13 [Source:HGNC Symbol;Acc:HGNC:4791]	6025	0.5368697047233582	-0.13366093	No	
+row_2	H2BC9	H2B clustered histone 9 [Source:HGNC Symbol;Acc:HGNC:4755]	6062	0.5368697047233582	-0.12618546	No	
+row_3	H3C11	H3 clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4771]	6421	0.5368697047233582	-0.12700745	No	
+row_4	H2AB1	H2A.B variant histone 1 [Source:HGNC Symbol;Acc:HGNC:22516]	6917	0.5303168296813965	-0.13146232	No	
+row_5	H4C9	H4 clustered histone 9 [Source:HGNC Symbol;Acc:HGNC:4793]	12773	0.08245202153921127	-0.2810466	No	
+row_6	H2AC8	H2A clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4724]	18166	0.0	-0.4199906	No	
+row_7	H2AC7	H2A clustered histone 7 [Source:HGNC Symbol;Acc:HGNC:4729]	18167	0.0	-0.4199906	No	
+row_8	H2BS1	H2B.S histone 1 [Source:HGNC Symbol;Acc:HGNC:4762]	18475	0.0	-0.42790154	No	
+row_9	H2BU1	H2B.U histone 1 [Source:HGNC Symbol;Acc:HGNC:20514]	18494	0.0	-0.42836538	No	
+row_10	H2AC19	H2A clustered histone 19 [Source:HGNC Symbol;Acc:HGNC:29668]	19248	0.0	-0.4477691	No	
+row_11	H2AC18	H2A clustered histone 18 [Source:HGNC Symbol;Acc:HGNC:4736]	19251	0.0	-0.44782063	No	
+row_12	H3C4	H3 clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4767]	20328	0.0	-0.47554758	No	
+row_13	H3C7	H3 clustered histone 7 [Source:HGNC Symbol;Acc:HGNC:4773]	20329	0.0	-0.47554758	No	
+row_14	H3C6	H3 clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4769]	20330	0.0	-0.47554758	No	
+row_15	H4C5	H4 clustered histone 5 [Source:HGNC Symbol;Acc:HGNC:4790]	20496	0.0	-0.4797994	No	
+row_16	DNMT3L	DNA methyltransferase 3 like [Source:HGNC Symbol;Acc:HGNC:2980]	20767	0.0	-0.48675692	No	
+row_17	H2BC10	H2B clustered histone 10 [Source:HGNC Symbol;Acc:HGNC:4756]	25964	0.0	-0.6206503	No	
+row_18	DNMT3A	DNA methyltransferase 3 alpha [Source:HGNC Symbol;Acc:HGNC:2978]	28035	-0.11870595812797546	-0.67213315	No	
+row_19	H3C14	H3 clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:20503]	29668	-0.21232053637504578	-0.7108642	No	
+row_20	H4C4	H4 clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4782]	30027	-0.24010026454925537	-0.71633124	No	
+row_21	DNMT3B	DNA methyltransferase 3 beta [Source:HGNC Symbol;Acc:HGNC:2979]	30308	-0.26133421063423157	-0.719456	No	
+row_22	H3C15	H3 clustered histone 15 [Source:HGNC Symbol;Acc:HGNC:20505]	31567	-0.3520618975162506	-0.7463623	No	
+row_23	H3-3B	H3.3 histone B [Source:HGNC Symbol;Acc:HGNC:4765]	32035	-0.3946601450443268	-0.75221896	No	
+row_24	H2AX	H2A.X variant histone [Source:HGNC Symbol;Acc:HGNC:4739]	33468	-0.5380247235298157	-0.7806983	No	
+row_25	H3C8	H3 clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4772]	34397	-0.5774803161621094	-0.79557276	No	
+row_26	H2AC20	H2A clustered histone 20 [Source:HGNC Symbol;Acc:HGNC:4738]	36011	-0.7735453248023987	-0.8250298	No	
+row_27	DNMT1	DNA methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2976]	36708	-0.8834434151649475	-0.82913697	Yes	
+row_28	H3C13	H3 clustered histone 13 [Source:HGNC Symbol;Acc:HGNC:25311]	36723	-0.8889742493629456	-0.8155834	Yes	
+row_29	H4C15	H4 clustered histone 15 [Source:HGNC Symbol;Acc:HGNC:29607]	37090	-0.9747873544692993	-0.8097572	Yes	
+row_30	H2AZ2	H2A.Z variant histone 2 [Source:HGNC Symbol;Acc:HGNC:20664]	37129	-0.981317400932312	-0.7953767	Yes	
+row_31	H2AZ1	H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741]	37199	-0.999300479888916	-0.7815136	Yes	
+row_32	H2BC15	H2B clustered histone 15 [Source:HGNC Symbol;Acc:HGNC:4749]	37507	-1.0861636400222778	-0.7724238	Yes	
+row_33	H3-3A	H3.3 histone A [Source:HGNC Symbol;Acc:HGNC:4764]	37653	-1.1420047283172607	-0.75828546	Yes	
+row_34	UHRF1	ubiquitin like with PHD and ring finger domains 1 [Source:HGNC Symbol;Acc:HGNC:12556]	37669	-1.1518059968948364	-0.7406438	Yes	
+row_35	H2BC21	H2B clustered histone 21 [Source:HGNC Symbol;Acc:HGNC:4760]	37876	-1.248730182647705	-0.7264069	Yes	
+row_36	H2AC14	H2A clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4727]	37909	-1.262633204460144	-0.70746857	Yes	
+row_37	H4C14	H4 clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4794]	38174	-1.428539752960205	-0.6919118	Yes	
+row_38	H3C10	H3 clustered histone 10 [Source:HGNC Symbol;Acc:HGNC:4775]	38201	-1.4501720666885376	-0.66988355	Yes	
+row_39	H2AC6	H2A clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4733]	38252	-1.5039851665496826	-0.64763147	Yes	
+row_40	H4-16	H4 histone 16 [Source:HGNC Symbol;Acc:HGNC:20510]	38256	-1.5053889751434326	-0.6241462	Yes	
+row_41	H2BC13	H2B clustered histone 13 [Source:HGNC Symbol;Acc:HGNC:4748]	38355	-1.5989603996276855	-0.60164446	Yes	
+row_42	H3C12	H3 clustered histone 12 [Source:HGNC Symbol;Acc:HGNC:4774]	38364	-1.6081973314285278	-0.57667893	Yes	
+row_43	H2BC12	H2B clustered histone 12 [Source:HGNC Symbol;Acc:HGNC:13954]	38381	-1.6254831552505493	-0.551649	Yes	
+row_44	H2BC5	H2B clustered histone 5 [Source:HGNC Symbol;Acc:HGNC:4747]	38434	-1.692996859550476	-0.52649	Yes	
+row_45	H3C2	H3 clustered histone 2 [Source:HGNC Symbol;Acc:HGNC:4776]	38495	-1.7668365240097046	-0.5003814	Yes	
+row_46	H2BC17	H2B clustered histone 17 [Source:HGNC Symbol;Acc:HGNC:4758]	38500	-1.7757563591003418	-0.47269014	Yes	
+row_47	H4C11	H4 clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4785]	38546	-1.8415216207504272	-0.44502604	Yes	
+row_48	H4C8	H4 clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4788]	38547	-1.8450502157211304	-0.4161471	Yes	
+row_49	H2AC4	H2A clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4734]	38549	-1.8492366075515747	-0.38722843	Yes	
+row_50	H4C12	H4 clustered histone 12 [Source:HGNC Symbol;Acc:HGNC:4784]	38574	-1.9372787475585938	-0.3575244	Yes	
+row_51	H2BC4	H2B clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4757]	38576	-1.9433889389038086	-0.32713205	Yes	
+row_52	H2BC6	H2B clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4753]	38623	-2.0393543243408203	-0.2963972	Yes	
+row_53	H4C1	H4 clustered histone 1 [Source:HGNC Symbol;Acc:HGNC:4781]	38624	-2.0400922298431396	-0.26446545	Yes	
+row_54	H2BC11	H2B clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4761]	38634	-2.051128625869751	-0.2325929	Yes	
+row_55	H3C1	H3 clustered histone 1 [Source:HGNC Symbol;Acc:HGNC:4766]	38663	-2.1600964069366455	-0.19950436	Yes	
+row_56	H4C3	H4 clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4787]	38665	-2.1628923416137695	-0.16567631	Yes	
+row_57	H3C3	H3 clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4768]	38717	-2.4785683155059814	-0.12819569	Yes	
+row_58	H2BC3	H2B clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4751]	38722	-2.4941749572753906	-0.08925968	Yes	
+row_59	H2BC1	H2B clustered histone 1 [Source:HGNC Symbol;Acc:HGNC:18730]	38842	-2.8935563564300537	-0.04703588	Yes	
+row_60	H2BC14	H2B clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4750]	38848	-3.0445988178253174	4.896586E-4	Yes	

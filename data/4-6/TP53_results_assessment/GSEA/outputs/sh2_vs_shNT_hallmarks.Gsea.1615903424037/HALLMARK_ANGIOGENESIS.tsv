@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	398	2.447840929031372	0.08691995	Yes	
+row_1	JAG2	jagged canonical Notch ligand 2 [Source:HGNC Symbol;Acc:HGNC:6189]	751	2.1478803157806396	0.16311729	Yes	
+row_2	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	829	2.0139338970184326	0.24107929	Yes	
+row_3	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	1249	1.6776928901672363	0.29688674	Yes	
+row_4	OLR1	oxidized low density lipoprotein receptor 1 [Source:HGNC Symbol;Acc:HGNC:8133]	1806	1.3801733255386353	0.33735585	Yes	
+row_5	PGLYRP1	peptidoglycan recognition protein 1 [Source:HGNC Symbol;Acc:HGNC:8904]	2319	1.1674978733062744	0.3705157	Yes	
+row_6	SLCO2A1	solute carrier organic anion transporter family member 2A1 [Source:HGNC Symbol;Acc:HGNC:10955]	2423	1.119457721710205	0.41230112	Yes	
+row_7	THBD	thrombomodulin [Source:HGNC Symbol;Acc:HGNC:11784]	2742	1.029447317123413	0.44497684	Yes	
+row_8	STC1	stanniocalcin 1 [Source:HGNC Symbol;Acc:HGNC:11373]	2852	1.0045888423919678	0.48204792	Yes	
+row_9	PF4	platelet factor 4 [Source:HGNC Symbol;Acc:HGNC:8861]	4622	0.6527089476585388	0.46240258	Yes	
+row_10	POSTN	periostin [Source:HGNC Symbol;Acc:HGNC:16953]	4660	0.6463848352432251	0.4871086	Yes	
+row_11	COL3A1	collagen type III alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2201]	5709	0.5523169636726379	0.48204523	Yes	
+row_12	MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	6015	0.5368697047233582	0.4955024	Yes	
+row_13	ITGAV	integrin subunit alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	7639	0.5121084451675415	0.4740356	No	
+row_14	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	11455	0.17367267608642578	0.38268596	No	
+row_15	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	11809	0.14842826128005981	0.3794875	No	
+row_16	TNFRSF21	TNF receptor superfamily member 21 [Source:HGNC Symbol;Acc:HGNC:13469]	12136	0.12481534481048584	0.37604704	No	
+row_17	COL5A2	collagen type V alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2210]	12177	0.1241266280412674	0.37994426	No	
+row_18	PDGFA	platelet derived growth factor subunit A [Source:HGNC Symbol;Acc:HGNC:8799]	12508	0.10323675721883774	0.3755442	No	
+row_19	FGFR1	fibroblast growth factor receptor 1 [Source:HGNC Symbol;Acc:HGNC:3688]	12616	0.0951940268278122	0.37656754	No	
+row_20	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	13200	0.049655765295028687	0.3635253	No	
+row_21	CXCL6	C-X-C motif chemokine ligand 6 [Source:HGNC Symbol;Acc:HGNC:10643]	16105	0.0	0.28874162	No	
+row_22	APOH	apolipoprotein H [Source:HGNC Symbol;Acc:HGNC:616]	23292	0.0	0.103688054	No	
+row_23	S100A4	S100 calcium binding protein A4 [Source:HGNC Symbol;Acc:HGNC:10494]	27201	-0.07619419693946838	0.006074	No	
+row_24	TIMP1	TIMP metallopeptidase inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:11820]	27884	-0.10784455388784409	-0.0072078486	No	
+row_25	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	30184	-0.25223851203918457	-0.056398764	No	
+row_26	LRPAP1	LDL receptor related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	30479	-0.2748311161994934	-0.053060174	No	
+row_27	SERPINA5	serpin family A member 5 [Source:HGNC Symbol;Acc:HGNC:8723]	30620	-0.28550538420677185	-0.04533206	No	
+row_28	VAV2	vav guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:12658]	30976	-0.3148857653141022	-0.041974332	No	
+row_29	JAG1	jagged canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:6188]	31452	-0.34476596117019653	-0.04052072	No	
+row_30	FSTL1	follistatin like 1 [Source:HGNC Symbol;Acc:HGNC:3972]	32859	-0.4736545979976654	-0.057925828	No	
+row_31	PTK2	protein tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:9611]	33012	-0.48961564898490906	-0.0424044	No	
+row_32	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	36206	-0.7996946573257446	-0.0928858	No	
+row_33	KCNJ8	potassium inwardly rectifying channel subfamily J member 8 [Source:HGNC Symbol;Acc:HGNC:6269]	37251	-1.0109623670578003	-0.07963979	No	
+row_34	PRG2	proteoglycan 2, pro eosinophil major basic protein [Source:HGNC Symbol;Acc:HGNC:9362]	37640	-1.1359753608703613	-0.044538	No	
+row_35	LPL	lipoprotein lipase [Source:HGNC Symbol;Acc:HGNC:6677]	38570	-1.91732656955719	0.007648416	No	

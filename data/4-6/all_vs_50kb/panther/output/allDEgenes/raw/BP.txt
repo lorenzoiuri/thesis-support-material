@@ -1,0 +1,81 @@
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	PANTHER version 16.0 Released 2020-12-01
+Analyzed List:	allDEgenes.txt (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+PANTHER GO-Slim Biological Process	Homo sapiens - REFLIST (20595)	allDEgenes.txt (361)	allDEgenes.txt (expected)	allDEgenes.txt (over/under)	allDEgenes.txt (fold Enrichment)	allDEgenes.txt (raw P-value)	allDEgenes.txt (FDR)
+skin development (GO:0043588)	7	3	.12	+	24.45	5.56E-04	1.78E-02
+intermediate filament cytoskeleton organization (GO:0045104)	13	5	.23	+	21.94	1.05E-05	8.49E-04
+positive regulation of axonogenesis (GO:0050772)	21	7	.37	+	19.02	3.68E-07	8.04E-05
+regulation of cell shape (GO:0008360)	27	8	.47	+	16.90	1.13E-07	3.07E-05
+attachment of spindle microtubules to kinetochore (GO:0008608)	11	3	.19	+	15.56	1.60E-03	4.73E-02
+positive regulation of neuron projection development (GO:0010976)	30	7	.53	+	13.31	2.80E-06	3.06E-04
+negative regulation of cell adhesion (GO:0007162)	32	7	.56	+	12.48	4.06E-06	4.22E-04
+positive regulation of neuron differentiation (GO:0045666)	33	7	.58	+	12.10	4.85E-06	4.81E-04
+positive regulation of cell projection organization (GO:0031346)	38	8	.67	+	12.01	1.06E-06	1.54E-04
+regulation of axonogenesis (GO:0050770)	49	10	.86	+	11.64	6.03E-08	2.63E-05
+positive regulation of neurogenesis (GO:0050769)	39	7	.68	+	10.24	1.28E-05	8.98E-04
+positive regulation of nervous system development (GO:0051962)	43	7	.75	+	9.29	2.24E-05	1.40E-03
+regulation of cell morphogenesis involved in differentiation (GO:0010769)	65	10	1.14	+	8.78	6.23E-07	1.05E-04
+positive regulation of cell development (GO:0010720)	46	7	.81	+	8.68	3.31E-05	1.90E-03
+regulation of neuron projection development (GO:0010975)	74	10	1.30	+	7.71	1.81E-06	2.08E-04
+regulation of cell morphogenesis (GO:0022604)	84	11	1.47	+	7.47	7.31E-07	1.14E-04
+response to virus (GO:0009615)	40	5	.70	+	7.13	1.02E-03	3.15E-02
+regulation of plasma membrane bounded cell projection organization (GO:0120035)	89	11	1.56	+	7.05	1.23E-06	1.67E-04
+regulation of cell projection organization (GO:0031344)	91	11	1.60	+	6.90	1.50E-06	1.92E-04
+regulation of neuron differentiation (GO:0045664)	85	10	1.49	+	6.71	5.60E-06	4.89E-04
+cell-cell junction assembly (GO:0007043)	52	6	.91	+	6.58	4.77E-04	1.58E-02
+regulation of anatomical structure morphogenesis (GO:0022603)	117	13	2.05	+	6.34	4.04E-07	8.02E-05
+axon guidance (GO:0007411)	104	11	1.82	+	6.03	4.90E-06	4.65E-04
+neuron projection guidance (GO:0097485)	104	11	1.82	+	6.03	4.90E-06	4.45E-04
+positive regulation of cell differentiation (GO:0045597)	67	7	1.17	+	5.96	2.84E-04	1.13E-02
+regulation of cell adhesion (GO:0030155)	68	7	1.19	+	5.87	3.09E-04	1.20E-02
+positive regulation of cellular component organization (GO:0051130)	139	14	2.44	+	5.75	4.35E-07	7.90E-05
+regulation of cell migration (GO:0030334)	111	11	1.95	+	5.65	8.68E-06	7.29E-04
+positive regulation of developmental process (GO:0051094)	92	9	1.61	+	5.58	6.27E-05	3.26E-03
+extracellular matrix organization (GO:0030198)	116	11	2.03	+	5.41	1.27E-05	9.27E-04
+extracellular structure organization (GO:0043062)	117	11	2.05	+	5.36	1.37E-05	9.36E-04
+cell-cell junction organization (GO:0045216)	64	6	1.12	+	5.35	1.30E-03	3.94E-02
+regulation of cell motility (GO:2000145)	118	11	2.07	+	5.32	1.48E-05	9.78E-04
+regulation of neurogenesis (GO:0050767)	108	10	1.89	+	5.28	3.81E-05	2.13E-03
+regulation of locomotion (GO:0040012)	123	11	2.16	+	5.10	2.12E-05	1.36E-03
+regulation of cellular component movement (GO:0051270)	125	11	2.19	+	5.02	2.43E-05	1.47E-03
+cell migration (GO:0016477)	263	23	4.61	+	4.99	1.07E-09	2.35E-06
+regulation of nervous system development (GO:0051960)	118	10	2.07	+	4.83	7.62E-05	3.61E-03
+regulation of cell development (GO:0060284)	121	10	2.12	+	4.71	9.26E-05	4.21E-03
+axonogenesis (GO:0007409)	140	11	2.45	+	4.48	6.38E-05	3.09E-03
+axon development (GO:0061564)	143	11	2.51	+	4.39	7.62E-05	3.54E-03
+tissue development (GO:0009888)	157	12	2.75	+	4.36	3.84E-05	2.09E-03
+regulation of GTPase activity (GO:0043087)	118	9	2.07	+	4.35	3.60E-04	1.35E-02
+positive regulation of multicellular organismal process (GO:0051240)	118	9	2.07	+	4.35	3.60E-04	1.33E-02
+localization of cell (GO:0051674)	304	23	5.33	+	4.32	1.39E-08	1.51E-05
+cell motility (GO:0048870)	304	23	5.33	+	4.32	1.39E-08	1.01E-05
+cell morphogenesis involved in differentiation (GO:0000904)	178	13	3.12	+	4.17	2.87E-05	1.69E-03
+cell morphogenesis involved in neuron differentiation (GO:0048667)	158	11	2.77	+	3.97	1.74E-04	7.60E-03
+cell morphogenesis (GO:0000902)	241	16	4.22	+	3.79	1.08E-05	8.44E-04
+regulation of cell differentiation (GO:0045595)	167	11	2.93	+	3.76	2.74E-04	1.11E-02
+cell adhesion (GO:0007155)	366	24	6.42	+	3.74	8.53E-08	3.10E-05
+biological adhesion (GO:0022610)	366	24	6.42	+	3.74	8.53E-08	2.66E-05
+regulation of multicellular organismal development (GO:2000026)	187	12	3.28	+	3.66	1.83E-04	7.84E-03
+locomotion (GO:0040011)	384	24	6.73	+	3.57	1.96E-07	4.76E-05
+taxis (GO:0042330)	176	11	3.09	+	3.57	4.17E-04	1.49E-02
+chemotaxis (GO:0006935)	176	11	3.09	+	3.57	4.17E-04	1.47E-02
+regulation of developmental process (GO:0050793)	241	15	4.22	+	3.55	4.11E-05	2.19E-03
+neuron projection morphogenesis (GO:0048812)	177	11	3.10	+	3.55	4.36E-04	1.51E-02
+cell projection morphogenesis (GO:0048858)	178	11	3.12	+	3.53	4.56E-04	1.55E-02
+plasma membrane bounded cell projection morphogenesis (GO:0120039)	178	11	3.12	+	3.53	4.56E-04	1.53E-02
+cell part morphogenesis (GO:0032990)	180	11	3.16	+	3.49	4.98E-04	1.62E-02
+cellular component morphogenesis (GO:0032989)	204	11	3.58	+	3.08	1.32E-03	3.93E-02
+movement of cell or subcellular component (GO:0006928)	595	32	10.43	+	3.07	4.92E-08	2.68E-05
+regulation of hydrolase activity (GO:0051336)	280	15	4.91	+	3.06	2.00E-04	8.38E-03
+regulation of cellular component organization (GO:0051128)	410	20	7.19	+	2.78	6.30E-05	3.12E-03
+regulation of multicellular organismal process (GO:0051239)	329	16	5.77	+	2.77	3.48E-04	1.33E-02
+regulation of localization (GO:0032879)	422	19	7.40	+	2.57	2.55E-04	1.05E-02
+anatomical structure morphogenesis (GO:0009653)	492	21	8.62	+	2.44	3.66E-04	1.33E-02
+regulation of catalytic activity (GO:0050790)	646	26	11.32	+	2.30	1.21E-04	5.40E-03
+regulation of molecular function (GO:0065009)	806	31	14.13	+	2.19	6.28E-05	3.19E-03
+positive regulation of cellular process (GO:0048522)	1295	40	22.70	+	1.76	6.62E-04	2.06E-02
+positive regulation of biological process (GO:0048518)	1455	44	25.50	+	1.73	5.92E-04	1.87E-02
+cellular component organization (GO:0016043)	2624	79	45.99	+	1.72	1.67E-06	2.03E-04
+cellular component organization or biogenesis (GO:0071840)	2750	79	48.20	+	1.64	1.15E-05	8.62E-04

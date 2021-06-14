@@ -1,0 +1,72 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IRF6	interferon regulatory factor 6 [Source:HGNC Symbol;Acc:HGNC:6121]	2	4.569709300994873	0.05634902	Yes	
+row_1	IFI6	interferon alpha inducible protein 6 [Source:HGNC Symbol;Acc:HGNC:4054]	102	3.439310312271118	0.09624616	Yes	
+row_2	MX1	MX dynamin like GTPase 1 [Source:HGNC Symbol;Acc:HGNC:7532]	138	3.1930606365203857	0.13475364	Yes	
+row_3	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	200	3.057419776916504	0.17091684	Yes	
+row_4	OAS1	2'-5'-oligoadenylate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:8086]	242	2.9127743244171143	0.20581031	Yes	
+row_5	MX2	MX dynamin like GTPase 2 [Source:HGNC Symbol;Acc:HGNC:7533]	253	2.8454365730285645	0.2406717	Yes	
+row_6	IFITM1	interferon induced transmembrane protein 1 [Source:HGNC Symbol;Acc:HGNC:5412]	264	2.7938568592071533	0.27489647	Yes	
+row_7	ISG20	interferon stimulated exonuclease gene 20 [Source:HGNC Symbol;Acc:HGNC:6130]	283	2.7365469932556152	0.30820772	Yes	
+row_8	USP18	ubiquitin specific peptidase 18 [Source:HGNC Symbol;Acc:HGNC:12616]	300	2.6715712547302246	0.34076855	Yes	
+row_9	RSAD2	radical S-adenosyl methionine domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30908]	311	2.645613670349121	0.37316367	Yes	
+row_10	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	344	2.554931163787842	0.4038725	Yes	
+row_11	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	345	2.548173666000366	0.43532273	Yes	
+row_12	OASL	2'-5'-oligoadenylate synthetase like [Source:HGNC Symbol;Acc:HGNC:8090]	348	2.547271251678467	0.4667103	Yes	
+row_13	IFI27	interferon alpha inducible protein 27 [Source:HGNC Symbol;Acc:HGNC:5397]	350	2.5426740646362305	0.49806687	Yes	
+row_14	IRF9	interferon regulatory factor 9 [Source:HGNC Symbol;Acc:HGNC:6131]	360	2.5012478828430176	0.52870595	Yes	
+row_15	OAS3	2'-5'-oligoadenylate synthetase 3 [Source:HGNC Symbol;Acc:HGNC:8088]	742	2.1623997688293457	0.54557455	Yes	
+row_16	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	789	2.0837268829345703	0.5701068	Yes	
+row_17	IFIT2	interferon induced protein with tetratricopeptide repeats 2 [Source:HGNC Symbol;Acc:HGNC:5409]	832	2.010331153869629	0.5938363	Yes	
+row_18	IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	914	1.9352343082427979	0.61563367	Yes	
+row_19	IFIT1	interferon induced protein with tetratricopeptide repeats 1 [Source:HGNC Symbol;Acc:HGNC:5407]	940	1.9135760068893433	0.63860714	Yes	
+row_20	OAS2	2'-5'-oligoadenylate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:8087]	1101	1.7449313402175903	0.6560195	Yes	
+row_21	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	1141	1.7066831588745117	0.6760786	Yes	
+row_22	HLA-H	major histocompatibility complex, class I, H (pseudogene) [Source:HGNC Symbol;Acc:HGNC:4965]	1276	1.6633884906768799	0.69315475	Yes	
+row_23	PTPN6	protein tyrosine phosphatase non-receptor type 6 [Source:HGNC Symbol;Acc:HGNC:9658]	1279	1.6621217727661133	0.71361756	Yes	
+row_24	XAF1	XIAP associated factor 1 [Source:HGNC Symbol;Acc:HGNC:30932]	1407	1.55430006980896	0.7295277	Yes	
+row_25	IFIT3	interferon induced protein with tetratricopeptide repeats 3 [Source:HGNC Symbol;Acc:HGNC:5411]	1555	1.5153053998947144	0.74444103	Yes	
+row_26	STAT2	signal transducer and activator of transcription 2 [Source:HGNC Symbol;Acc:HGNC:11363]	1696	1.4365265369415283	0.7585625	Yes	
+row_27	IRF5	interferon regulatory factor 5 [Source:HGNC Symbol;Acc:HGNC:6120]	1906	1.3211939334869385	0.769482	Yes	
+row_28	IFITM3	interferon induced transmembrane protein 3 [Source:HGNC Symbol;Acc:HGNC:5414]	2362	1.146116852760315	0.7719	Yes	
+row_29	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	2837	1.0104411840438843	0.7721537	Yes	
+row_30	IFI35	interferon induced protein 35 [Source:HGNC Symbol;Acc:HGNC:5399]	3022	0.9568993449211121	0.77922136	Yes	
+row_31	BST2	bone marrow stromal cell antigen 2 [Source:HGNC Symbol;Acc:HGNC:1119]	3173	0.9214420318603516	0.7867278	Yes	
+row_32	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	3490	0.8566232919692993	0.7891555	Yes	
+row_33	IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	3638	0.8239075541496277	0.7955354	Yes	
+row_34	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	3971	0.7576203346252441	0.7963288	Yes	
+row_35	IRF3	interferon regulatory factor 3 [Source:HGNC Symbol;Acc:HGNC:6118]	4271	0.7055487632751465	0.7973301	Yes	
+row_36	GBP2	guanylate binding protein 2 [Source:HGNC Symbol;Acc:HGNC:4183]	4280	0.7030335664749146	0.8058009	Yes	
+row_37	IRF4	interferon regulatory factor 4 [Source:HGNC Symbol;Acc:HGNC:6119]	5166	0.6060828566551208	0.7904703	No	
+row_38	ADAR	adenosine deaminase RNA specific [Source:HGNC Symbol;Acc:HGNC:225]	5365	0.5895789861679077	0.79264355	No	
+row_39	IRF2	interferon regulatory factor 2 [Source:HGNC Symbol;Acc:HGNC:6117]	5429	0.5864561796188354	0.79825795	No	
+row_40	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	5801	0.5414800643920898	0.79537845	No	
+row_41	TYK2	tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:12440]	8879	0.3794472813606262	0.7207514	No	
+row_42	SOCS3	suppressor of cytokine signaling 3 [Source:HGNC Symbol;Acc:HGNC:19391]	9949	0.28994861245155334	0.69677633	No	
+row_43	IFIT5	interferon induced protein with tetratricopeptide repeats 5 [Source:HGNC Symbol;Acc:HGNC:13328]	11046	0.21130864322185516	0.67113477	No	
+row_44	IP6K2	inositol hexakisphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:17313]	11613	0.1617681235074997	0.65854263	No	
+row_45	JAK1	Janus kinase 1 [Source:HGNC Symbol;Acc:HGNC:6190]	11925	0.14037400484085083	0.65225905	No	
+row_46	IFITM2	interferon induced transmembrane protein 2 [Source:HGNC Symbol;Acc:HGNC:5413]	13442	0.030143652111291885	0.6135559	No	
+row_47	PTPN1	protein tyrosine phosphatase non-receptor type 1 [Source:HGNC Symbol;Acc:HGNC:9642]	13842	9.032422676682472E-4	0.60328275	No	
+row_48	IFNA13	interferon alpha 13 [Source:HGNC Symbol;Acc:HGNC:5419]	15355	0.0	0.56431067	No	
+row_49	IFNA14	interferon alpha 14 [Source:HGNC Symbol;Acc:HGNC:5420]	15357	0.0	0.5642849	No	
+row_50	IFNA16	interferon alpha 16 [Source:HGNC Symbol;Acc:HGNC:5421]	15358	0.0	0.5642849	No	
+row_51	IFNA17	interferon alpha 17 [Source:HGNC Symbol;Acc:HGNC:5422]	15359	0.0	0.5642849	No	
+row_52	IFNA10	interferon alpha 10 [Source:HGNC Symbol;Acc:HGNC:5418]	15366	0.0	0.56413025	No	
+row_53	IFNA21	interferon alpha 21 [Source:HGNC Symbol;Acc:HGNC:5424]	15371	0.0	0.56402713	No	
+row_54	IRF8	interferon regulatory factor 8 [Source:HGNC Symbol;Acc:HGNC:5358]	19226	0.0	0.46468955	No	
+row_55	IFNA5	interferon alpha 5 [Source:HGNC Symbol;Acc:HGNC:5426]	22642	0.0	0.3766673	No	
+row_56	IFNA4	interferon alpha 4 [Source:HGNC Symbol;Acc:HGNC:5425]	22643	0.0	0.3766673	No	
+row_57	IFNA7	interferon alpha 7 [Source:HGNC Symbol;Acc:HGNC:5428]	22644	0.0	0.3766673	No	
+row_58	IFNA6	interferon alpha 6 [Source:HGNC Symbol;Acc:HGNC:5427]	22645	0.0	0.3766673	No	
+row_59	IFNA1	interferon alpha 1 [Source:HGNC Symbol;Acc:HGNC:5417]	22646	0.0	0.3766673	No	
+row_60	IFNA2	interferon alpha 2 [Source:HGNC Symbol;Acc:HGNC:5423]	22647	0.0	0.3766673	No	
+row_61	IFNA8	interferon alpha 8 [Source:HGNC Symbol;Acc:HGNC:5429]	22648	0.0	0.3766673	No	
+row_62	IFNB1	interferon beta 1 [Source:HGNC Symbol;Acc:HGNC:5434]	22658	0.0	0.3764353	No	
+row_63	SAMHD1	SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:15925]	26576	-0.029406778514385223	0.27583686	No	
+row_64	RNASEL	ribonuclease L [Source:HGNC Symbol;Acc:HGNC:10050]	27490	-0.08727537840604782	0.25338128	No	
+row_65	PTPN11	protein tyrosine phosphatase non-receptor type 11 [Source:HGNC Symbol;Acc:HGNC:9644]	27970	-0.11414787173271179	0.2424438	No	
+row_66	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	28104	-0.12093611806631088	0.24050833	No	
+row_67	SOCS1	suppressor of cytokine signaling 1 [Source:HGNC Symbol;Acc:HGNC:19383]	31806	-0.3727964162826538	0.14971551	No	
+row_68	IFNAR2	interferon alpha and beta receptor subunit 2 [Source:HGNC Symbol;Acc:HGNC:5433]	33211	-0.5100844502449036	0.11982274	No	
+row_69	IFNAR1	interferon alpha and beta receptor subunit 1 [Source:HGNC Symbol;Acc:HGNC:5432]	36292	-0.8176944851875305	0.050527364	No	
+row_70	ABCE1	ATP binding cassette subfamily E member 1 [Source:HGNC Symbol;Acc:HGNC:69]	37938	-1.281614899635315	0.023945212	No	

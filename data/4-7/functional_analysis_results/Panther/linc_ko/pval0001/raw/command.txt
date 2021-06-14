@@ -1,0 +1,6 @@
+lorenzo@haswell [17:09:25] [~/univ/lab2/05-03/LINC01605ko/Deseq2+Panther/Panther-results] 
+-> % cat BP.txt | awk -v OFS="\t" '{ if (($7+0) < 1E-3) { print } }' | grep 'GO:' > ../../../../05-10/Panther/linc_ko/pval0001/raw/BP.txt
+lorenzo@haswell [17:10:00] [~/univ/lab2/05-03/LINC01605ko/Deseq2+Panther/Panther-results] 
+-> % cat CC.txt | awk -v OFS="\t" '{ if (($7+0) < 1E-3) { print } }' | grep 'GO:' > ../../../../05-10/Panther/linc_ko/pval0001/raw/CC.txt
+lorenzo@haswell [17:10:07] [~/univ/lab2/05-03/LINC01605ko/Deseq2+Panther/Panther-results] 
+-> % cat MF.txt | awk -v OFS="\t" '{ if (($7+0) < 1E-3) { print } }' | grep 'GO:' > ../../../../05-10/Panther/linc_ko/pval0001/raw/MF.txt

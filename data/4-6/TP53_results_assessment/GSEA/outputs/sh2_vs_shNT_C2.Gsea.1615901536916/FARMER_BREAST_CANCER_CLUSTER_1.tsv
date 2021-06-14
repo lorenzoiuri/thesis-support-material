@@ -1,0 +1,49 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IFI6	interferon alpha inducible protein 6 [Source:HGNC Symbol;Acc:HGNC:4054]	102	3.439310312271118	0.07050607	Yes	
+row_1	CD38	CD38 molecule [Source:HGNC Symbol;Acc:HGNC:1667]	115	3.3582663536071777	0.14160722	Yes	
+row_2	MX1	MX dynamin like GTPase 1 [Source:HGNC Symbol;Acc:HGNC:7532]	138	3.1930606365203857	0.20893782	Yes	
+row_3	OAS1	2'-5'-oligoadenylate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:8086]	242	2.9127743244171143	0.26822186	Yes	
+row_4	RSAD2	radical S-adenosyl methionine domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30908]	311	2.645613670349121	0.32272658	Yes	
+row_5	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	344	2.554931163787842	0.3762304	Yes	
+row_6	OASL	2'-5'-oligoadenylate synthetase like [Source:HGNC Symbol;Acc:HGNC:8090]	348	2.547271251678467	0.43031836	Yes	
+row_7	OAS3	2'-5'-oligoadenylate synthetase 3 [Source:HGNC Symbol;Acc:HGNC:8088]	742	2.1623997688293457	0.46617603	Yes	
+row_8	CD3D	CD3d molecule [Source:HGNC Symbol;Acc:HGNC:1673]	835	2.000094413757324	0.5063362	Yes	
+row_9	IFIT1	interferon induced protein with tetratricopeptide repeats 1 [Source:HGNC Symbol;Acc:HGNC:5407]	940	1.9135760068893433	0.54434747	Yes	
+row_10	OAS2	2'-5'-oligoadenylate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:8087]	1101	1.7449313402175903	0.5773302	Yes	
+row_11	HERC6	HECT and RLD domain containing E3 ubiquitin protein ligase family member 6 [Source:HGNC Symbol;Acc:HGNC:26072]	1244	1.679848313331604	0.6093926	Yes	
+row_12	IFI44L	interferon induced protein 44 like [Source:HGNC Symbol;Acc:HGNC:17817]	1320	1.633937120437622	0.6422047	Yes	
+row_13	TRBC2	T cell receptor beta constant 2 [Source:HGNC Symbol;Acc:HGNC:12157]	1328	1.6275945901870728	0.6766336	Yes	
+row_14	XAF1	XIAP associated factor 1 [Source:HGNC Symbol;Acc:HGNC:30932]	1407	1.55430006980896	0.707675	Yes	
+row_15	IFIT3	interferon induced protein with tetratricopeptide repeats 3 [Source:HGNC Symbol;Acc:HGNC:5411]	1555	1.5153053998947144	0.7361098	Yes	
+row_16	HERC5	HECT and RLD domain containing E3 ubiquitin protein ligase 5 [Source:HGNC Symbol;Acc:HGNC:24368]	1784	1.3929834365844727	0.75985694	Yes	
+row_17	ITK	IL2 inducible T cell kinase [Source:HGNC Symbol;Acc:HGNC:6171]	1988	1.275320053100586	0.7817461	Yes	
+row_18	IFI44	interferon induced protein 44 [Source:HGNC Symbol;Acc:HGNC:16938]	2428	1.1183003187179565	0.7942171	Yes	
+row_19	MZB1	marginal zone B and B1 cell specific protein [Source:HGNC Symbol;Acc:HGNC:30125]	2445	1.1108366250991821	0.8174258	Yes	
+row_20	LCK	LCK proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6524]	2527	1.0857510566711426	0.83842665	Yes	
+row_21	GZMA	granzyme A [Source:HGNC Symbol;Acc:HGNC:4708]	5020	0.6103398203849792	0.78721124	No	
+row_22	CYTIP	cytohesin 1 interacting protein [Source:HGNC Symbol;Acc:HGNC:9506]	5576	0.5684558749198914	0.7850021	No	
+row_23	SH2D1A	SH2 domain containing 1A [Source:HGNC Symbol;Acc:HGNC:10820]	5835	0.5368697047233582	0.7897721	No	
+row_24	GMFG	glia maturation factor gamma [Source:HGNC Symbol;Acc:HGNC:4374]	8298	0.4419828951358795	0.73574954	No	
+row_25	CD8A	CD8a molecule [Source:HGNC Symbol;Acc:HGNC:1706]	8392	0.43262526392936707	0.7425532	No	
+row_26	GPR18	G protein-coupled receptor 18 [Source:HGNC Symbol;Acc:HGNC:4472]	8666	0.40030816197395325	0.7440329	No	
+row_27	FKBP11	FKBP prolyl isomerase 11 [Source:HGNC Symbol;Acc:HGNC:18624]	9014	0.3688213527202606	0.74293685	No	
+row_28	CCR2	C-C motif chemokine receptor 2 [Source:HGNC Symbol;Acc:HGNC:1603]	10897	0.22161881625652313	0.69916916	No	
+row_29	IL10RA	interleukin 10 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:5964]	13063	0.060312483459711075	0.64468145	No	
+row_30	CD2	CD2 molecule [Source:HGNC Symbol;Acc:HGNC:1639]	13975	0.0	0.62121415	No	
+row_31	IGLV2-14	immunoglobulin lambda variable 2-14 [Source:HGNC Symbol;Acc:HGNC:5888]	14226	0.0	0.61477417	No	
+row_32	IGHA1	immunoglobulin heavy constant alpha 1 [Source:HGNC Symbol;Acc:HGNC:5478]	14740	0.0	0.60155934	No	
+row_33	IGHG1	immunoglobulin heavy constant gamma 1 (G1m marker) [Source:HGNC Symbol;Acc:HGNC:5525]	14768	0.0	0.6008638	No	
+row_34	IGLC2	immunoglobulin lambda constant 2 [Source:HGNC Symbol;Acc:HGNC:5856]	15101	0.0	0.59231156	No	
+row_35	IGHM	immunoglobulin heavy constant mu [Source:HGNC Symbol;Acc:HGNC:5541]	17019	0.0	0.54292977	No	
+row_36	IGKV1D-13	immunoglobulin kappa variable 1D-13 [Source:HGNC Symbol;Acc:HGNC:5747]	19858	0.0	0.46982315	No	
+row_37	IGLL3P	immunoglobulin lambda like polypeptide 3, pseudogene [Source:HGNC Symbol;Acc:HGNC:5872]	19929	0.0	0.46801993	No	
+row_38	CD48	CD48 molecule [Source:HGNC Symbol;Acc:HGNC:1683]	19951	0.0	0.467479	No	
+row_39	LCP2	lymphocyte cytosolic protein 2 [Source:HGNC Symbol;Acc:HGNC:6529]	20962	0.0	0.44146147	No	
+row_40	GZMK	granzyme K [Source:HGNC Symbol;Acc:HGNC:4711]	21662	0.0	0.4234553	No	
+row_41	GIMAP4	GTPase, IMAP family member 4 [Source:HGNC Symbol;Acc:HGNC:21872]	22889	0.0	0.39187363	No	
+row_42	IGKV3-20	immunoglobulin kappa variable 3-20 [Source:HGNC Symbol;Acc:HGNC:5817]	22921	0.0	0.39107507	No	
+row_43	POU2AF1	POU class 2 homeobox associating factor 1 [Source:HGNC Symbol;Acc:HGNC:9211]	25624	0.0	0.32147178	No	
+row_44	TNFRSF17	TNF receptor superfamily member 17 [Source:HGNC Symbol;Acc:HGNC:11913]	28227	-0.12093611806631088	0.25701606	No	
+row_45	JCHAIN	joining chain of multimeric IgA and IgM [Source:HGNC Symbol;Acc:HGNC:5713]	28243	-0.12093611806631088	0.25920126	No	
+row_46	GPR171	G protein-coupled receptor 171 [Source:HGNC Symbol;Acc:HGNC:30057]	30958	-0.31423836946487427	0.19597082	No	
+row_47	CCR5	C-C motif chemokine receptor 5 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:1606]	31691	-0.36393487453460693	0.18485327	No	

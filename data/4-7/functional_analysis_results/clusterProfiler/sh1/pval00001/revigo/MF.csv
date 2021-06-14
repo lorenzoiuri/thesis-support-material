@@ -1,0 +1,13 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0005201", "extracellular matrix structural constituent", 0.939, 2.126, -6.935, 2.233, 0.897, 0.000, -1, False
+"GO:0030020", "extracellular matrix structural constituent conferring tensile strength", 0.226, null, null, 1.623, 0.897, 0.584, 5201, True
+"GO:0005520", "insulin-like growth factor binding", 0.160, -2.882, 4.558, 1.477, 0.984, 0.000, -1, False
+"GO:0017154", "semaphorin receptor activity", 0.066, 6.198, -2.455, 1.114, 0.971, 0.000, -1, False
+"GO:0097110", "scaffold protein binding", 0.320, 2.648, 5.757, 1.771, 0.983, 0.010, -1, False
+"GO:0098632", "cell-cell adhesion mediator activity", 0.271, -5.503, -0.265, 1.699, 0.549, 0.011, -1, False
+"GO:0098631", "cell adhesion mediator activity", 0.320, null, null, 1.771, 0.594, 0.587, 98632, True
+"GO:0045296", "cadherin binding", 1.789, null, null, 2.512, 0.550, 0.701, 98632, True
+"GO:0005178", "integrin binding", 0.784, null, null, 2.155, 0.512, 0.772, 98632, True
+"GO:0098641", "cadherin binding involved in cell-cell adhesion", 0.099, null, null, 1.279, 0.571, 0.893, 98632, True
+"GO:0019838", "growth factor binding", 0.762, -3.286, -5.287, 2.143, 0.982, 0.012, -1, False
+"GO:0008083", "growth factor activity", 0.895, 6.338, 0.958, 2.212, 0.878, 0.150, -1, False

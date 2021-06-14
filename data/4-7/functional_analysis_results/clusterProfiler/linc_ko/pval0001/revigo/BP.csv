@@ -1,0 +1,24 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0007059", "chromosome segregation", 1.564, 0.371, -5.135, 2.447, 0.996, 0.000, -1, False
+"GO:0050886", "endocrine process", 0.252, -0.328, 8.956, 1.663, 1.000, 0.000, -1, False
+"GO:0051983", "regulation of chromosome segregation", 0.493, 5.866, -1.965, 1.949, 0.973, 0.000, -1, False
+"GO:0034502", "protein localization to chromosome", 0.381, -5.594, 4.083, 1.839, 0.954, 0.004, -1, False
+"GO:0098813", "nuclear chromosome segregation", 1.234, -5.327, -2.509, 2.344, 0.623, 0.004, -1, False
+"GO:0051306", "mitotic sister chromatid separation", 0.017, null, null, 0.602, 0.620, 0.626, 98813, True
+"GO:0008608", "attachment of spindle microtubules to kinetochore", 0.129, null, null, 1.380, 0.666, 0.741, 98813, True
+"GO:0000070", "mitotic sister chromatid segregation", 0.650, null, null, 2.068, 0.523, 0.868, 98813, True
+"GO:0000819", "sister chromatid segregation", 0.807, null, null, 2.161, 0.583, 0.888, 98813, True
+"GO:0048285", "organelle fission", 1.918, 5.588, 4.497, 2.535, 0.872, 0.004, -1, False
+"GO:0051783", "regulation of nuclear division", 0.757, 0.244, -0.355, 2.134, 0.722, 0.033, -1, False
+"GO:0007088", "regulation of mitotic nuclear division", 0.611, null, null, 2.041, 0.603, 0.506, 51783, True
+"GO:1905818", "regulation of chromosome separation", 0.398, null, null, 1.857, 0.470, 0.571, 51783, True
+"GO:0007091", "metaphase/anaphase transition of mitotic cell cycle", 0.039, null, null, 0.903, 0.344, 0.791, 51783, True
+"GO:0044784", "metaphase/anaphase transition of cell cycle", 0.039, null, null, 0.903, 0.359, 0.791, 51783, True
+"GO:0033047", "regulation of mitotic sister chromatid segregation", 0.252, null, null, 1.663, 0.448, 0.919, 51783, True
+"GO:0030071", "regulation of mitotic metaphase/anaphase transition", 0.331, null, null, 1.778, 0.433, 0.941, 51783, True
+"GO:0033045", "regulation of sister chromatid segregation", 0.398, null, null, 1.857, 0.442, 0.956, 51783, True
+"GO:1902099", "regulation of metaphase/anaphase transition of cell cycle", 0.348, null, null, 1.799, 0.438, 0.968, 51783, True
+"GO:0010965", "regulation of mitotic sister chromatid separation", 0.359, null, null, 1.813, 0.468, 0.971, 51783, True
+"GO:0000280", "nuclear division", 1.755, 4.819, 5.655, 2.497, 0.745, 0.328, -1, False
+"GO:0140014", "mitotic nuclear division", 1.026, null, null, 2.265, 0.579, 0.900, 280, True
+"GO:0034501", "protein localization to kinetochore", 0.084, -5.158, 4.923, 1.204, 0.954, 0.479, -1, False

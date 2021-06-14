@@ -1,0 +1,59 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CCL5	C-C motif chemokine ligand 5 [Source:HGNC Symbol;Acc:HGNC:10632]	18	4.212600231170654	0.04252481	Yes	
+row_1	IL6	interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	27	4.014577865600586	0.08328652	Yes	
+row_2	MMP1	matrix metallopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:7155]	50	3.8717408180236816	0.12222987	Yes	
+row_3	SLPI	secretory leukocyte peptidase inhibitor [Source:HGNC Symbol;Acc:HGNC:11092]	51	3.8677873611450195	0.16169974	Yes	
+row_4	LCN2	lipocalin 2 [Source:HGNC Symbol;Acc:HGNC:6526]	65	3.7211103439331055	0.19933784	Yes	
+row_5	C3	complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	71	3.6319797039031982	0.23627251	Yes	
+row_6	TNFAIP3	TNF alpha induced protein 3 [Source:HGNC Symbol;Acc:HGNC:11896]	92	3.571800947189331	0.27220657	Yes	
+row_7	ICAM1	intercellular adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5344]	94	3.5525357723236084	0.30843362	Yes	
+row_8	IFI6	interferon alpha inducible protein 6 [Source:HGNC Symbol;Acc:HGNC:4054]	102	3.439310312271118	0.34335062	Yes	
+row_9	SOD2	superoxide dismutase 2 [Source:HGNC Symbol;Acc:HGNC:11180]	111	3.374764919281006	0.37758318	Yes	
+row_10	MX1	MX dynamin like GTPase 1 [Source:HGNC Symbol;Acc:HGNC:7532]	138	3.1930606365203857	0.4094977	Yes	
+row_11	PTGS2	prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	188	3.119262933731079	0.4400665	Yes	
+row_12	OAS1	2'-5'-oligoadenylate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:8086]	242	2.9127743244171143	0.46842504	Yes	
+row_13	MX2	MX dynamin like GTPase 2 [Source:HGNC Symbol;Acc:HGNC:7533]	253	2.8454365730285645	0.4972044	Yes	
+row_14	CXCL2	C-X-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:4603]	268	2.784642457962036	0.5252603	Yes	
+row_15	CSF2	colony stimulating factor 2 [Source:HGNC Symbol;Acc:HGNC:2434]	293	2.6913511753082275	0.5521065	Yes	
+row_16	MAGEA3	MAGE family member A3 [Source:HGNC Symbol;Acc:HGNC:6801]	305	2.6586084365844727	0.57895356	Yes	
+row_17	C1S	complement C1s [Source:HGNC Symbol;Acc:HGNC:1247]	330	2.581235408782959	0.60467607	Yes	
+row_18	IFIT2	interferon induced protein with tetratricopeptide repeats 2 [Source:HGNC Symbol;Acc:HGNC:5409]	832	2.010331153869629	0.612282	Yes	
+row_19	BIK	BCL2 interacting killer [Source:HGNC Symbol;Acc:HGNC:1051]	849	1.9855848550796509	0.6321322	Yes	
+row_20	IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	914	1.9352343082427979	0.6502317	Yes	
+row_21	IFIT1	interferon induced protein with tetratricopeptide repeats 1 [Source:HGNC Symbol;Acc:HGNC:5407]	940	1.9135760068893433	0.6691152	Yes	
+row_22	SERPINB2	serpin family B member 2 [Source:HGNC Symbol;Acc:HGNC:8584]	1031	1.814788579940796	0.68531567	Yes	
+row_23	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	1067	1.7760224342346191	0.7025377	Yes	
+row_24	OAS2	2'-5'-oligoadenylate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:8087]	1101	1.7449313402175903	0.71949404	Yes	
+row_25	KRT17	keratin 17 [Source:HGNC Symbol;Acc:HGNC:6427]	1246	1.6788158416748047	0.7329156	Yes	
+row_26	IFI44L	interferon induced protein 44 like [Source:HGNC Symbol;Acc:HGNC:17817]	1320	1.633937120437622	0.7477086	Yes	
+row_27	XAF1	XIAP associated factor 1 [Source:HGNC Symbol;Acc:HGNC:30932]	1407	1.55430006980896	0.76135397	Yes	
+row_28	IFIT3	interferon induced protein with tetratricopeptide repeats 3 [Source:HGNC Symbol;Acc:HGNC:5411]	1555	1.5153053998947144	0.7730296	Yes	
+row_29	TNFSF10	TNF superfamily member 10 [Source:HGNC Symbol;Acc:HGNC:11925]	1739	1.4117108583450317	0.7827205	Yes	
+row_30	CCL20	C-C motif chemokine ligand 20 [Source:HGNC Symbol;Acc:HGNC:10619]	2197	1.2028003931045532	0.78321946	Yes	
+row_31	IFI44	interferon induced protein 44 [Source:HGNC Symbol;Acc:HGNC:16938]	2428	1.1183003187179565	0.78870517	Yes	
+row_32	SAA1	serum amyloid A1 [Source:HGNC Symbol;Acc:HGNC:10513]	2484	1.0975728034973145	0.7984885	Yes	
+row_33	THBD	thrombomodulin [Source:HGNC Symbol;Acc:HGNC:11784]	2742	1.029447317123413	0.80237174	Yes	
+row_34	STC1	stanniocalcin 1 [Source:HGNC Symbol;Acc:HGNC:11373]	2852	1.0045888423919678	0.8098148	Yes	
+row_35	STX3	syntaxin 3 [Source:HGNC Symbol;Acc:HGNC:11438]	3475	0.8604488372802734	0.8025687	No	
+row_36	H19	H19 imprinted maternally expressed transcript [Source:HGNC Symbol;Acc:HGNC:4713]	3684	0.8134900331497192	0.8055107	No	
+row_37	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	3971	0.7576203346252441	0.8058728	No	
+row_38	MAGEA4	MAGE family member A4 [Source:HGNC Symbol;Acc:HGNC:6802]	7398	0.5303168296813965	0.72300833	No	
+row_39	PI3	peptidase inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:8947]	7442	0.5284425020217896	0.727293	No	
+row_40	HBEGF	heparin binding EGF like growth factor [Source:HGNC Symbol;Acc:HGNC:3059]	7838	0.48925402760505676	0.72210795	No	
+row_41	SP100	SP100 nuclear antigen [Source:HGNC Symbol;Acc:HGNC:11206]	9701	0.3150937259197235	0.6773461	No	
+row_42	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	10581	0.237928569316864	0.6571253	No	
+row_43	MAGEA12	MAGE family member A12 [Source:HGNC Symbol;Acc:HGNC:6799]	10829	0.22552350163459778	0.6530624	No	
+row_44	CXCL6	C-X-C motif chemokine ligand 6 [Source:HGNC Symbol;Acc:HGNC:10643]	16105	0.0	0.5171438	No	
+row_45	CXCL5	C-X-C motif chemokine ligand 5 [Source:HGNC Symbol;Acc:HGNC:10642]	16114	0.0	0.5169377	No	
+row_46	H2AC18	H2A clustered histone 18 [Source:HGNC Symbol;Acc:HGNC:4736]	19251	0.0	0.43613377	No	
+row_47	CTAG1B	cancer/testis antigen 1B [Source:HGNC Symbol;Acc:HGNC:2491]	19592	0.0	0.42737314	No	
+row_48	MAGEA2	MAGE family member A2 [Source:HGNC Symbol;Acc:HGNC:6800]	25745	0.0	0.2688573	No	
+row_49	SSX2	SSX family member 2 [Source:HGNC Symbol;Acc:HGNC:11336]	26017	0.0	0.26187456	No	
+row_50	S100A4	S100 calcium binding protein A4 [Source:HGNC Symbol;Acc:HGNC:10494]	27201	-0.07619419693946838	0.23217027	No	
+row_51	UCHL1	ubiquitin C-terminal hydrolase L1 [Source:HGNC Symbol;Acc:HGNC:12513]	31319	-0.3374030888080597	0.12953249	No	
+row_52	IL13RA2	interleukin 13 receptor subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:5975]	33892	-0.5653150081634521	0.069029815	No	
+row_53	GAGE1	G antigen 1 [Source:HGNC Symbol;Acc:HGNC:4098]	34235	-0.5774803161621094	0.06611071	No	
+row_54	DHRS2	dehydrogenase/reductase 2 [Source:HGNC Symbol;Acc:HGNC:18349]	34772	-0.596533477306366	0.05838732	No	
+row_55	NT5E	5'-nucleotidase ecto [Source:HGNC Symbol;Acc:HGNC:8021]	37461	-1.0671842098236084	1.7190181E-5	No	
+row_56	H2AC6	H2A clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4733]	38252	-1.5039851665496826	-0.004990568	No	
+row_57	H2BC6	H2B clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4753]	38623	-2.0393543243408203	0.0062869457	No	

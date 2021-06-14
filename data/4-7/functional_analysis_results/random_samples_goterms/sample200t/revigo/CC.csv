@@ -1,0 +1,26 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0005648", "(obsolete) importin, beta-subunit", 0.495, 6.534, -0.277, 1.924, 1.000, 0.000, -1, False
+"GO:0097574", "lateral part of cell", 0.011, 5.315, 2.255, 0.477, 1.000, 0.000, -1, False
+"GO:1990037", "Lewy body core", 0.016, -1.028, 5.731, 0.602, 0.992, 0.000, -1, False
+"GO:0062039", "biofilm matrix", 1.138, -6.026, 3.384, 2.332, 0.981, 0.000, -1, False
+"GO:0044309", "neuron spine", 0.947, 3.720, -6.812, 2.253, 0.893, 0.000, -1, False
+"GO:0098871", "postsynaptic actin cytoskeleton", 0.027, 4.386, -3.394, 0.778, 0.927, 0.006, -1, False
+"GO:0005833", "hemoglobin complex", 0.058, -1.743, -0.272, 1.079, 0.898, 0.007, -1, False
+"GO:0070116", "organellar chromatophore thylakoid", 2.293, 2.079, 3.650, 2.635, 0.867, 0.031, -1, False
+"GO:0031410", "cytoplasmic vesicle", 12.778, null, null, 3.381, 0.861, 0.615, 70116, True
+"GO:0099503", "secretory vesicle", 5.355, null, null, 3.003, 0.871, 0.719, 70116, True
+"GO:0005971", "ribonucleoside-diphosphate reductase complex", 0.005, -5.862, -5.556, 0.301, 0.816, 0.106, -1, False
+"GO:0045248", "cytosolic oxoglutarate dehydrogenase complex", 0.058, null, null, 1.079, 0.766, 0.590, 5971, True
+"GO:0070355", "synaptotagmin-synaptobrevin 2-SNAP-25-syntaxin-1a-syntaxin-1b-Rab3a-complexin II complex", 0.017, -6.947, -0.202, 0.602, 0.866, 0.108, -1, False
+"GO:0031262", "Ndc80 complex", 0.021, -1.221, -8.243, 0.699, 0.888, 0.110, -1, False
+"GO:0098591", "external side of apical plasma membrane", 0.027, -3.820, 4.777, 0.778, 0.967, 0.115, -1, False
+"GO:0000315", "organellar large ribosomal subunit", 0.303, -1.168, -4.723, 1.763, 0.866, 0.132, -1, False
+"GO:0009515", "granal stacked thylakoid", 9.449, 2.524, 4.668, 3.250, 0.858, 0.241, -1, False
+"GO:0033113", "cyanelle membrane", 6.439, null, null, 3.084, 0.843, 1.102, 9515, True
+"GO:0031466", "Cul5-RING ubiquitin ligase complex", 0.032, -5.865, -4.341, 0.845, 0.810, 0.267, -1, False
+"GO:0098952", "intrinsic component of spine apparatus membrane", 0.005, 4.465, -5.063, 0.301, 0.854, 0.368, -1, False
+"GO:0009425", "bacterial-type flagellum basal body", 3.258, 2.497, -6.348, 2.787, 0.841, 0.459, -1, False
+"GO:0043005", "neuron projection", 7.030, null, null, 3.122, 0.884, 0.611, 9425, True
+"GO:0061695", "transferase complex, transferring phosphorus-containing groups", 1.377, -4.907, -4.107, 2.415, 0.765, 0.493, -1, False
+"GO:0048179", "activin receptor complex", 0.037, -6.114, -2.732, 0.903, 0.754, 0.500, -1, False
+"GO:0005942", "phosphatidylinositol 3-kinase complex", 0.154, null, null, 1.477, 0.753, 0.588, 48179, True

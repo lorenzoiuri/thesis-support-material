@@ -1,0 +1,91 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0001228", "DNA-binding transcription activator activity, RNA polymerase II-specific", 2.452, 1.147, 8.190, 2.648, 1.000, 0.000, -1, False
+"GO:0003775", "(obsolete) axonemal motor activity", 0.499, -0.094, 8.660, 1.924, 1.000, 0.000, -1, False
+"GO:0004088", "carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity", 0.011, -8.194, -1.391, 0.477, 0.872, 0.000, -1, False
+"GO:0005551", "(obsolete) ubiquitin", 0.499, -1.776, 8.619, 1.924, 1.000, 0.000, -1, False
+"GO:0008222", "(obsolete) tumor antigen", 0.499, -4.232, 7.874, 1.924, 1.000, 0.000, -1, False
+"GO:0008956", "(obsolete) peptidyl-dipeptidase Dcp activity", 0.499, 7.213, 2.089, 1.924, 1.000, 0.000, -1, False
+"GO:0009475", "(obsolete) high-molecular-weight cytochrome c (hexadecaheme)", 0.499, -2.940, 7.904, 1.924, 1.000, 0.000, -1, False
+"GO:0015026", "coreceptor activity", 0.265, 0.099, -3.554, 1.690, 1.000, 0.000, -1, False
+"GO:0015549", "carbonyl cyanide m-chlorophenylhydrazone transmembrane transporter activity", 0.163, -2.769, -5.814, 1.477, 0.981, 0.000, -1, False
+"GO:0015560", "(obsolete) L-idonate/D-gluconate:hydrogen symporter activity", 0.499, -0.969, 7.206, 1.924, 1.000, 0.000, -1, False
+"GO:0016674", "(obsolete) oxidoreductase activity, acting on sulfur group of donors, other acceptors", 0.499, 3.100, -2.382, 1.924, 1.000, 0.000, -1, False
+"GO:0017164", "(obsolete) nicotinic acetylcholine receptor-associated protein activity", 0.499, -0.654, 5.503, 1.924, 1.000, 0.000, -1, False
+"GO:0036106", "peroxisome membrane class-2 targeting sequence binding", 0.006, 5.858, -2.748, 0.301, 1.000, 0.000, -1, False
+"GO:0023025", "MHC class Ib protein complex binding", 0.022, 4.472, -0.549, 0.699, 1.000, 0.001, -1, False
+"GO:0008270", "zinc ion binding", 4.573, 2.532, 8.266, 2.919, 1.000, 0.002, -1, False
+"GO:0008097", "5S rRNA binding", 0.061, 6.684, -0.618, 1.079, 0.996, 0.002, -1, False
+"GO:0051019", "mitogen-activated protein kinase binding", 0.188, 0.609, -1.570, 1.544, 0.999, 0.002, -1, False
+"GO:0031709", "gastrin-releasing peptide receptor binding", 0.009, 6.811, 0.826, 0.301, 0.981, 0.008, -1, False
+"GO:0031842", "type 1 neuropeptide Y receptor binding", 0.188, null, null, 1.544, 0.981, 0.805, 31709, True
+"GO:0031208", "POZ domain binding", 0.017, 4.576, -4.304, 0.602, 0.990, 0.008, -1, False
+"GO:0019894", "kinesin binding", 0.215, 2.072, -0.168, 1.602, 0.999, 0.010, -1, False
+"GO:0042300", "beta-amyrin synthase activity", 0.006, 2.097, -5.670, 0.301, 0.843, 0.082, -1, False
+"GO:0102305", "(13E)-labda-7,13-dien-15-ol synthase activity", 0.006, -5.825, -2.869, 0.301, 0.831, 0.082, -1, False
+"GO:0047602", "acetoacetate decarboxylase activity", 0.008, -0.517, -6.150, 0.301, 0.849, 0.084, -1, False
+"GO:0050325", "tauropine dehydrogenase activity", 0.010, 3.916, 5.234, 0.301, 0.770, 0.085, -1, False
+"GO:0008907", "integrase activity", 0.076, -0.765, 1.372, 1.146, 0.855, 0.095, -1, False
+"GO:0003880", "protein C-terminal carboxyl O-methyltransferase activity", 0.011, -4.466, 3.524, 0.477, 0.819, 0.106, -1, False
+"GO:0042085", "5-methyltetrahydropteroyltri-L-glutamate-dependent methyltransferase activity", 0.175, null, null, 1.505, 0.796, 0.564, 3880, True
+"GO:0008301", "DNA binding, bending", 0.105, 6.454, -1.347, 1.301, 0.996, 0.166, -1, False
+"GO:0004574", "oligo-1,6-glucosidase activity", 0.006, -4.559, -3.508, 0.301, 0.793, 0.170, -1, False
+"GO:0102211", "unsaturated rhamnogalacturonyl hydrolase activity", 0.022, null, null, 0.602, 0.788, 0.567, 4574, True
+"GO:0033912", "2,6-beta-fructan 6-levanbiohydrolase activity", 0.022, null, null, 0.602, 0.788, 0.614, 4574, True
+"GO:0033943", "galactan 1,3-beta-galactosidase activity", 0.022, null, null, 0.699, 0.788, 0.614, 4574, True
+"GO:0008422", "beta-glucosidase activity", 0.033, null, null, 0.845, 0.775, 0.796, 4574, True
+"GO:0032450", "maltose alpha-glucosidase activity", 0.017, null, null, 0.602, 0.781, 0.849, 4574, True
+"GO:0017168", "5-oxoprolinase (ATP-hydrolyzing) activity", 0.006, -5.582, -3.846, 0.301, 0.814, 0.170, -1, False
+"GO:0018756", "ammeline aminohydrolase activity", 0.012, null, null, 0.477, 0.806, 0.522, 17168, True
+"GO:0050126", "N-carbamoylputrescine amidase activity", 0.015, null, null, 0.477, 0.801, 0.551, 17168, True
+"GO:0008953", "penicillin amidase activity", 0.015, null, null, 0.477, 0.801, 0.627, 17168, True
+"GO:0008777", "acetylornithine deacetylase activity", 0.018, null, null, 0.602, 0.799, 0.634, 17168, True
+"GO:0043915", "L-seryl-tRNA(Sec) kinase activity", 0.006, -6.738, 2.248, 0.301, 0.818, 0.190, -1, False
+"GO:0050200", "plasmalogen synthase activity", 0.011, -6.159, 4.573, 0.477, 0.814, 0.198, -1, False
+"GO:0047624", "adenosine-tetraphosphatase activity", 0.244, -3.894, -2.045, 1.653, 0.801, 0.210, -1, False
+"GO:0019789", "SUMO transferase activity", 0.105, -4.625, 2.767, 1.301, 0.802, 0.226, -1, False
+"GO:0102833", "sequoyitol galactinol:D-galactosylononitol galactosyltransferase activity", 0.069, -4.897, 4.175, 1.114, 0.799, 0.255, -1, False
+"GO:0047260", "alpha,alpha-trehalose-phosphate synthase (GDP-forming) activity", 0.069, null, null, 1.114, 0.799, 0.609, 102833, True
+"GO:0102587", "cyanidin 3-O-[2''-O-(2''-O-(sinapoyl) xylosyl) 6''-O-(p-O-(glucosyl)-p-coumaroyl) glucoside] 5-O-[6''-O-(malonyl) glucoside] sinapoylglucose glucosyltransferase activity", 0.069, null, null, 1.114, 0.799, 0.609, 102833, True
+"GO:0047355", "CDP-glycerol glycerophosphotransferase activity", 0.014, -6.697, 3.332, 0.477, 0.814, 0.305, -1, False
+"GO:0003991", "acetylglutamate kinase activity", 0.006, -6.834, 2.619, 0.301, 0.807, 0.311, -1, False
+"GO:0043744", "N2-acetyl-L-aminoadipate kinase activity", 0.007, null, null, 0.301, 0.805, 0.868, 3991, True
+"GO:0004252", "serine-type endopeptidase activity", 0.939, -3.771, -0.333, 2.233, 0.764, 0.312, -1, False
+"GO:0106345", "glyoxylate reductase activity", 0.006, 4.554, 5.164, 0.301, 0.757, 0.319, -1, False
+"GO:0047026", "androsterone dehydrogenase (A-specific) activity", 0.006, null, null, 0.301, 0.757, 0.507, 106345, True
+"GO:0016901", "oxidoreductase activity, acting on the CH-OH group of donors, quinone or similar compound as acceptor", 0.011, null, null, 0.477, 0.749, 0.517, 106345, True
+"GO:0102191", "4alpha-carboxy-5alpha-cholesta-7,24-dien-3beta-ol dehydrogenase/C4-decarboxylase activity", 0.015, null, null, 0.477, 0.744, 0.546, 106345, True
+"GO:0045552", "dihydrokaempferol 4-reductase activity", 0.015, null, null, 0.477, 0.744, 0.565, 106345, True
+"GO:0047565", "3-hydroxypropionate dehydrogenase (NAD+) activity", 0.015, null, null, 0.477, 0.744, 0.565, 106345, True
+"GO:0018488", "aryl-aldehyde oxidase activity", 0.017, 4.066, 4.132, 0.602, 0.764, 0.339, -1, False
+"GO:0047706", "biochanin-A reductase activity", 0.010, 4.191, 4.814, 0.301, 0.756, 0.340, -1, False
+"GO:0044535", "very-long-chain fatty acyl-CoA oxidase activity", 0.014, null, null, 0.477, 0.754, 0.632, 47706, True
+"GO:0018499", "cis-2,3-dihydrodiol DDT dehydrogenase activity", 0.010, null, null, 0.301, 0.756, 0.712, 47706, True
+"GO:0102734", "brassinolide synthase activity", 0.010, 4.563, 4.156, 0.301, 0.741, 0.340, -1, False
+"GO:0018653", "3-methyl-2-oxo-1,2-dihydroquinoline 6-monooxygenase activity", 0.010, null, null, 0.301, 0.741, 0.643, 102734, True
+"GO:0047717", "imidazoleacetate 4-monooxygenase activity", 0.010, null, null, 0.301, 0.741, 0.643, 102734, True
+"GO:0050183", "phosphatidylcholine 12-monooxygenase activity", 0.010, null, null, 0.301, 0.741, 0.643, 102734, True
+"GO:0051779", "gibberellin 12-aldehyde oxidase activity", 0.010, null, null, 0.301, 0.741, 0.643, 102734, True
+"GO:0010437", "9,10 (9', 10')-carotenoid-cleaving dioxygenase activity", 0.011, 4.701, 4.591, 0.477, 0.763, 0.341, -1, False
+"GO:0106155", "peptidyl-lysine 3-dioxygenase activity", 0.216, null, null, 1.602, 0.683, 0.691, 10437, True
+"GO:0050285", "sinapine esterase activity", 0.040, -5.142, -2.621, 0.903, 0.809, 0.342, -1, False
+"GO:0052739", "phosphatidylserine 1-acylhydrolase activity", 0.061, null, null, 1.079, 0.805, 0.629, 50285, True
+"GO:0008131", "primary amine oxidase activity", 0.033, 3.578, 4.631, 0.845, 0.755, 0.363, -1, False
+"GO:0050059", "lombricine kinase activity", 0.093, -5.945, 2.518, 1.230, 0.788, 0.364, -1, False
+"GO:1905060", "calcium:cation antiporter activity involved in regulation of postsynaptic cytosolic calcium ion concentration", 0.017, -3.108, -5.883, 0.602, 0.980, 0.368, -1, False
+"GO:1903264", "nitrate reductase activity involved in anaerobic electron transport chain", 0.116, 3.237, 4.153, 1.342, 0.736, 0.411, -1, False
+"GO:0036424", "L-phosphoserine phosphatase activity", 0.022, -5.694, -1.407, 0.699, 0.800, 0.415, -1, False
+"GO:0050699", "WW domain binding", 0.177, 4.736, -4.054, 1.519, 0.990, 0.421, -1, False
+"GO:0004683", "calmodulin-dependent protein kinase activity", 0.149, -5.490, 2.203, 1.447, 0.773, 0.452, -1, False
+"GO:0047848", "dephospho-[reductase kinase] kinase activity", 0.264, null, null, 1.681, 0.765, 0.536, 4683, True
+"GO:0003856", "3-dehydroquinate synthase activity", 0.006, -0.392, -6.381, 0.301, 0.840, 0.464, -1, False
+"GO:0046572", "versicolorin B synthase activity", 0.110, null, null, 1.322, 0.821, 0.650, 3856, True
+"GO:0034281", "ent-isokaurene synthase activity", 0.022, null, null, 0.699, 0.829, 0.924, 3856, True
+"GO:0034937", "perchlorate reductase activity", 0.188, 2.876, 4.144, 1.544, 0.729, 0.466, -1, False
+"GO:0018850", "chloromuconate cycloisomerase activity", 0.006, 2.355, -5.468, 0.301, 0.843, 0.472, -1, False
+"GO:0015607", "ABC-type fatty-acyl-CoA transporter activity", 0.006, -3.767, -4.402, 0.301, 0.820, 0.475, -1, False
+"GO:0004060", "arylamine N-acetyltransferase activity", 0.017, -5.863, 4.600, 0.602, 0.810, 0.483, -1, False
+"GO:0016411", "acylglycerol O-acyltransferase activity", 0.144, null, null, 1.431, 0.786, 0.565, 4060, True
+"GO:0016855", "racemase and epimerase activity, acting on amino acids and derivatives", 0.011, 2.012, -5.336, 0.477, 0.838, 0.489, -1, False
+"GO:0047614", "aconitate delta-isomerase activity", 0.013, null, null, 0.477, 0.833, 0.513, 16855, True
+"GO:0004667", "prostaglandin-D synthase activity", 0.017, null, null, 0.602, 0.831, 0.660, 16855, True
+"GO:0016756", "glutathione gamma-glutamylcysteinyltransferase activity", 0.025, -5.707, 3.971, 0.699, 0.800, 0.492, -1, False

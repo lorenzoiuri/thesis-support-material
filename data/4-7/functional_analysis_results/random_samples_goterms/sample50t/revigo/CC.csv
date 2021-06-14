@@ -1,0 +1,8 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0044453", "(obsolete) nuclear membrane part", 0.494, 3.751, -5.295, 1.924, 1.000, 0.000, -1, False
+"GO:0048788", "cytoskeleton of presynaptic active zone", 0.027, -2.464, -5.729, 0.778, 0.968, 0.000, -1, False
+"GO:0060418", "yolk plasma", 3.258, 3.014, 5.467, 2.787, 0.967, 0.030, -1, False
+"GO:0033115", "cyanelle thylakoid membrane", 3.825, 6.486, 0.294, 3.250, 0.931, 0.052, -1, False
+"GO:0062157", "mitochondrial ATP-gated potassium channel complex", 0.011, -3.205, 4.995, 0.477, 0.915, 0.052, -1, False
+"GO:1990508", "CKM complex", 0.029, -5.908, -0.528, 0.778, 0.775, 0.101, -1, False
+"GO:0005665", "RNA polymerase II, core complex", 0.080, null, null, 1.204, 0.772, 0.553, 1990508, True

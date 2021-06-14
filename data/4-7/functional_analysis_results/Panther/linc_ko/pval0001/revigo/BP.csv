@@ -1,0 +1,27 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0007017", "microtubule-based process", 4.290, -3.996, -7.732, 2.884, 0.994, 0.000, -1, False
+"GO:0042542", "response to hydrogen peroxide", 0.622, 0.279, 5.988, 2.049, 0.985, 0.000, -1, False
+"GO:0051179", "localization", 32.118, -3.675, 5.581, 3.758, 1.000, 0.000, -1, False
+"GO:0051983", "regulation of chromosome segregation", 0.493, 6.213, -0.968, 1.949, 0.990, 0.000, -1, False
+"GO:0034502", "protein localization to chromosome", 0.381, 3.086, -5.827, 1.839, 0.942, 0.004, -1, False
+"GO:0000280", "nuclear division", 1.755, -7.006, -2.717, 2.497, 0.790, 0.005, -1, False
+"GO:0140014", "mitotic nuclear division", 1.026, null, null, 2.265, 0.591, 0.900, 280, True
+"GO:1903047", "mitotic cell cycle process", 3.482, 0.932, -0.671, 2.794, 0.675, 0.005, -1, False
+"GO:0007052", "mitotic spindle organization", 0.521, null, null, 1.973, 0.615, 0.722, 1903047, True
+"GO:0000278", "mitotic cell cycle", 3.925, null, null, 2.846, 0.712, 0.722, 1903047, True
+"GO:1902850", "microtubule cytoskeleton organization involved in mitosis", 0.678, null, null, 2.086, 0.606, 0.745, 1903047, True
+"GO:0022402", "cell cycle process", 5.680, null, null, 3.006, 0.701, 0.780, 1903047, True
+"GO:0007049", "cell cycle", 7.592, -1.027, -8.205, 3.132, 0.993, 0.006, -1, False
+"GO:0071840", "cellular component organization or biogenesis", 32.472, -1.524, 2.759, 3.763, 0.991, 0.009, -1, False
+"GO:0030071", "regulation of mitotic metaphase/anaphase transition", 0.331, -6.541, 3.545, 1.778, 0.783, 0.031, -1, False
+"GO:0033045", "regulation of sister chromatid segregation", 0.398, null, null, 1.857, 0.783, 0.941, 30071, True
+"GO:1905818", "regulation of chromosome separation", 0.398, null, null, 1.857, 0.783, 0.956, 30071, True
+"GO:0010965", "regulation of mitotic sister chromatid separation", 0.359, null, null, 1.813, 0.782, 0.971, 30071, True
+"GO:0050906", "detection of stimulus involved in sensory perception", 3.101, 4.988, 2.189, 2.744, 0.983, 0.094, -1, False
+"GO:0051606", "detection of stimulus", 4.004, 3.381, 4.148, 2.854, 0.983, 0.120, -1, False
+"GO:0033036", "macromolecule localization", 14.029, 4.423, -4.689, 3.398, 0.970, 0.205, -1, False
+"GO:0016043", "cellular component organization", 31.373, -6.768, -1.504, 3.748, 0.847, 0.292, -1, False
+"GO:0048285", "organelle fission", 1.918, -5.750, -2.350, 2.535, 0.831, 0.328, -1, False
+"GO:0000226", "microtubule cytoskeleton organization", 2.994, -6.223, -3.247, 2.728, 0.738, 0.352, -1, False
+"GO:0007051", "spindle organization", 0.970, null, null, 2.241, 0.606, 0.740, 226, True
+"GO:0034501", "protein localization to kinetochore", 0.084, 2.546, -6.193, 1.204, 0.945, 0.479, -1, False

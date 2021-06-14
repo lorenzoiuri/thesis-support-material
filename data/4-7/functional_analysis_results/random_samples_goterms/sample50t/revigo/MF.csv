@@ -1,0 +1,14 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0008046", "axon guidance receptor activity", 0.044, 6.635, -0.802, 0.954, 1.000, 0.000, -1, False
+"GO:0015482", "(obsolete) voltage-gated anion channel porin activity", 0.494, 4.892, 2.903, 1.924, 1.000, 0.000, -1, False
+"GO:0019808", "polyamine binding", 0.017, -3.406, 4.575, 0.602, 1.000, 0.000, -1, False
+"GO:0043717", "2-hydroxyglutaryl-CoA dehydratase activity", 0.015, -6.219, 1.769, 0.477, 0.892, 0.000, -1, False
+"GO:0043763", "UTP:glucose-1-phosphate uridylyltransferase regulator activity", 0.727, 0.790, 1.259, 2.121, 1.000, 0.000, -1, False
+"GO:0003688", "DNA replication origin binding", 0.127, 0.842, 5.313, 1.380, 1.000, 0.001, -1, False
+"GO:0017103", "UTP:galactose-1-phosphate uridylyltransferase activity", 0.006, 4.412, -5.192, 0.301, 0.862, 0.083, -1, False
+"GO:0034575", "4-isopropylaniline dehydrogenase activity", 0.012, -5.848, -3.285, 0.477, 0.806, 0.087, -1, False
+"GO:0004252", "serine-type endopeptidase activity", 0.939, -2.255, -7.562, 2.233, 0.863, 0.115, -1, False
+"GO:0016767", "geranylgeranyl-diphosphate geranylgeranyltransferase activity", 0.011, 3.297, -7.188, 0.477, 0.858, 0.190, -1, False
+"GO:0033834", "kaempferol 3-O-galactosyltransferase activity", 0.059, 1.933, -6.217, 1.041, 0.846, 0.218, -1, False
+"GO:0050579", "vellosimine dehydrogenase activity", 0.015, -5.996, -4.382, 0.477, 0.804, 0.341, -1, False
+"GO:0018622", "4-chlorophenylacetate 3,4-dioxygenase activity", 0.503, -4.618, -4.444, 1.964, 0.772, 0.431, -1, False

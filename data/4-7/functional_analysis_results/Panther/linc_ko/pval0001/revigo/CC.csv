@@ -1,0 +1,19 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0005871", "kinesin complex", 0.266, -6.710, -0.490, 1.708, 0.792, 0.000, -1, False
+"GO:0005819", "spindle", 2.026, null, null, 2.582, 0.751, 0.508, 5871, True
+"GO:0015630", "microtubule cytoskeleton", 6.849, null, null, 3.110, 0.733, 0.559, 5871, True
+"GO:0031974", "membrane-enclosed lumen", 29.193, -0.721, 2.570, 3.740, 1.000, 0.000, -1, False
+"GO:0043226", "organelle", 73.397, 0.067, 6.759, 4.140, 1.000, 0.000, -1, False
+"GO:0005622", "intracellular anatomical structure", 78.209, -5.285, 5.037, 4.168, 1.000, 0.000, -1, False
+"GO:0005737", "cytoplasm", 62.852, 4.569, 3.568, 4.073, 0.935, 0.017, -1, False
+"GO:0043231", "intracellular membrane-bounded organelle", 59.593, 1.876, -5.126, 4.050, 0.846, 0.109, -1, False
+"GO:0043229", "intracellular organelle", 65.894, 5.586, 0.308, 4.093, 0.934, 0.122, -1, False
+"GO:0005654", "nucleoplasm", 21.419, 4.970, -4.274, 3.605, 0.725, 0.138, -1, False
+"GO:0031981", "nuclear lumen", 23.264, null, null, 3.641, 0.719, 0.603, 5654, True
+"GO:0043233", "organelle lumen", 29.193, null, null, 3.740, 0.739, 0.648, 5654, True
+"GO:0070013", "intracellular organelle lumen", 28.331, null, null, 3.727, 0.716, 0.700, 5654, True
+"GO:0043227", "membrane-bounded organelle", 67.346, -0.309, -7.187, 4.103, 0.919, 0.180, -1, False
+"GO:0098687", "chromosomal region", 1.787, -5.913, -2.964, 2.528, 0.742, 0.183, -1, False
+"GO:0000775", "chromosome, centromeric region", 1.063, -5.657, -3.752, 2.303, 0.672, 0.461, -1, False
+"GO:0000779", "condensed chromosome, centromeric region", 0.649, null, null, 2.090, 0.674, 0.825, 775, True
+"GO:0000776", "kinetochore", 0.728, null, null, 2.140, 0.671, 0.903, 775, True

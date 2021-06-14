@@ -1,0 +1,137 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	H4C9	H4 clustered histone 9 [Source:HGNC Symbol;Acc:HGNC:4793]	2557	0.954565703868866	-0.05129624	No	
+row_1	TERT	telomerase reverse transcriptase [Source:HGNC Symbol;Acc:HGNC:11730]	2606	0.9421097636222839	-0.03800611	No	
+row_2	POLR2L	RNA polymerase II subunit L [Source:HGNC Symbol;Acc:HGNC:9199]	4700	0.5853920578956604	-0.08301607	No	
+row_3	H4C5	H4 clustered histone 5 [Source:HGNC Symbol;Acc:HGNC:4790]	6058	0.5316740274429321	-0.109852105	No	
+row_4	STN1	STN1 subunit of CST complex [Source:HGNC Symbol;Acc:HGNC:26200]	6436	0.5295071601867676	-0.111419484	No	
+row_5	NOP10	NOP10 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14378]	6461	0.5264462828636169	-0.10392016	No	
+row_6	POLR2I	RNA polymerase II subunit I [Source:HGNC Symbol;Acc:HGNC:9196]	6520	0.5194031000137329	-0.09740728	No	
+row_7	POLR2E	RNA polymerase II subunit E [Source:HGNC Symbol;Acc:HGNC:9192]	6566	0.5126668810844421	-0.09066265	No	
+row_8	CTC1	CST telomere replication complex component 1 [Source:HGNC Symbol;Acc:HGNC:26169]	7021	0.4651309549808502	-0.09521088	No	
+row_9	H2AJ	H2A.J histone [Source:HGNC Symbol;Acc:HGNC:14456]	8057	0.3697909712791443	-0.11622997	No	
+row_10	TINF2	TERF1 interacting nuclear factor 2 [Source:HGNC Symbol;Acc:HGNC:11824]	8560	0.32399266958236694	-0.124194145	No	
+row_11	GAR1	GAR1 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14264]	9172	0.281913161277771	-0.13562149	No	
+row_12	NHP2	NHP2 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14377]	9263	0.2748211622238159	-0.1337068	No	
+row_13	ACD	ACD shelterin complex subunit and telomerase recruitment factor [Source:HGNC Symbol;Acc:HGNC:25070]	9380	0.2647382616996765	-0.13261889	No	
+row_14	CENPS	centromere protein S [Source:HGNC Symbol;Acc:HGNC:23163]	9643	0.2450874149799347	-0.13560353	No	
+row_15	POLR2H	RNA polymerase II subunit H [Source:HGNC Symbol;Acc:HGNC:9195]	9984	0.22719599306583405	-0.14087793	No	
+row_16	CENPX	centromere protein X [Source:HGNC Symbol;Acc:HGNC:11422]	10103	0.2176603376865387	-0.1405677	No	
+row_17	PPP6R3	protein phosphatase 6 regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:1173]	10199	0.20989862084388733	-0.13978335	No	
+row_18	DAXX	death domain associated protein [Source:HGNC Symbol;Acc:HGNC:2681]	10498	0.19026371836662292	-0.14454296	No	
+row_19	TERF2IP	TERF2 interacting protein [Source:HGNC Symbol;Acc:HGNC:19246]	10649	0.17866182327270508	-0.14566037	No	
+row_20	TERF1	telomeric repeat binding factor 1 [Source:HGNC Symbol;Acc:HGNC:11728]	11001	0.15444785356521606	-0.15234071	No	
+row_21	SMARCA5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 [Source:HGNC Symbol;Acc:HGNC:11101]	11224	0.14102619886398315	-0.15589747	No	
+row_22	TERF2	telomeric repeat binding factor 2 [Source:HGNC Symbol;Acc:HGNC:11729]	11624	0.11387237161397934	-0.16444287	No	
+row_23	POLR2C	RNA polymerase II subunit C [Source:HGNC Symbol;Acc:HGNC:9189]	12065	0.08738413453102112	-0.17445533	No	
+row_24	RPA2	replication protein A2 [Source:HGNC Symbol;Acc:HGNC:10290]	12436	0.06126284971833229	-0.18306334	No	
+row_25	H3-3B	H3.3 histone B [Source:HGNC Symbol;Acc:HGNC:4765]	12675	0.04671486094594002	-0.18848768	No	
+row_26	POLD4	DNA polymerase delta 4, accessory subunit [Source:HGNC Symbol;Acc:HGNC:14106]	13136	0.01643335446715355	-0.20011073	No	
+row_27	CHTF18	chromosome transmission fidelity factor 18 [Source:HGNC Symbol;Acc:HGNC:18435]	13292	0.005292857997119427	-0.20403096	No	
+row_28	H4C13	H4 clustered histone 13 [Source:HGNC Symbol;Acc:HGNC:4791]	16841	0.0	-0.2956348	No	
+row_29	H2BC9	H2B clustered histone 9 [Source:HGNC Symbol;Acc:HGNC:4755]	17597	0.0	-0.31512773	No	
+row_30	H2AB1	H2A.B variant histone 1 [Source:HGNC Symbol;Acc:HGNC:22516]	17893	0.0	-0.32274416	No	
+row_31	H2AC8	H2A clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4724]	17899	0.0	-0.32287326	No	
+row_32	H2AC7	H2A clustered histone 7 [Source:HGNC Symbol;Acc:HGNC:4729]	17900	0.0	-0.32287326	No	
+row_33	H2BS1	H2B.S histone 1 [Source:HGNC Symbol;Acc:HGNC:4762]	18224	0.0	-0.3312126	No	
+row_34	H2BU1	H2B.U histone 1 [Source:HGNC Symbol;Acc:HGNC:20514]	18243	0.0	-0.33167735	No	
+row_35	H2AC19	H2A clustered histone 19 [Source:HGNC Symbol;Acc:HGNC:29668]	19040	0.0	-0.35222882	No	
+row_36	H2AC18	H2A clustered histone 18 [Source:HGNC Symbol;Acc:HGNC:4736]	19044	0.0	-0.35230628	No	
+row_37	H3-4	H3.4 histone [Source:HGNC Symbol;Acc:HGNC:4778]	20014	0.0	-0.37732437	No	
+row_38	H2BC10	H2B clustered histone 10 [Source:HGNC Symbol;Acc:HGNC:4756]	25964	0.0	-0.5309183	No	
+row_39	ATRX	ATRX chromatin remodeler [Source:HGNC Symbol;Acc:HGNC:886]	26480	-0.021115083247423172	-0.54388916	No	
+row_40	RSF1	remodeling and spacing factor 1 [Source:HGNC Symbol;Acc:HGNC:18118]	26630	-0.03091227076947689	-0.54725933	No	
+row_41	RBBP4	RB binding protein 4, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9887]	26635	-0.03110978938639164	-0.54688287	No	
+row_42	PPP6C	protein phosphatase 6 catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9323]	26912	-0.04290128871798515	-0.5533471	No	
+row_43	RFC2	replication factor C subunit 2 [Source:HGNC Symbol;Acc:HGNC:9970]	27273	-0.07107198983430862	-0.56154567	No	
+row_44	RUVBL2	RuvB like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	27523	-0.07746761292219162	-0.56677973	No	
+row_45	H2BC13	H2B clustered histone 13 [Source:HGNC Symbol;Acc:HGNC:4748]	27628	-0.08406013995409012	-0.56816846	No	
+row_46	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	27751	-0.09203726798295975	-0.5698989	No	
+row_47	POLR2B	RNA polymerase II subunit B [Source:HGNC Symbol;Acc:HGNC:9188]	28097	-0.10296645015478134	-0.5772183	No	
+row_48	LIG1	DNA ligase 1 [Source:HGNC Symbol;Acc:HGNC:6598]	28541	-0.13204927742481232	-0.5866194	No	
+row_49	POLR2D	RNA polymerase II subunit D [Source:HGNC Symbol;Acc:HGNC:9191]	28753	-0.1347280740737915	-0.58998924	No	
+row_50	RFC1	replication factor C subunit 1 [Source:HGNC Symbol;Acc:HGNC:9969]	28805	-0.138299822807312	-0.5891731	No	
+row_51	RUVBL1	RuvB like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	29233	-0.16986575722694397	-0.59757787	No	
+row_52	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	29399	-0.18309234082698822	-0.5990142	No	
+row_53	POLR2J	RNA polymerase II subunit J [Source:HGNC Symbol;Acc:HGNC:9197]	29557	-0.19443649053573608	-0.60006905	No	
+row_54	DKC1	dyskerin pseudouridine synthase 1 [Source:HGNC Symbol;Acc:HGNC:2890]	29724	-0.20500919222831726	-0.60119325	No	
+row_55	H2AX	H2A.X variant histone [Source:HGNC Symbol;Acc:HGNC:4739]	29992	-0.22584784030914307	-0.6046037	Yes	
+row_56	RTEL1	regulator of telomere elongation helicase 1 [Source:HGNC Symbol;Acc:HGNC:15888]	30038	-0.23020805418491364	-0.6022152	Yes	
+row_57	CENPO	centromere protein O [Source:HGNC Symbol;Acc:HGNC:28152]	30125	-0.23493175208568573	-0.60081244	Yes	
+row_58	POLR2F	RNA polymerase II subunit F [Source:HGNC Symbol;Acc:HGNC:9193]	30283	-0.24734246730804443	-0.60105133	Yes	
+row_59	H2BC15	H2B clustered histone 15 [Source:HGNC Symbol;Acc:HGNC:4749]	30305	-0.2498731017112732	-0.59773993	Yes	
+row_60	CENPT	centromere protein T [Source:HGNC Symbol;Acc:HGNC:25787]	30680	-0.28051069378852844	-0.60306996	Yes	
+row_61	WRAP53	WD repeat containing antisense to TP53 [Source:HGNC Symbol;Acc:HGNC:25522]	30755	-0.2866448163986206	-0.6005598	Yes	
+row_62	FEN1	flap structure-specific endonuclease 1 [Source:HGNC Symbol;Acc:HGNC:3650]	30781	-0.28820887207984924	-0.59676045	Yes	
+row_63	RPA3	replication protein A3 [Source:HGNC Symbol;Acc:HGNC:10291]	30840	-0.29274246096611023	-0.59374315	Yes	
+row_64	H2AC20	H2A clustered histone 20 [Source:HGNC Symbol;Acc:HGNC:4738]	30850	-0.2932804822921753	-0.5894525	Yes	
+row_65	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	30888	-0.29805654287338257	-0.5858111	Yes	
+row_66	CENPQ	centromere protein Q [Source:HGNC Symbol;Acc:HGNC:21347]	30972	-0.3022499978542328	-0.58329266	Yes	
+row_67	H2AC6	H2A clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4733]	31103	-0.3123719096183777	-0.5818316	Yes	
+row_68	RFC4	replication factor C subunit 4 [Source:HGNC Symbol;Acc:HGNC:9972]	31244	-0.32248640060424805	-0.5804727	Yes	
+row_69	WRN	WRN RecQ like helicase [Source:HGNC Symbol;Acc:HGNC:12791]	31295	-0.3266409933567047	-0.57672614	Yes	
+row_70	POLR2G	RNA polymerase II subunit G [Source:HGNC Symbol;Acc:HGNC:9194]	31564	-0.3490642309188843	-0.5782621	Yes	
+row_71	ANKRD28	ankyrin repeat domain 28 [Source:HGNC Symbol;Acc:HGNC:29024]	31573	-0.35006365180015564	-0.57306993	Yes	
+row_72	POT1	protection of telomeres 1 [Source:HGNC Symbol;Acc:HGNC:17284]	31636	-0.3569794297218323	-0.5691652	Yes	
+row_73	POLD2	DNA polymerase delta 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9176]	31918	-0.3817364275455475	-0.570533	Yes	
+row_74	H2BC4	H2B clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4757]	31921	-0.3822215497493744	-0.56468993	Yes	
+row_75	CENPM	centromere protein M [Source:HGNC Symbol;Acc:HGNC:18352]	31933	-0.38325920701026917	-0.5590632	Yes	
+row_76	MIS18A	MIS18 kinetochore protein A [Source:HGNC Symbol;Acc:HGNC:1286]	32110	-0.4005429148674011	-0.55743	Yes	
+row_77	POLR2A	RNA polymerase II subunit A [Source:HGNC Symbol;Acc:HGNC:9187]	32598	-0.44851386547088623	-0.5630865	Yes	
+row_78	PRIM1	DNA primase subunit 1 [Source:HGNC Symbol;Acc:HGNC:9369]	32649	-0.4537387192249298	-0.5573798	Yes	
+row_79	CENPL	centromere protein L [Source:HGNC Symbol;Acc:HGNC:17879]	32749	-0.46188074350357056	-0.5528126	Yes	
+row_80	H4-16	H4 histone 16 [Source:HGNC Symbol;Acc:HGNC:20510]	32761	-0.4638388454914093	-0.54594314	Yes	
+row_81	POLD3	DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]	32762	-0.4641052186489105	-0.53878564	Yes	
+row_82	RPA1	replication protein A1 [Source:HGNC Symbol;Acc:HGNC:10289]	32935	-0.4840022921562195	-0.535762	Yes	
+row_83	H2BC21	H2B clustered histone 21 [Source:HGNC Symbol;Acc:HGNC:4760]	32968	-0.48765498399734497	-0.52906746	Yes	
+row_84	DSCC1	DNA replication and sister chromatid cohesion 1 [Source:HGNC Symbol;Acc:HGNC:24453]	33152	-0.5108119249343872	-0.52591443	Yes	
+row_85	MIS18BP1	MIS18 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:20190]	33266	-0.5289019346237183	-0.52067506	Yes	
+row_86	POLA1	DNA polymerase alpha 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9173]	33340	-0.5370168685913086	-0.5142778	Yes	
+row_87	RFC5	replication factor C subunit 5 [Source:HGNC Symbol;Acc:HGNC:9973]	33355	-0.540154218673706	-0.5063089	Yes	
+row_88	CDK2	cyclin dependent kinase 2 [Source:HGNC Symbol;Acc:HGNC:1771]	33457	-0.5541349649429321	-0.50037056	Yes	
+row_89	H2AC14	H2A clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4727]	33534	-0.5630189180374146	-0.49364975	Yes	
+row_90	H2AZ1	H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741]	34825	-0.6040700078010559	-0.51763946	Yes	
+row_91	H2BC3	H2B clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4751]	34965	-0.6228475570678711	-0.51162255	Yes	
+row_92	H4C1	H4 clustered histone 1 [Source:HGNC Symbol;Acc:HGNC:4781]	35223	-0.6410688161849976	-0.5083712	Yes	
+row_93	H2BC5	H2B clustered histone 5 [Source:HGNC Symbol;Acc:HGNC:4747]	35302	-0.6515946984291077	-0.500336	Yes	
+row_94	H4C15	H4 clustered histone 15 [Source:HGNC Symbol;Acc:HGNC:29607]	35423	-0.6698141098022461	-0.49310416	Yes	
+row_95	H4C3	H4 clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4787]	35439	-0.6720413565635681	-0.4831271	Yes	
+row_96	PIF1	PIF1 5'-to-3' DNA helicase [Source:HGNC Symbol;Acc:HGNC:26220]	35507	-0.6826715469360352	-0.4743286	Yes	
+row_97	CENPU	centromere protein U [Source:HGNC Symbol;Acc:HGNC:21348]	35615	-0.7016403675079346	-0.46627033	Yes	
+row_98	CENPH	centromere protein H [Source:HGNC Symbol;Acc:HGNC:17268]	35766	-0.7163218259811401	-0.45909584	Yes	
+row_99	H2AC4	H2A clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4734]	35787	-0.7208496928215027	-0.4484951	Yes	
+row_100	CENPI	centromere protein I [Source:HGNC Symbol;Acc:HGNC:3968]	35937	-0.7513518929481506	-0.44075453	Yes	
+row_101	HJURP	Holliday junction recognition protein [Source:HGNC Symbol;Acc:HGNC:25444]	35981	-0.7556295990943909	-0.43021125	Yes	
+row_102	DNA2	DNA replication helicase/nuclease 2 [Source:HGNC Symbol;Acc:HGNC:2939]	35982	-0.755925714969635	-0.4185532	Yes	
+row_103	H3-3A	H3.3 histone A [Source:HGNC Symbol;Acc:HGNC:4764]	36097	-0.775842547416687	-0.4095313	Yes	
+row_104	BLM	BLM RecQ like helicase [Source:HGNC Symbol;Acc:HGNC:1058]	36115	-0.7794238924980164	-0.39794976	Yes	
+row_105	H2AZ2	H2A.Z variant histone 2 [Source:HGNC Symbol;Acc:HGNC:20664]	36119	-0.7803725004196167	-0.38599214	Yes	
+row_106	H2BC17	H2B clustered histone 17 [Source:HGNC Symbol;Acc:HGNC:4758]	36147	-0.7832059264183044	-0.37461045	Yes	
+row_107	POLA2	DNA polymerase alpha 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:30073]	36148	-0.7836595177650452	-0.3625247	Yes	
+row_108	RBBP7	RB binding protein 7, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9890]	36164	-0.78721022605896	-0.35077146	Yes	
+row_109	TEN1	TEN1 subunit of CST complex [Source:HGNC Symbol;Acc:HGNC:37242]	36223	-0.8014910221099854	-0.33990815	Yes	
+row_110	H2BC1	H2B clustered histone 1 [Source:HGNC Symbol;Acc:HGNC:18730]	36326	-0.8164679408073425	-0.3299499	Yes	
+row_111	H2BC12	H2B clustered histone 12 [Source:HGNC Symbol;Acc:HGNC:13954]	36331	-0.8172430396080017	-0.31744945	Yes	
+row_112	CENPC	centromere protein C [Source:HGNC Symbol;Acc:HGNC:1854]	36475	-0.8439500331878662	-0.3081259	Yes	
+row_113	CENPN	centromere protein N [Source:HGNC Symbol;Acc:HGNC:30873]	36498	-0.8485478162765503	-0.29560742	Yes	
+row_114	H4C12	H4 clustered histone 12 [Source:HGNC Symbol;Acc:HGNC:4784]	36560	-0.866336464881897	-0.28382152	Yes	
+row_115	ITGB3BP	integrin subunit beta 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6157]	36572	-0.8686031699180603	-0.27070975	Yes	
+row_116	H4C8	H4 clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4788]	36714	-0.8926249146461487	-0.26058388	Yes	
+row_117	H4C11	H4 clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4785]	36757	-0.9024935960769653	-0.2477498	Yes	
+row_118	H4C4	H4 clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4782]	36800	-0.905746340751648	-0.23486558	Yes	
+row_119	OIP5	Opa interacting protein 5 [Source:HGNC Symbol;Acc:HGNC:20300]	36850	-0.9150194525718689	-0.22201905	Yes	
+row_120	H2BC14	H2B clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4750]	36900	-0.9244886040687561	-0.20902649	Yes	
+row_121	RFC3	replication factor C subunit 3 [Source:HGNC Symbol;Acc:HGNC:9971]	36917	-0.9272148609161377	-0.19513987	Yes	
+row_122	H2BC6	H2B clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4753]	36932	-0.9323651790618896	-0.1811222	Yes	
+row_123	CENPK	centromere protein K [Source:HGNC Symbol;Acc:HGNC:29479]	36959	-0.9382950067520142	-0.16732289	Yes	
+row_124	SHQ1	SHQ1, H/ACA ribonucleoprotein assembly factor [Source:HGNC Symbol;Acc:HGNC:25543]	37043	-0.9683992862701416	-0.15453096	Yes	
+row_125	CENPW	centromere protein W [Source:HGNC Symbol;Acc:HGNC:21488]	37061	-0.9747392535209656	-0.13993722	Yes	
+row_126	H2BC11	H2B clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4761]	37129	-0.9961721897125244	-0.12630388	Yes	
+row_127	PRIM2	DNA primase subunit 2 [Source:HGNC Symbol;Acc:HGNC:9370]	37245	-1.0305051803588867	-0.11338033	Yes	
+row_128	CHTF8	chromosome transmission fidelity factor 8 [Source:HGNC Symbol;Acc:HGNC:24353]	37256	-1.035211205482483	-0.09767326	Yes	
+row_129	CCNA2	cyclin A2 [Source:HGNC Symbol;Acc:HGNC:1578]	37370	-1.0790168046951294	-0.08394991	Yes	
+row_130	CENPA	centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851]	37458	-1.1153316497802734	-0.06899523	Yes	
+row_131	KNL1	kinetochore scaffold 1 [Source:HGNC Symbol;Acc:HGNC:24054]	37580	-1.172492504119873	-0.05403683	Yes	
+row_132	CENPP	centromere protein P [Source:HGNC Symbol;Acc:HGNC:32933]	37834	-1.3152953386306763	-0.040284123	Yes	
+row_133	POLR2K	RNA polymerase II subunit K [Source:HGNC Symbol;Acc:HGNC:9198]	37912	-1.3695964813232422	-0.021149931	Yes	
+row_134	H4C14	H4 clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4794]	38049	-1.457802176475525	-0.0021786995	Yes	
+row_135	CCNA1	cyclin A1 [Source:HGNC Symbol;Acc:HGNC:1577]	38099	-1.5090241432189941	0.019828694	Yes	

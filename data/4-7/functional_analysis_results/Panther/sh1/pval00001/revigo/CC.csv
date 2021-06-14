@@ -1,0 +1,70 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0002116", "semaphorin receptor complex", 0.058, -0.680, -5.994, 1.079, 0.990, 0.000, -1, False
+"GO:0005575", "cellular_component", 100.000, -0.436, -2.391, 4.274, 1.000, 0.000, -1, False
+"GO:0045178", "basal part of cell", 1.388, -4.617, -3.425, 2.418, 1.000, 0.000, -1, False
+"GO:0110165", "cellular anatomical entity", 99.064, 4.481, 0.714, 4.270, 1.000, 0.000, -1, False
+"GO:0016328", "lateral plasma membrane", 0.330, -7.271, -0.245, 1.799, 0.925, 0.000, -1, False
+"GO:0045177", "apical part of cell", 2.207, 0.382, 2.516, 2.619, 1.000, 0.000, -1, False
+"GO:0009986", "cell surface", 4.807, 6.058, 4.084, 2.957, 1.000, 0.000, -1, False
+"GO:0005773", "vacuole", 4.259, -7.100, -3.125, 2.904, 0.950, 0.000, -1, False
+"GO:0070161", "anchoring junction", 4.398, 5.600, -1.816, 2.918, 0.915, 0.000, -1, False
+"GO:0005911", "cell-cell junction", 2.579, null, null, 2.687, 0.887, 0.583, 70161, True
+"GO:0005923", "bicellular tight junction", 0.622, null, null, 2.072, 0.888, 0.684, 70161, True
+"GO:0070160", "tight junction", 0.659, null, null, 2.097, 0.887, 0.706, 70161, True
+"GO:0043296", "apical junction complex", 0.728, null, null, 2.140, 0.886, 0.717, 70161, True
+"GO:0005912", "adherens junction", 0.915, null, null, 2.238, 0.884, 0.741, 70161, True
+"GO:0099081", "supramolecular polymer", 5.254, -2.795, -2.328, 2.995, 1.000, 0.000, -1, False
+"GO:0030054", "cell junction", 10.895, 4.010, 2.894, 3.312, 1.000, 0.000, -1, False
+"GO:0005615", "extracellular space", 17.941, 6.452, 2.422, 3.528, 0.950, 0.000, -1, False
+"GO:0043230", "extracellular organelle", 11.278, null, null, 3.327, 0.927, 0.575, 5615, True
+"GO:0005576", "extracellular region", 23.200, -2.687, 8.666, 3.640, 1.000, 0.000, -1, False
+"GO:0012505", "endomembrane system", 24.492, -5.956, -4.435, 3.663, 1.000, 0.000, -1, False
+"GO:0071944", "cell periphery", 33.324, 1.949, 0.563, 3.797, 1.000, 0.000, -1, False
+"GO:0016020", "membrane", 51.409, -4.254, -5.442, 3.985, 1.000, 0.000, -1, False
+"GO:0043226", "organelle", 73.397, -1.109, 0.293, 4.140, 1.000, 0.000, -1, False
+"GO:0005622", "intracellular anatomical structure", 78.209, -0.855, 9.025, 4.168, 1.000, 0.000, -1, False
+"GO:0005737", "cytoplasm", 62.852, 3.566, -4.809, 4.073, 0.974, 0.030, -1, False
+"GO:0005856", "cytoskeleton", 12.294, 6.528, 0.587, 3.364, 0.957, 0.054, -1, False
+"GO:0005788", "endoplasmic reticulum lumen", 1.622, 2.778, 6.382, 2.486, 0.908, 0.057, -1, False
+"GO:0031984", "organelle subcompartment", 9.449, -4.408, 8.214, 3.250, 0.953, 0.064, -1, False
+"GO:0031982", "vesicle", 20.727, 2.368, -2.083, 3.591, 0.950, 0.066, -1, False
+"GO:0016021", "integral component of membrane", 28.890, -6.164, 4.706, 3.735, 0.909, 0.093, -1, False
+"GO:0043229", "intracellular organelle", 65.894, 4.379, -3.684, 4.093, 0.974, 0.122, -1, False
+"GO:0043231", "intracellular membrane-bounded organelle", 59.593, 1.824, -4.169, 4.050, 0.922, 0.123, -1, False
+"GO:0031012", "extracellular matrix", 2.999, -6.238, 0.679, 2.752, 0.895, 0.159, -1, False
+"GO:0005604", "basement membrane", 0.500, null, null, 1.978, 0.912, 0.772, 31012, True
+"GO:0062023", "collagen-containing extracellular matrix", 2.249, null, null, 2.627, 0.898, 0.931, 31012, True
+"GO:1990904", "ribonucleoprotein complex", 3.616, -2.027, -5.857, 2.833, 0.987, 0.162, -1, False
+"GO:0043227", "membrane-bounded organelle", 67.346, 1.538, -5.533, 4.103, 0.952, 0.180, -1, False
+"GO:0016324", "apical plasma membrane", 1.877, -7.593, 1.900, 2.549, 0.884, 0.196, -1, False
+"GO:0016323", "basolateral plasma membrane", 1.159, null, null, 2.340, 0.880, 0.608, 16324, True
+"GO:0009925", "basal plasma membrane", 1.292, null, null, 2.387, 0.878, 0.958, 16324, True
+"GO:0005775", "vacuolar lumen", 0.915, 4.715, 5.697, 2.238, 0.860, 0.205, -1, False
+"GO:0043202", "lysosomal lumen", 0.510, null, null, 1.987, 0.866, 0.606, 5775, True
+"GO:0005764", "lysosome", 3.754, null, null, 2.849, 0.843, 0.758, 5775, True
+"GO:0005765", "lysosomal membrane", 2.031, null, null, 2.583, 0.780, 0.880, 5775, True
+"GO:0000323", "lytic vacuole", 3.754, null, null, 2.849, 0.846, 0.921, 5775, True
+"GO:0098852", "lytic vacuole membrane", 2.031, null, null, 2.583, 0.780, 0.944, 5775, True
+"GO:0030312", "external encapsulating structure", 3.004, -7.473, 0.866, 2.753, 0.932, 0.209, -1, False
+"GO:0031090", "organelle membrane", 19.068, -4.970, 5.188, 3.555, 0.893, 0.223, -1, False
+"GO:0005796", "Golgi lumen", 0.532, 3.145, 6.906, 2.004, 0.904, 0.227, -1, False
+"GO:0098791", "Golgi apparatus subcompartment", 4.727, null, null, 2.949, 0.885, 0.541, 5796, True
+"GO:0000139", "Golgi membrane", 4.116, null, null, 2.889, 0.796, 0.719, 5796, True
+"GO:0031224", "intrinsic component of membrane", 29.772, -5.939, 5.477, 3.748, 0.925, 0.264, -1, False
+"GO:0140513", "nuclear protein-containing complex", 6.540, -1.631, -5.515, 3.090, 0.935, 0.289, -1, False
+"GO:0030141", "secretory granule", 4.509, 0.872, 6.700, 2.929, 0.817, 0.294, -1, False
+"GO:0030659", "cytoplasmic vesicle membrane", 4.137, null, null, 2.892, 0.792, 0.571, 30141, True
+"GO:0031410", "cytoplasmic vesicle", 12.778, null, null, 3.381, 0.836, 0.695, 30141, True
+"GO:0099503", "secretory vesicle", 5.355, null, null, 3.003, 0.859, 0.719, 30141, True
+"GO:0005886", "plasma membrane", 30.746, -6.137, 2.910, 3.762, 0.858, 0.313, -1, False
+"GO:0098590", "plasma membrane region", 6.450, -6.409, 2.067, 3.084, 0.888, 0.374, -1, False
+"GO:0005794", "Golgi apparatus", 8.593, 2.103, 7.389, 3.209, 0.893, 0.383, -1, False
+"GO:0012506", "vesicle membrane", 4.254, -2.292, 5.721, 2.904, 0.811, 0.399, -1, False
+"GO:0098588", "bounding membrane of organelle", 11.369, null, null, 3.330, 0.855, 0.503, 12506, True
+"GO:0030057", "desmosome", 0.133, 5.780, -1.504, 1.415, 0.901, 0.405, -1, False
+"GO:0005783", "endoplasmic reticulum", 10.470, 2.104, 7.033, 3.294, 0.890, 0.451, -1, False
+"GO:0005887", "integral component of plasma membrane", 8.795, -6.859, 3.060, 3.219, 0.874, 0.463, -1, False
+"GO:0031226", "intrinsic component of plasma membrane", 9.215, -6.561, 2.817, 3.239, 0.873, 0.469, -1, False
+"GO:0097708", "intracellular vesicle", 12.799, -1.047, 6.222, 3.382, 0.859, 0.484, -1, False
+"GO:0070062", "extracellular exosome", 11.161, null, null, 3.322, 0.828, 0.587, 97708, True
+"GO:1903561", "extracellular vesicle", 11.268, null, null, 3.326, 0.828, 0.885, 97708, True

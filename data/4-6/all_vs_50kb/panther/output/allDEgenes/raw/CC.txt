@@ -1,0 +1,27 @@
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	PANTHER version 16.0 Released 2020-12-01
+Analyzed List:	allDEgenes.txt (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+PANTHER GO-Slim Cellular Component	Homo sapiens - REFLIST (20595)	allDEgenes.txt (361)	allDEgenes.txt (expected)	allDEgenes.txt (over/under)	allDEgenes.txt (fold Enrichment)	allDEgenes.txt (raw P-value)	allDEgenes.txt (FDR)
+intermediate filament (GO:0005882)	16	5	.28	+	17.83	2.39E-05	3.04E-03
+intermediate filament cytoskeleton (GO:0045111)	17	5	.30	+	16.78	3.05E-05	3.10E-03
+apical junction complex (GO:0043296)	45	5	.79	+	6.34	1.66E-03	4.20E-02
+cell-cell junction (GO:0005911)	129	11	2.26	+	4.86	3.19E-05	2.70E-03
+receptor complex (GO:0043235)	213	17	3.73	+	4.55	5.52E-07	2.81E-04
+anchoring junction (GO:0070161)	168	13	2.94	+	4.41	1.63E-05	2.75E-03
+collagen-containing extracellular matrix (GO:0062023)	112	8	1.96	+	4.07	1.13E-03	4.42E-02
+extracellular matrix (GO:0031012)	240	16	4.21	+	3.80	1.03E-05	2.62E-03
+polymeric cytoskeletal fiber (GO:0099513)	304	14	5.33	+	2.63	1.32E-03	4.47E-02
+supramolecular fiber (GO:0099512)	356	16	6.24	+	2.56	7.86E-04	3.99E-02
+supramolecular polymer (GO:0099081)	364	16	6.38	+	2.51	9.83E-04	4.16E-02
+supramolecular complex (GO:0099080)	477	20	8.36	+	2.39	5.86E-04	3.31E-02
+cytoskeleton (GO:0005856)	667	24	11.69	+	2.05	1.42E-03	4.25E-02
+integral component of plasma membrane (GO:0005887)	786	28	13.78	+	2.03	5.01E-04	3.18E-02
+intrinsic component of plasma membrane (GO:0031226)	798	28	13.99	+	2.00	8.47E-04	3.91E-02
+integral component of membrane (GO:0016021)	1151	36	20.18	+	1.78	1.13E-03	4.11E-02
+intrinsic component of membrane (GO:0031224)	1180	36	20.68	+	1.74	1.40E-03	4.44E-02
+membrane (GO:0016020)	4165	103	73.01	+	1.41	2.09E-04	1.52E-02
+cellular anatomical entity (GO:0110165)	11122	225	194.95	+	1.15	1.65E-03	4.41E-02
+ribonucleoprotein complex (GO:1990904)	413	0	7.24	-	 < 0.01	1.60E-03	4.50E-02

@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	0	4.838791847229004	0.06375153	Yes	
+row_1	SCEL	sciellin [Source:HGNC Symbol;Acc:HGNC:10573]	5	4.7386322021484375	0.12608045	Yes	
+row_2	CDH3	cadherin 3 [Source:HGNC Symbol;Acc:HGNC:1762]	7	4.520000457763672	0.18560612	Yes	
+row_3	CRB3	crumbs cell polarity complex component 3 [Source:HGNC Symbol;Acc:HGNC:20237]	27	4.08590841293335	0.23894908	Yes	
+row_4	MUC1	mucin 1, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7508]	45	3.8610129356384277	0.28938052	Yes	
+row_5	MAL2	mal, T cell differentiation protein 2 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:13634]	55	3.8055598735809326	0.33928737	Yes	
+row_6	EPPK1	epiplakin 1 [Source:HGNC Symbol;Acc:HGNC:15577]	74	3.6620919704437256	0.38707227	Yes	
+row_7	MPZL2	myelin protein zero like 2 [Source:HGNC Symbol;Acc:HGNC:3496]	100	3.4796743392944336	0.43227354	Yes	
+row_8	DMKN	dermokine [Source:HGNC Symbol;Acc:HGNC:25063]	121	3.3141191005706787	0.47542235	Yes	
+row_9	TSPAN1	tetraspanin 1 [Source:HGNC Symbol;Acc:HGNC:20657]	155	3.253052234649658	0.51743186	Yes	
+row_10	PKP3	plakophilin 3 [Source:HGNC Symbol;Acc:HGNC:9025]	264	2.6082582473754883	0.5490148	Yes	
+row_11	PCDH7	protocadherin 7 [Source:HGNC Symbol;Acc:HGNC:8659]	295	2.495920181274414	0.5811263	Yes	
+row_12	F11R	F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	311	2.454341173171997	0.6130762	Yes	
+row_13	TACSTD2	tumor associated calcium signal transducer 2 [Source:HGNC Symbol;Acc:HGNC:11530]	502	2.414149761199951	0.6399902	Yes	
+row_14	EPCAM	epithelial cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:11529]	517	2.374185800552368	0.6709098	Yes	
+row_15	MARVELD2	MARVEL domain containing 2 [Source:HGNC Symbol;Acc:HGNC:26401]	532	2.3288092613220215	0.7012316	Yes	
+row_16	TMEM30B	transmembrane protein 30B [Source:HGNC Symbol;Acc:HGNC:27254]	679	2.0257325172424316	0.7241612	Yes	
+row_17	SHROOM3	shroom family member 3 [Source:HGNC Symbol;Acc:HGNC:30422]	787	1.9602736234664917	0.7472327	Yes	
+row_18	OCLN	occludin [Source:HGNC Symbol;Acc:HGNC:8104]	847	1.8855386972427368	0.77055556	Yes	
+row_19	GJB3	gap junction protein beta 3 [Source:HGNC Symbol;Acc:HGNC:4285]	882	1.8353651762008667	0.79386115	Yes	
+row_20	CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	1002	1.6885098218917847	0.81304306	Yes	
+row_21	PATJ	PATJ crumbs cell polarity complex component [Source:HGNC Symbol;Acc:HGNC:28881]	1092	1.6024855375289917	0.8318642	Yes	
+row_22	DSC2	desmocollin 2 [Source:HGNC Symbol;Acc:HGNC:3036]	1153	1.5555493831634521	0.8508136	Yes	
+row_23	CDH11	cadherin 11 [Source:HGNC Symbol;Acc:HGNC:1750]	1313	1.4395036697387695	0.86568487	Yes	
+row_24	TSPAN15	tetraspanin 15 [Source:HGNC Symbol;Acc:HGNC:23298]	1776	1.218885898590088	0.869847	Yes	
+row_25	PPL	periplakin [Source:HGNC Symbol;Acc:HGNC:9273]	1874	1.1786623001098633	0.8828782	Yes	
+row_26	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	1915	1.167019009590149	0.8972238	Yes	
+row_27	SH3YL1	SH3 and SYLF domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29546]	2702	0.9130623936653137	0.8890134	No	
+row_28	SYTL1	synaptotagmin like 1 [Source:HGNC Symbol;Acc:HGNC:15584]	2995	0.8322859406471252	0.8924597	No	
+row_29	GJB2	gap junction protein beta 2 [Source:HGNC Symbol;Acc:HGNC:4284]	4011	0.6383519768714905	0.87473315	No	
+row_30	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	5588	0.539501965045929	0.84125817	No	
+row_31	CXADR	CXADR Ig-like cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:2559]	12908	0.030838705599308014	0.65319556	No	
+row_32	PMEPA1	prostate transmembrane protein, androgen induced 1 [Source:HGNC Symbol;Acc:HGNC:14107]	29040	-0.15763981640338898	0.23988907	No	
+row_33	CDH4	cadherin 4 [Source:HGNC Symbol;Acc:HGNC:1763]	37135	-0.9970915913581848	0.04460024	No	

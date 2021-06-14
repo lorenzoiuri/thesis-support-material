@@ -1,0 +1,5 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0003774", "motor activity", 0.718, -3.674, -4.454, 2.117, 0.666, 0.000, -1, False
+"GO:0003777", "microtubule motor activity", 0.381, null, null, 1.845, 0.666, 0.552, 3774, True
+"GO:0090079", "translation regulator activity, nucleic acid binding", 0.602, -2.020, 5.408, 2.041, 0.998, 0.000, -1, False
+"GO:0008017", "microtubule binding", 1.491, 5.694, -0.954, 2.433, 0.998, 0.002, -1, False

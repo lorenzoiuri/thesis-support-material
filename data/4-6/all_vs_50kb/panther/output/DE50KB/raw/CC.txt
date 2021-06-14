@@ -1,0 +1,9 @@
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	PANTHER version 16.0 Released 2020-12-01
+Analyzed List:	DE50KB.txt (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+PANTHER GO-Slim Cellular Component	Homo sapiens - REFLIST (20595)	DE50KB.txt (216)	DE50KB.txt (expected)	DE50KB.txt (over/under)	DE50KB.txt (fold Enrichment)	DE50KB.txt (raw P-value)	DE50KB.txt (FDR)
+anchoring junction (GO:0070161)	168	9	1.76	+	5.11	1.00E-04	5.10E-02
+receptor complex (GO:0043235)	213	10	2.23	+	4.48	1.18E-04	3.00E-02

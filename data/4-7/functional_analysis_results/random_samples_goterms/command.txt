@@ -1,0 +1,3 @@
+-> % shuf -n 350 ../GO_map/go_mapping.txt | cut -f1,1 | sort | uniq > sample350t/sample350t.txt
+-> % shuf -n 200 ../GO_map/go_mapping.txt | cut -f1,1 | sort | uniq > sample200t/sample200t.txt
+-> % shuf -n 50 ../GO_map/go_mapping.txt | cut -f1,1 | sort | uniq > sample50t/sample50t.txt

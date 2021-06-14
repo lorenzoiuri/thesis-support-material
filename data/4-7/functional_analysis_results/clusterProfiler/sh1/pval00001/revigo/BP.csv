@@ -1,0 +1,143 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0001101", "response to acid chemical", 0.662, 2.825, -1.715, 2.076, 0.960, 0.000, -1, False
+"GO:0031099", "regeneration", 0.858, -6.738, 4.401, 2.188, 0.853, 0.000, -1, False
+"GO:0032963", "collagen metabolic process", 0.342, -3.927, 8.172, 1.792, 0.985, 0.000, -1, False
+"GO:0043030", "regulation of macrophage activation", 0.308, 1.198, 0.957, 1.748, 0.983, 0.000, -1, False
+"GO:0048144", "fibroblast proliferation", 0.006, 0.027, -3.710, 0.301, 0.992, 0.000, -1, False
+"GO:0090130", "tissue migration", 0.533, -3.835, -3.028, 1.982, 0.897, 0.000, -1, False
+"GO:0031589", "cell-substrate adhesion", 1.032, -5.064, 7.978, 2.267, 0.990, 0.002, -1, False
+"GO:0034446", "substrate adhesion-dependent cell spreading", 0.314, null, null, 1.756, 0.769, 0.539, 31589, True
+"GO:0007411", "axon guidance", 1.497, null, null, 2.428, 0.627, 0.685, 31589, True
+"GO:1902287", "semaphorin-plexin signaling pathway involved in axon guidance", 0.062, null, null, 1.079, 0.692, 0.713, 31589, True
+"GO:0097485", "neuron projection guidance", 1.503, null, null, 2.430, 0.630, 0.841, 31589, True
+"GO:1902285", "semaphorin-plexin signaling pathway involved in neuron projection guidance", 0.073, null, null, 1.146, 0.689, 0.844, 31589, True
+"GO:0001667", "ameboidal-type cell migration", 0.976, 3.481, 5.915, 2.243, 0.947, 0.004, -1, False
+"GO:0043542", "endothelial cell migration", 0.376, null, null, 1.833, 0.844, 0.544, 1667, True
+"GO:0050900", "leukocyte migration", 2.103, null, null, 2.575, 0.943, 0.654, 1667, True
+"GO:0010631", "epithelial cell migration", 0.482, null, null, 1.940, 0.841, 0.966, 1667, True
+"GO:0090132", "epithelium migration", 0.499, null, null, 1.954, 0.875, 0.979, 1667, True
+"GO:0030198", "extracellular matrix organization", 1.996, -2.002, -6.740, 2.553, 0.975, 0.004, -1, False
+"GO:0030278", "regulation of ossification", 0.617, 1.638, 7.108, 2.045, 0.948, 0.026, -1, False
+"GO:1902895", "positive regulation of pri-miRNA transcription by RNA polymerase II", 0.224, 3.802, 3.777, 1.613, 0.961, 0.029, -1, False
+"GO:0032970", "regulation of actin filament-based process", 2.176, 0.562, -0.975, 2.590, 0.979, 0.035, -1, False
+"GO:0048145", "regulation of fibroblast proliferation", 0.432, 5.149, -1.143, 1.892, 0.966, 0.037, -1, False
+"GO:0010717", "regulation of epithelial to mesenchymal transition", 0.516, -1.662, 7.963, 1.968, 0.934, 0.037, -1, False
+"GO:0090287", "regulation of cellular response to growth factor stimulus", 1.525, 0.495, -6.271, 2.436, 0.968, 0.042, -1, False
+"GO:0007162", "negative regulation of cell adhesion", 1.553, -0.148, 5.235, 2.444, 0.966, 0.043, -1, False
+"GO:0061614", "pri-miRNA transcription by RNA polymerase II", 0.006, 3.419, 1.246, 0.301, 0.967, 0.055, -1, False
+"GO:0071526", "semaphorin-plexin signaling pathway", 0.207, 4.066, -3.748, 1.580, 0.950, 0.072, -1, False
+"GO:0070085", "glycosylation", 1.441, 1.634, 2.735, 2.412, 0.983, 0.086, -1, False
+"GO:0003014", "renal system process", 0.611, -5.566, -4.383, 2.041, 0.893, 0.116, -1, False
+"GO:0018108", "peptidyl-tyrosine phosphorylation", 0.875, 5.198, 1.568, 2.196, 0.956, 0.119, -1, False
+"GO:0018212", "peptidyl-tyrosine modification", 0.892, null, null, 2.204, 0.956, 0.605, 18108, True
+"GO:0001503", "ossification", 1.424, -7.804, -2.961, 2.407, 0.887, 0.129, -1, False
+"GO:0048871", "multicellular organismal homeostasis", 1.946, -6.667, -3.190, 2.542, 0.864, 0.147, -1, False
+"GO:0050730", "regulation of peptidyl-tyrosine phosphorylation", 1.435, 4.346, 4.679, 2.410, 0.956, 0.151, -1, False
+"GO:0061097", "regulation of protein tyrosine kinase activity", 0.550, null, null, 1.996, 0.950, 0.535, 50730, True
+"GO:0061098", "positive regulation of protein tyrosine kinase activity", 0.359, null, null, 1.813, 0.941, 0.772, 50730, True
+"GO:0050731", "positive regulation of peptidyl-tyrosine phosphorylation", 1.077, null, null, 2.286, 0.935, 0.859, 50730, True
+"GO:0031668", "cellular response to extracellular stimulus", 1.267, 3.126, -4.632, 2.356, 0.935, 0.155, -1, False
+"GO:0009267", "cellular response to starvation", 0.880, null, null, 2.199, 0.936, 0.887, 31668, True
+"GO:0031669", "cellular response to nutrient levels", 1.133, null, null, 2.307, 0.934, 0.936, 31668, True
+"GO:0001649", "osteoblast differentiation", 0.673, -4.156, 1.921, 2.083, 0.838, 0.163, -1, False
+"GO:0061383", "trabecula morphogenesis", 0.230, -5.585, 4.437, 1.623, 0.805, 0.164, -1, False
+"GO:0055123", "digestive system development", 0.735, -5.439, 1.062, 2.121, 0.811, 0.183, -1, False
+"GO:0030203", "glycosaminoglycan metabolic process", 0.852, 5.501, 2.142, 2.185, 0.922, 0.186, -1, False
+"GO:0006022", "aminoglycan metabolic process", 0.931, null, null, 2.223, 0.932, 0.576, 30203, True
+"GO:0009100", "glycoprotein metabolic process", 2.063, null, null, 2.567, 0.922, 0.636, 30203, True
+"GO:0006486", "protein glycosylation", 1.368, null, null, 2.389, 0.900, 0.666, 30203, True
+"GO:0006493", "protein O-linked glycosylation", 0.594, null, null, 2.029, 0.907, 0.899, 30203, True
+"GO:0009101", "glycoprotein biosynthetic process", 1.688, null, null, 2.480, 0.911, 0.908, 30203, True
+"GO:0006024", "glycosaminoglycan biosynthetic process", 0.561, null, null, 2.004, 0.917, 0.931, 30203, True
+"GO:0006023", "aminoglycan biosynthetic process", 0.600, null, null, 2.033, 0.916, 0.938, 30203, True
+"GO:0043413", "macromolecule glycosylation", 1.368, null, null, 2.389, 0.948, 0.974, 30203, True
+"GO:0045216", "cell-cell junction organization", 1.021, -2.309, -6.154, 2.262, 0.960, 0.187, -1, False
+"GO:0007043", "cell-cell junction assembly", 0.695, null, null, 2.097, 0.961, 0.735, 45216, True
+"GO:0034329", "cell junction assembly", 1.531, null, null, 2.438, 0.959, 0.801, 45216, True
+"GO:0061448", "connective tissue development", 1.082, -7.520, 3.446, 2.288, 0.778, 0.191, -1, False
+"GO:0043062", "extracellular structure organization", 2.002, -2.740, -6.794, 2.554, 0.975, 0.203, -1, False
+"GO:0034330", "cell junction organization", 2.714, -3.234, -6.621, 2.686, 0.974, 0.212, -1, False
+"GO:0051271", "negative regulation of cellular component movement", 1.576, 0.579, 4.960, 2.450, 0.957, 0.231, -1, False
+"GO:0010632", "regulation of epithelial cell migration", 1.284, null, null, 2.362, 0.934, 0.639, 51271, True
+"GO:0060541", "respiratory system development", 1.021, -5.695, 0.315, 2.262, 0.805, 0.237, -1, False
+"GO:0048545", "response to steroid hormone", 1.508, 2.399, -2.249, 2.431, 0.930, 0.237, -1, False
+"GO:1901653", "cellular response to peptide", 1.834, null, null, 2.516, 0.926, 0.577, 48545, True
+"GO:0071560", "cellular response to transforming growth factor beta stimulus", 0.852, null, null, 2.185, 0.922, 0.592, 48545, True
+"GO:0051384", "response to glucocorticoid", 0.757, null, null, 2.134, 0.931, 0.660, 48545, True
+"GO:0071559", "response to transforming growth factor beta", 0.886, null, null, 2.201, 0.931, 0.725, 48545, True
+"GO:0031960", "response to corticosteroid", 0.852, null, null, 2.185, 0.930, 0.856, 48545, True
+"GO:0007179", "transforming growth factor beta receptor signaling pathway", 0.578, null, null, 2.017, 0.894, 0.945, 48545, True
+"GO:0003205", "cardiac chamber development", 0.835, -7.920, 1.293, 2.176, 0.763, 0.240, -1, False
+"GO:0003279", "cardiac septum development", 0.527, null, null, 1.978, 0.763, 0.697, 3205, True
+"GO:0060411", "cardiac septum morphogenesis", 0.348, null, null, 1.799, 0.711, 0.870, 3205, True
+"GO:0003231", "cardiac ventricle development", 0.628, null, null, 2.053, 0.760, 0.920, 3205, True
+"GO:0003206", "cardiac chamber morphogenesis", 0.634, null, null, 2.057, 0.697, 0.937, 3205, True
+"GO:0001655", "urogenital system development", 1.705, -7.369, -0.154, 2.484, 0.795, 0.260, -1, False
+"GO:0090092", "regulation of transmembrane receptor protein serine/threonine kinase signaling pathway", 1.351, 0.942, -6.095, 2.384, 0.966, 0.267, -1, False
+"GO:1902893", "regulation of pri-miRNA transcription by RNA polymerase II", 0.292, 4.454, 3.817, 1.724, 0.973, 0.280, -1, False
+"GO:0048608", "reproductive structure development", 2.209, -6.757, -0.136, 2.597, 0.762, 0.285, -1, False
+"GO:0001892", "embryonic placenta development", 0.449, null, null, 1.908, 0.739, 0.807, 48608, True
+"GO:0060711", "labyrinthine layer development", 0.247, null, null, 1.653, 0.750, 0.848, 48608, True
+"GO:0001890", "placenta development", 0.763, null, null, 2.137, 0.762, 0.856, 48608, True
+"GO:0030279", "negative regulation of ossification", 0.202, 0.861, 6.737, 1.568, 0.940, 0.293, -1, False
+"GO:0061458", "reproductive system development", 2.226, -6.311, 0.096, 2.600, 0.789, 0.295, -1, False
+"GO:0055117", "regulation of cardiac muscle contraction", 0.404, 1.295, 7.421, 1.863, 0.944, 0.312, -1, False
+"GO:0086069", "bundle of His cell to Purkinje myocyte communication", 0.073, null, null, 1.146, 0.857, 0.670, 55117, True
+"GO:0007178", "transmembrane receptor protein serine/threonine kinase signaling pathway", 1.088, 3.743, -4.076, 2.290, 0.938, 0.319, -1, False
+"GO:0070293", "renal absorption", 0.090, -5.450, -5.860, 1.230, 0.909, 0.320, -1, False
+"GO:0017015", "regulation of transforming growth factor beta receptor signaling pathway", 0.673, 1.274, -5.924, 2.083, 0.952, 0.321, -1, False
+"GO:1903844", "regulation of cellular response to transforming growth factor beta stimulus", 0.690, null, null, 2.093, 0.962, 0.826, 17015, True
+"GO:0090101", "negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway", 0.701, null, null, 2.100, 0.947, 0.852, 17015, True
+"GO:0043588", "skin development", 2.114, -6.872, 0.772, 2.577, 0.762, 0.338, -1, False
+"GO:0030323", "respiratory tube development", 0.903, -7.908, 0.785, 2.210, 0.730, 0.342, -1, False
+"GO:0035148", "tube formation", 0.757, null, null, 2.134, 0.721, 0.617, 30323, True
+"GO:0021915", "neural tube development", 0.802, null, null, 2.158, 0.685, 0.621, 30323, True
+"GO:0001763", "morphogenesis of a branching structure", 0.886, -5.459, 3.071, 2.201, 0.766, 0.353, -1, False
+"GO:0021537", "telencephalon development", 1.312, -7.290, 1.137, 2.371, 0.756, 0.357, -1, False
+"GO:0001822", "kidney development", 1.486, -7.406, 0.626, 2.425, 0.722, 0.363, -1, False
+"GO:0001657", "ureteric bud development", 0.415, null, null, 1.875, 0.672, 0.849, 1822, True
+"GO:0001823", "mesonephros development", 0.443, null, null, 1.903, 0.750, 0.855, 1822, True
+"GO:0060993", "kidney morphogenesis", 0.443, null, null, 1.903, 0.686, 0.855, 1822, True
+"GO:0072073", "kidney epithelium development", 0.662, null, null, 2.076, 0.682, 0.892, 1822, True
+"GO:0072001", "renal system development", 1.531, null, null, 2.438, 0.743, 0.954, 1822, True
+"GO:0072163", "mesonephric epithelium development", 0.421, null, null, 1.881, 0.689, 0.985, 1822, True
+"GO:0072164", "mesonephric tubule development", 0.421, null, null, 1.881, 0.672, 0.995, 1822, True
+"GO:0022604", "regulation of cell morphogenesis", 1.705, -1.950, 7.909, 2.484, 0.921, 0.374, -1, False
+"GO:0045766", "positive regulation of angiogenesis", 0.841, null, null, 2.179, 0.886, 0.631, 22604, True
+"GO:1904018", "positive regulation of vasculature development", 0.841, null, null, 2.179, 0.896, 0.861, 22604, True
+"GO:0042475", "odontogenesis of dentin-containing tooth", 0.421, -6.186, 2.359, 1.881, 0.731, 0.374, -1, False
+"GO:0022612", "gland morphogenesis", 0.510, null, null, 1.964, 0.726, 0.527, 42475, True
+"GO:0060349", "bone morphogenesis", 0.505, null, null, 1.959, 0.716, 0.536, 42475, True
+"GO:0042476", "odontogenesis", 0.622, null, null, 2.049, 0.722, 0.547, 42475, True
+"GO:0003418", "growth plate cartilage chondrocyte differentiation", 0.050, null, null, 1.000, 0.733, 0.713, 42475, True
+"GO:0060350", "endochondral bone morphogenesis", 0.292, null, null, 1.724, 0.726, 0.825, 42475, True
+"GO:0003433", "chondrocyte development involved in endochondral bone morphogenesis", 0.045, null, null, 0.954, 0.732, 0.934, 42475, True
+"GO:0048732", "gland development", 2.164, -6.618, 1.077, 2.588, 0.762, 0.380, -1, False
+"GO:0048146", "positive regulation of fibroblast proliferation", 0.252, 5.022, -0.400, 1.663, 0.955, 0.384, -1, False
+"GO:0050679", "positive regulation of epithelial cell proliferation", 1.037, null, null, 2.270, 0.949, 0.538, 48146, True
+"GO:0010718", "positive regulation of epithelial to mesenchymal transition", 0.269, -0.237, 7.503, 1.690, 0.906, 0.401, -1, False
+"GO:0031214", "biomineral tissue development", 0.488, -7.623, 2.323, 1.944, 0.745, 0.434, -1, False
+"GO:0010721", "negative regulation of cell development", 0.942, -1.176, 7.252, 2.228, 0.910, 0.451, -1, False
+"GO:0051961", "negative regulation of nervous system development", 0.751, null, null, 2.130, 0.897, 0.610, 10721, True
+"GO:0010770", "positive regulation of cell morphogenesis involved in differentiation", 0.432, null, null, 1.892, 0.898, 0.698, 10721, True
+"GO:0010769", "regulation of cell morphogenesis involved in differentiation", 0.521, null, null, 1.973, 0.923, 0.748, 10721, True
+"GO:0050768", "negative regulation of neurogenesis", 0.723, null, null, 2.114, 0.683, 0.749, 10721, True
+"GO:0008360", "regulation of cell shape", 0.847, null, null, 2.182, 0.913, 0.798, 10721, True
+"GO:0050891", "multicellular organismal water homeostasis", 0.398, -7.042, -4.253, 1.857, 0.883, 0.461, -1, False
+"GO:0048762", "mesenchymal cell differentiation", 0.875, -6.993, 2.103, 2.196, 0.725, 0.462, -1, False
+"GO:0050678", "regulation of epithelial cell proliferation", 1.856, 5.212, -0.888, 2.521, 0.961, 0.465, -1, False
+"GO:0050673", "epithelial cell proliferation", 0.471, -0.257, -3.902, 1.929, 0.991, 0.470, -1, False
+"GO:0002064", "epithelial cell development", 1.049, -7.142, 3.475, 2.274, 0.735, 0.471, -1, False
+"GO:0061138", "morphogenesis of a branching epithelium", 0.841, null, null, 2.179, 0.686, 0.568, 2064, True
+"GO:0003382", "epithelial cell morphogenesis", 0.174, null, null, 1.505, 0.736, 0.582, 2064, True
+"GO:0070268", "cornification", 0.634, null, null, 2.057, 0.712, 0.660, 2064, True
+"GO:0001843", "neural tube closure", 0.460, null, null, 1.919, 0.652, 0.724, 2064, True
+"GO:0016331", "morphogenesis of embryonic epithelium", 0.751, null, null, 2.130, 0.678, 0.761, 2064, True
+"GO:0060670", "branching involved in labyrinthine layer morphogenesis", 0.067, null, null, 1.114, 0.701, 0.775, 2064, True
+"GO:0060562", "epithelial tube morphogenesis", 1.609, null, null, 2.459, 0.650, 0.826, 2064, True
+"GO:0060606", "tube closure", 0.465, null, null, 1.924, 0.714, 0.902, 2064, True
+"GO:0001841", "neural tube formation", 0.538, null, null, 1.987, 0.647, 0.948, 2064, True
+"GO:0072175", "epithelial tube formation", 0.678, null, null, 2.086, 0.662, 0.949, 2064, True
+"GO:0001838", "embryonic epithelial tube formation", 0.634, null, null, 2.057, 0.655, 0.964, 2064, True
+"GO:0014020", "primary neural tube formation", 0.493, null, null, 1.949, 0.650, 0.972, 2064, True
+"GO:0060485", "mesenchyme development", 1.211, -7.307, 1.900, 2.336, 0.723, 0.478, -1, False

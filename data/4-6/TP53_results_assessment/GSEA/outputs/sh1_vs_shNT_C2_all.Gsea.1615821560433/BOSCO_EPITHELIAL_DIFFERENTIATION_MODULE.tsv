@@ -1,0 +1,70 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SCEL	sciellin [Source:HGNC Symbol;Acc:HGNC:10573]	5	4.7386322021484375	0.064262584	Yes	
+row_1	MUC16	mucin 16, cell surface associated [Source:HGNC Symbol;Acc:HGNC:15582]	8	4.495097637176514	0.1252932	Yes	
+row_2	MUC1	mucin 1, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7508]	45	3.8610129356384277	0.17683116	Yes	
+row_3	KRT17	keratin 17 [Source:HGNC Symbol;Acc:HGNC:6427]	81	3.6016721725463867	0.22487082	Yes	
+row_4	PSCA	prostate stem cell antigen [Source:HGNC Symbol;Acc:HGNC:9500]	103	3.4579861164093018	0.2713188	Yes	
+row_5	TMPRSS2	transmembrane serine protease 2 [Source:HGNC Symbol;Acc:HGNC:11876]	110	3.435859203338623	0.31785274	Yes	
+row_6	H19	H19 imprinted maternally expressed transcript [Source:HGNC Symbol;Acc:HGNC:4713]	124	3.3055930137634277	0.36243612	Yes	
+row_7	ELF3	E74 like ETS transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:3318]	129	3.2723402976989746	0.40679958	Yes	
+row_8	CEACAM6	CEA cell adhesion molecule 6 [Source:HGNC Symbol;Acc:HGNC:1818]	132	3.2639341354370117	0.45110038	Yes	
+row_9	GPRC5A	G protein-coupled receptor class C group 5 member A [Source:HGNC Symbol;Acc:HGNC:9836]	240	2.7070252895355225	0.48512733	Yes	
+row_10	TACSTD2	tumor associated calcium signal transducer 2 [Source:HGNC Symbol;Acc:HGNC:11530]	502	2.414149761199951	0.5112053	Yes	
+row_11	LCN2	lipocalin 2 [Source:HGNC Symbol;Acc:HGNC:6526]	508	2.384748935699463	0.5434819	Yes	
+row_12	MUC4	mucin 4, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7514]	621	2.1081652641296387	0.56924224	Yes	
+row_13	DUOX2	dual oxidase 2 [Source:HGNC Symbol;Acc:HGNC:13273]	694	2.0007314682006836	0.5945737	Yes	
+row_14	SPNS2	sphingolipid transporter 2 [Source:HGNC Symbol;Acc:HGNC:26992]	805	1.9345568418502808	0.6180265	Yes	
+row_15	CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	1002	1.6885098218917847	0.63591933	Yes	
+row_16	KRT4	keratin 4 [Source:HGNC Symbol;Acc:HGNC:6441]	1040	1.6485786437988281	0.65736765	Yes	
+row_17	KRT18	keratin 18 [Source:HGNC Symbol;Acc:HGNC:6430]	1055	1.6348410844802856	0.679222	Yes	
+row_18	SPINK5	serine peptidase inhibitor Kazal type 5 [Source:HGNC Symbol;Acc:HGNC:15464]	1098	1.595327615737915	0.69981784	Yes	
+row_19	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	1204	1.5193114280700684	0.71775687	Yes	
+row_20	KRT16	keratin 16 [Source:HGNC Symbol;Acc:HGNC:6423]	1297	1.4523764848709106	0.7351215	Yes	
+row_21	PARD6B	par-6 family cell polarity regulator beta [Source:HGNC Symbol;Acc:HGNC:16245]	1365	1.399357557296753	0.75241	Yes	
+row_22	PPL	periplakin [Source:HGNC Symbol;Acc:HGNC:9273]	1874	1.1786623001098633	0.75533324	Yes	
+row_23	LMO7	LIM domain 7 [Source:HGNC Symbol;Acc:HGNC:6646]	2127	1.0978885889053345	0.763757	Yes	
+row_24	ADGRF1	adhesion G protein-coupled receptor F1 [Source:HGNC Symbol;Acc:HGNC:18990]	2218	1.062947154045105	0.77588135	Yes	
+row_25	TMPRSS11A	transmembrane serine protease 11A [Source:HGNC Symbol;Acc:HGNC:27954]	2298	1.0321956872940063	0.7878713	Yes	
+row_26	HSPB8	heat shock protein family B (small) member 8 [Source:HGNC Symbol;Acc:HGNC:30171]	3011	0.826642632484436	0.78075325	Yes	
+row_27	DENND2C	DENN domain containing 2C [Source:HGNC Symbol;Acc:HGNC:24748]	3142	0.7970842719078064	0.78823394	Yes	
+row_28	ANXA9	annexin A9 [Source:HGNC Symbol;Acc:HGNC:547]	3523	0.7179705500602722	0.7881961	No	
+row_29	RDH10	retinol dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:19975]	4854	0.5643443465232849	0.76158553	No	
+row_30	NCCRP1	NCCRP1, F-box associated domain containing [Source:HGNC Symbol;Acc:HGNC:33739]	5901	0.5316740274429321	0.7418508	No	
+row_31	TM4SF1	transmembrane 4 L six family member 1 [Source:HGNC Symbol;Acc:HGNC:11853]	6755	0.49394962191581726	0.72657776	No	
+row_32	TRIM16	tripartite motif containing 16 [Source:HGNC Symbol;Acc:HGNC:17241]	6814	0.4863393306732178	0.73169154	No	
+row_33	NDRG2	NDRG family member 2 [Source:HGNC Symbol;Acc:HGNC:14460]	6899	0.476637601852417	0.7360034	No	
+row_34	PTPN3	protein tyrosine phosphatase non-receptor type 3 [Source:HGNC Symbol;Acc:HGNC:9655]	6937	0.47383344173431396	0.7414885	No	
+row_35	KRT13	keratin 13 [Source:HGNC Symbol;Acc:HGNC:6415]	8855	0.29842880368232727	0.6961353	No	
+row_36	SLC6A14	solute carrier family 6 member 14 [Source:HGNC Symbol;Acc:HGNC:11047]	11213	0.14171791076660156	0.637312	No	
+row_37	TRIM16L	tripartite motif containing 16 like [Source:HGNC Symbol;Acc:HGNC:32670]	11528	0.12028496712446213	0.63085353	No	
+row_38	FBXW10	F-box and WD repeat domain containing 10 [Source:HGNC Symbol;Acc:HGNC:1211]	12288	0.07207643985748291	0.6122706	No	
+row_39	IGHA1	immunoglobulin heavy constant alpha 1 [Source:HGNC Symbol;Acc:HGNC:5478]	14317	0.0	0.5600012	No	
+row_40	GABRP	gamma-aminobutyric acid type A receptor subunit pi [Source:HGNC Symbol;Acc:HGNC:4089]	14468	0.0	0.5561351	No	
+row_41	TMPRSS11E	transmembrane serine protease 11E [Source:HGNC Symbol;Acc:HGNC:24465]	14539	0.0	0.55433095	No	
+row_42	CEACAM7	CEA cell adhesion molecule 7 [Source:HGNC Symbol;Acc:HGNC:1819]	14790	0.0	0.5478875	No	
+row_43	CEACAM5	CEA cell adhesion molecule 5 [Source:HGNC Symbol;Acc:HGNC:1817]	14791	0.0	0.5478875	No	
+row_44	FAM3D	FAM3 metabolism regulating signaling molecule D [Source:HGNC Symbol;Acc:HGNC:18665]	15057	0.0	0.5410574	No	
+row_45	IGLJ3	immunoglobulin lambda joining 3 [Source:HGNC Symbol;Acc:HGNC:5865]	15110	0.0	0.5397172	No	
+row_46	MAL	mal, T cell differentiation protein [Source:HGNC Symbol;Acc:HGNC:6817]	15403	0.0	0.5321912	No	
+row_47	SPRR3	small proline rich protein 3 [Source:HGNC Symbol;Acc:HGNC:11268]	16473	0.0	0.50463897	No	
+row_48	IGHM	immunoglobulin heavy constant mu [Source:HGNC Symbol;Acc:HGNC:5541]	16699	0.0	0.49883986	No	
+row_49	IGHD	immunoglobulin heavy constant delta [Source:HGNC Symbol;Acc:HGNC:5480]	16710	0.0	0.4985821	No	
+row_50	IGKC	immunoglobulin kappa constant [Source:HGNC Symbol;Acc:HGNC:5716]	16714	0.0	0.4985048	No	
+row_51	TGM3	transglutaminase 3 [Source:HGNC Symbol;Acc:HGNC:11779]	16728	0.0	0.49816972	No	
+row_52	RHCG	Rh family C glycoprotein [Source:HGNC Symbol;Acc:HGNC:18140]	18252	0.0	0.45891613	No	
+row_53	SPRR2A	small proline rich protein 2A [Source:HGNC Symbol;Acc:HGNC:11261]	20347	0.0	0.40494567	No	
+row_54	SPRR1A	small proline rich protein 1A [Source:HGNC Symbol;Acc:HGNC:11259]	20353	0.0	0.4048168	No	
+row_55	SPRR1B	small proline rich protein 1B [Source:HGNC Symbol;Acc:HGNC:11260]	20355	0.0	0.40479103	No	
+row_56	TMPRSS4	transmembrane serine protease 4 [Source:HGNC Symbol;Acc:HGNC:11878]	21169	0.0	0.3838369	No	
+row_57	MUC21	mucin 21, cell surface associated [Source:HGNC Symbol;Acc:HGNC:21661]	22362	0.0	0.35311443	No	
+row_58	CLCA4	chloride channel accessory 4 [Source:HGNC Symbol;Acc:HGNC:2018]	22484	0.0	0.3499958	No	
+row_59	A2ML1	alpha-2-macroglobulin like 1 [Source:HGNC Symbol;Acc:HGNC:23336]	24593	0.0	0.29566452	No	
+row_60	TMPRSS11D	transmembrane serine protease 11D [Source:HGNC Symbol;Acc:HGNC:24059]	27554	-0.0794931948184967	0.22045408	No	
+row_61	KRT78	keratin 78 [Source:HGNC Symbol;Acc:HGNC:28926]	30075	-0.23202049732208252	0.1586568	No	
+row_62	TSPAN6	tetraspanin 6 [Source:HGNC Symbol;Acc:HGNC:11858]	32004	-0.38949349522590637	0.11425748	No	
+row_63	KRT3	keratin 3 [Source:HGNC Symbol;Acc:HGNC:6440]	33698	-0.5653150081634521	0.07830418	No	
+row_64	IL36A	interleukin 36 alpha [Source:HGNC Symbol;Acc:HGNC:15562]	34075	-0.5774803161621094	0.07646037	No	
+row_65	TMPRSS11B	transmembrane serine protease 11B [Source:HGNC Symbol;Acc:HGNC:25398]	34121	-0.5774803161621094	0.083147705	No	
+row_66	SERPINB2	serpin family B member 2 [Source:HGNC Symbol;Acc:HGNC:8584]	35220	-0.6407684683799744	0.06355516	No	
+row_67	EMP2	epithelial membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:3334]	36375	-0.8238236904144287	0.045006752	No	
+row_68	ECM1	extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3153]	37978	-1.412662148475647	0.022913152	No	

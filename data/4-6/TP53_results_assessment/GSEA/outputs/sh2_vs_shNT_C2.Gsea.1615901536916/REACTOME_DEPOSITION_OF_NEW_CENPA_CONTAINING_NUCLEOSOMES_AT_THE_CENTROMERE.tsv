@@ -1,0 +1,70 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	H2AJ	H2A.J histone [Source:HGNC Symbol;Acc:HGNC:14456]	3550	0.8411421775817871	-0.080094256	No	
+row_1	H4C13	H4 clustered histone 13 [Source:HGNC Symbol;Acc:HGNC:4791]	6025	0.5368697047233582	-0.1365807	No	
+row_2	H2BC9	H2B clustered histone 9 [Source:HGNC Symbol;Acc:HGNC:4755]	6062	0.5368697047233582	-0.1302305	No	
+row_3	H2AB1	H2A.B variant histone 1 [Source:HGNC Symbol;Acc:HGNC:22516]	6917	0.5303168296813965	-0.14505213	No	
+row_4	RSF1	remodeling and spacing factor 1 [Source:HGNC Symbol;Acc:HGNC:18118]	8781	0.38942644000053406	-0.18778957	No	
+row_5	H4C9	H4 clustered histone 9 [Source:HGNC Symbol;Acc:HGNC:4793]	12773	0.08245202153921127	-0.28953528	No	
+row_6	H2AC8	H2A clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4724]	18166	0.0	-0.42850792	No	
+row_7	H2AC7	H2A clustered histone 7 [Source:HGNC Symbol;Acc:HGNC:4729]	18167	0.0	-0.42850792	No	
+row_8	H2BS1	H2B.S histone 1 [Source:HGNC Symbol;Acc:HGNC:4762]	18475	0.0	-0.4364205	No	
+row_9	H2BU1	H2B.U histone 1 [Source:HGNC Symbol;Acc:HGNC:20514]	18494	0.0	-0.43688443	No	
+row_10	H2AC19	H2A clustered histone 19 [Source:HGNC Symbol;Acc:HGNC:29668]	19248	0.0	-0.45629215	No	
+row_11	H2AC18	H2A clustered histone 18 [Source:HGNC Symbol;Acc:HGNC:4736]	19251	0.0	-0.4563437	No	
+row_12	H4C5	H4 clustered histone 5 [Source:HGNC Symbol;Acc:HGNC:4790]	20496	0.0	-0.4884064	No	
+row_13	H2BC10	H2B clustered histone 10 [Source:HGNC Symbol;Acc:HGNC:4756]	25964	0.0	-0.6293121	No	
+row_14	RUVBL1	RuvB like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	29771	-0.21994556486606598	-0.7244257	No	
+row_15	H4C4	H4 clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4782]	30027	-0.24010026454925537	-0.7277431	No	
+row_16	CENPX	centromere protein X [Source:HGNC Symbol;Acc:HGNC:11422]	30281	-0.25916337966918945	-0.73075056	No	
+row_17	CENPO	centromere protein O [Source:HGNC Symbol;Acc:HGNC:28152]	31936	-0.38504430651664734	-0.76816064	No	
+row_18	CENPS	centromere protein S [Source:HGNC Symbol;Acc:HGNC:23163]	32306	-0.42158791422843933	-0.77195597	No	
+row_19	CENPT	centromere protein T [Source:HGNC Symbol;Acc:HGNC:25787]	32340	-0.4249947667121887	-0.767045	No	
+row_20	SMARCA5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 [Source:HGNC Symbol;Acc:HGNC:11101]	32939	-0.48126575350761414	-0.7759335	No	
+row_21	CENPH	centromere protein H [Source:HGNC Symbol;Acc:HGNC:17268]	33190	-0.5081622004508972	-0.7754881	No	
+row_22	H2AX	H2A.X variant histone [Source:HGNC Symbol;Acc:HGNC:4739]	33468	-0.5380247235298157	-0.7753337	No	
+row_23	RBBP4	RB binding protein 4, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9887]	34119	-0.5723009705543518	-0.78432834	No	
+row_24	CENPL	centromere protein L [Source:HGNC Symbol;Acc:HGNC:17879]	34840	-0.6072344183921814	-0.79465353	No	
+row_25	CENPN	centromere protein N [Source:HGNC Symbol;Acc:HGNC:30873]	35213	-0.6470023393630981	-0.7954703	No	
+row_26	CENPP	centromere protein P [Source:HGNC Symbol;Acc:HGNC:32933]	35766	-0.7291836738586426	-0.7998123	No	
+row_27	H2AC20	H2A clustered histone 20 [Source:HGNC Symbol;Acc:HGNC:4738]	36011	-0.7735453248023987	-0.79561454	No	
+row_28	CENPM	centromere protein M [Source:HGNC Symbol;Acc:HGNC:18352]	36737	-0.8948193192481995	-0.80217	Yes	
+row_29	CENPQ	centromere protein Q [Source:HGNC Symbol;Acc:HGNC:21347]	36758	-0.8965288996696472	-0.7905317	Yes	
+row_30	CENPK	centromere protein K [Source:HGNC Symbol;Acc:HGNC:29479]	36816	-0.9139156937599182	-0.7796113	Yes	
+row_31	ITGB3BP	integrin subunit beta 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6157]	37032	-0.9559487700462341	-0.7721934	Yes	
+row_32	H4C15	H4 clustered histone 15 [Source:HGNC Symbol;Acc:HGNC:29607]	37090	-0.9747873544692993	-0.76044774	Yes	
+row_33	H2AZ2	H2A.Z variant histone 2 [Source:HGNC Symbol;Acc:HGNC:20664]	37129	-0.981317400932312	-0.74812394	Yes	
+row_34	H2AZ1	H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741]	37199	-0.999300479888916	-0.7363553	Yes	
+row_35	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	37335	-1.0262930393218994	-0.72592187	Yes	
+row_36	CENPI	centromere protein I [Source:HGNC Symbol;Acc:HGNC:3968]	37441	-1.0609149932861328	-0.7142458	Yes	
+row_37	H2BC15	H2B clustered histone 15 [Source:HGNC Symbol;Acc:HGNC:4749]	37507	-1.0861636400222778	-0.70119655	Yes	
+row_38	MIS18BP1	MIS18 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:20190]	37567	-1.1121927499771118	-0.6876398	Yes	
+row_39	CENPC	centromere protein C [Source:HGNC Symbol;Acc:HGNC:1854]	37780	-1.1911269426345825	-0.6769563	Yes	
+row_40	MIS18A	MIS18 kinetochore protein A [Source:HGNC Symbol;Acc:HGNC:1286]	37798	-1.1984997987747192	-0.661147	Yes	
+row_41	H2BC21	H2B clustered histone 21 [Source:HGNC Symbol;Acc:HGNC:4760]	37876	-1.248730182647705	-0.64620316	Yes	
+row_42	H2AC14	H2A clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4727]	37909	-1.262633204460144	-0.629911	Yes	
+row_43	CENPW	centromere protein W [Source:HGNC Symbol;Acc:HGNC:21488]	38092	-1.3720909357070923	-0.6160011	Yes	
+row_44	RBBP7	RB binding protein 7, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9890]	38110	-1.3803826570510864	-0.5977261	Yes	
+row_45	HJURP	Holliday junction recognition protein [Source:HGNC Symbol;Acc:HGNC:25444]	38116	-1.3872746229171753	-0.5790484	Yes	
+row_46	H4C14	H4 clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4794]	38174	-1.428539752960205	-0.5611515	Yes	
+row_47	CENPA	centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851]	38175	-1.4291740655899048	-0.5417769	Yes	
+row_48	H2AC6	H2A clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4733]	38252	-1.5039851665496826	-0.52334696	Yes	
+row_49	H4-16	H4 histone 16 [Source:HGNC Symbol;Acc:HGNC:20510]	38256	-1.5053889751434326	-0.5030165	Yes	
+row_50	H2BC13	H2B clustered histone 13 [Source:HGNC Symbol;Acc:HGNC:4748]	38355	-1.5989603996276855	-0.483866	Yes	
+row_51	OIP5	Opa interacting protein 5 [Source:HGNC Symbol;Acc:HGNC:20300]	38368	-1.6105756759643555	-0.46234152	Yes	
+row_52	H2BC12	H2B clustered histone 12 [Source:HGNC Symbol;Acc:HGNC:13954]	38381	-1.6254831552505493	-0.44061494	Yes	
+row_53	H2BC5	H2B clustered histone 5 [Source:HGNC Symbol;Acc:HGNC:4747]	38434	-1.692996859550476	-0.41900405	Yes	
+row_54	KNL1	kinetochore scaffold 1 [Source:HGNC Symbol;Acc:HGNC:24054]	38458	-1.7200089693069458	-0.39627957	Yes	
+row_55	H2BC17	H2B clustered histone 17 [Source:HGNC Symbol;Acc:HGNC:4758]	38500	-1.7757563591003418	-0.37326324	Yes	
+row_56	H4C11	H4 clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4785]	38546	-1.8415216207504272	-0.3494585	Yes	
+row_57	H4C8	H4 clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4788]	38547	-1.8450502157211304	-0.32444605	Yes	
+row_58	H2AC4	H2A clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4734]	38549	-1.8492366075515747	-0.29940265	Yes	
+row_59	H4C12	H4 clustered histone 12 [Source:HGNC Symbol;Acc:HGNC:4784]	38574	-1.9372787475585938	-0.2737585	Yes	
+row_60	H2BC4	H2B clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4757]	38576	-1.9433889389038086	-0.24743873	Yes	
+row_61	H2BC6	H2B clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4753]	38623	-2.0393543243408203	-0.22097781	Yes	
+row_62	H4C1	H4 clustered histone 1 [Source:HGNC Symbol;Acc:HGNC:4781]	38624	-2.0400922298431396	-0.1933213	Yes	
+row_63	H2BC11	H2B clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4761]	38634	-2.051128625869751	-0.16574715	Yes	
+row_64	CENPU	centromere protein U [Source:HGNC Symbol;Acc:HGNC:21348]	38637	-2.064652919769287	-0.13780923	Yes	
+row_65	H4C3	H4 clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4787]	38665	-2.1628923416137695	-0.10918387	Yes	
+row_66	H2BC3	H2B clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4751]	38722	-2.4941749572753906	-0.07681492	Yes	
+row_67	H2BC1	H2B clustered histone 1 [Source:HGNC Symbol;Acc:HGNC:18730]	38842	-2.8935563564300537	-0.040655512	Yes	
+row_68	H2BC14	H2B clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4750]	38848	-3.0445988178253174	4.8972154E-4	Yes	

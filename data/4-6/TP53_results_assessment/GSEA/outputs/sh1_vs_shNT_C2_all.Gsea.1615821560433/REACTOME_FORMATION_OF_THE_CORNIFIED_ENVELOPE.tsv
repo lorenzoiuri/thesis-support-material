@@ -1,0 +1,130 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KRT6A	keratin 6A [Source:HGNC Symbol;Acc:HGNC:6443]	10	4.466808795928955	0.05764382	Yes	
+row_1	ST14	suppression of tumorigenicity 14 [Source:HGNC Symbol;Acc:HGNC:11344]	78	3.6285951137542725	0.10295073	Yes	
+row_2	KRT17	keratin 17 [Source:HGNC Symbol;Acc:HGNC:6427]	81	3.6016721725463867	0.14958654	Yes	
+row_3	PKP3	plakophilin 3 [Source:HGNC Symbol;Acc:HGNC:9025]	264	2.6082582473754883	0.17869854	Yes	
+row_4	KRT14	keratin 14 [Source:HGNC Symbol;Acc:HGNC:6416]	317	2.424929141998291	0.20878989	Yes	
+row_5	KRT37	keratin 37 [Source:HGNC Symbol;Acc:HGNC:6455]	403	2.4227302074432373	0.23800087	Yes	
+row_6	KRT83	keratin 83 [Source:HGNC Symbol;Acc:HGNC:6460]	404	2.4227302074432373	0.26940602	Yes	
+row_7	FLG	filaggrin [Source:HGNC Symbol;Acc:HGNC:3748]	620	2.1095051765441895	0.29120097	Yes	
+row_8	KRT81	keratin 81 [Source:HGNC Symbol;Acc:HGNC:6458]	698	1.9939936399459839	0.31506085	Yes	
+row_9	RPTN	repetin [Source:HGNC Symbol;Acc:HGNC:26809]	780	1.9707307815551758	0.33851597	Yes	
+row_10	KRT7	keratin 7 [Source:HGNC Symbol;Acc:HGNC:6445]	789	1.9599709510803223	0.363716	Yes	
+row_11	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	833	1.9009325504302979	0.38724723	Yes	
+row_12	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	894	1.8191945552825928	0.40928012	Yes	
+row_13	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	908	1.7977722883224487	0.43224853	Yes	
+row_14	KRT15	keratin 15 [Source:HGNC Symbol;Acc:HGNC:6421]	982	1.7048206329345703	0.45246324	Yes	
+row_15	KRT4	keratin 4 [Source:HGNC Symbol;Acc:HGNC:6441]	1040	1.6485786437988281	0.4723619	Yes	
+row_16	KRT18	keratin 18 [Source:HGNC Symbol;Acc:HGNC:6430]	1055	1.6348410844802856	0.4931925	Yes	
+row_17	SPINK5	serine peptidase inhibitor Kazal type 5 [Source:HGNC Symbol;Acc:HGNC:15464]	1098	1.595327615737915	0.51278806	Yes	
+row_18	DSC2	desmocollin 2 [Source:HGNC Symbol;Acc:HGNC:3036]	1153	1.5555493831634521	0.5315583	Yes	
+row_19	KRT16	keratin 16 [Source:HGNC Symbol;Acc:HGNC:6423]	1297	1.4523764848709106	0.5466936	Yes	
+row_20	KRT86	keratin 86 [Source:HGNC Symbol;Acc:HGNC:6463]	1331	1.4299523830413818	0.56437784	Yes	
+row_21	PRSS8	serine protease 8 [Source:HGNC Symbol;Acc:HGNC:9491]	1481	1.3827743530273438	0.5784561	Yes	
+row_22	TGM1	transglutaminase 1 [Source:HGNC Symbol;Acc:HGNC:11777]	1706	1.245911955833435	0.5888242	Yes	
+row_23	EVPL	envoplakin [Source:HGNC Symbol;Acc:HGNC:3503]	1734	1.2365330457687378	0.6041561	Yes	
+row_24	PPL	periplakin [Source:HGNC Symbol;Acc:HGNC:9273]	1874	1.1786623001098633	0.61584663	Yes	
+row_25	DSP	desmoplakin [Source:HGNC Symbol;Acc:HGNC:3052]	1915	1.167019009590149	0.62994176	Yes	
+row_26	PERP	p53 apoptosis effector related to PMP22 [Source:HGNC Symbol;Acc:HGNC:17637]	1957	1.144008755683899	0.6437129	Yes	
+row_27	PCSK6	proprotein convertase subtilisin/kexin type 6 [Source:HGNC Symbol;Acc:HGNC:8569]	1977	1.1312838792800903	0.6578869	Yes	
+row_28	KRT20	keratin 20 [Source:HGNC Symbol;Acc:HGNC:20412]	2021	1.1217267513275146	0.6713176	Yes	
+row_29	KRT80	keratin 80 [Source:HGNC Symbol;Acc:HGNC:27056]	2049	1.1166024208068848	0.6850948	Yes	
+row_30	PKP1	plakophilin 1 [Source:HGNC Symbol;Acc:HGNC:9023]	2119	1.1015734672546387	0.69759303	Yes	
+row_31	KRT34	keratin 34 [Source:HGNC Symbol;Acc:HGNC:6452]	3666	0.6873728036880493	0.6665951	No	
+row_32	CAPN1	calpain 1 [Source:HGNC Symbol;Acc:HGNC:1476]	3827	0.6611462831497192	0.6710352	No	
+row_33	TGM5	transglutaminase 5 [Source:HGNC Symbol;Acc:HGNC:11781]	4014	0.6378389000892639	0.67450196	No	
+row_34	DSG3	desmoglein 3 [Source:HGNC Symbol;Acc:HGNC:3050]	4421	0.6069682836532593	0.6718895	No	
+row_35	KRT5	keratin 5 [Source:HGNC Symbol;Acc:HGNC:6442]	4438	0.6069682836532593	0.6793444	No	
+row_36	DSC3	desmocollin 3 [Source:HGNC Symbol;Acc:HGNC:3037]	5001	0.5539348721504211	0.6720176	No	
+row_37	DSG4	desmoglein 4 [Source:HGNC Symbol;Acc:HGNC:21307]	5003	0.5539348721504211	0.6791723	No	
+row_38	SPINK6	serine peptidase inhibitor Kazal type 6 [Source:HGNC Symbol;Acc:HGNC:29486]	5139	0.5539348721504211	0.6828679	No	
+row_39	CDSN	corneodesmosin [Source:HGNC Symbol;Acc:HGNC:1802]	5595	0.5384423136711121	0.6781023	No	
+row_40	KRT23	keratin 23 [Source:HGNC Symbol;Acc:HGNC:6438]	5639	0.5352382659912109	0.68393046	No	
+row_41	KRT6C	keratin 6C [Source:HGNC Symbol;Acc:HGNC:20406]	5985	0.5316740274429321	0.68191665	No	
+row_42	PKP2	plakophilin 2 [Source:HGNC Symbol;Acc:HGNC:9024]	6701	0.49985891580581665	0.66993934	No	
+row_43	KRT13	keratin 13 [Source:HGNC Symbol;Acc:HGNC:6415]	8855	0.29842880368232727	0.6182307	No	
+row_44	PKP4	plakophilin 4 [Source:HGNC Symbol;Acc:HGNC:9026]	9126	0.2860623598098755	0.61496913	No	
+row_45	TCHH	trichohyalin [Source:HGNC Symbol;Acc:HGNC:11791]	9769	0.24015434086322784	0.60150975	No	
+row_46	FURIN	furin, paired basic amino acid cleaving enzyme [Source:HGNC Symbol;Acc:HGNC:8568]	10510	0.18961109220981598	0.5848654	No	
+row_47	KRT32	keratin 32 [Source:HGNC Symbol;Acc:HGNC:6449]	11127	0.14597468078136444	0.57085633	No	
+row_48	KRT10	keratin 10 [Source:HGNC Symbol;Acc:HGNC:6413]	12034	0.08963421732187271	0.54863095	No	
+row_49	DSG2	desmoglein 2 [Source:HGNC Symbol;Acc:HGNC:3049]	12205	0.07756450772285461	0.5452481	No	
+row_50	CAPNS1	calpain small subunit 1 [Source:HGNC Symbol;Acc:HGNC:1481]	12508	0.05623655393719673	0.5381813	No	
+row_51	IVL	involucrin [Source:HGNC Symbol;Acc:HGNC:6187]	14745	0.0	0.4804617	No	
+row_52	DSC1	desmocollin 1 [Source:HGNC Symbol;Acc:HGNC:3035]	15405	0.0	0.4634504	No	
+row_53	DSG1	desmoglein 1 [Source:HGNC Symbol;Acc:HGNC:3048]	15427	0.0	0.4629083	No	
+row_54	KLK5	kallikrein related peptidase 5 [Source:HGNC Symbol;Acc:HGNC:6366]	16444	0.0	0.4366815	No	
+row_55	KLK8	kallikrein related peptidase 8 [Source:HGNC Symbol;Acc:HGNC:6369]	16449	0.0	0.43657824	No	
+row_56	SPRR3	small proline rich protein 3 [Source:HGNC Symbol;Acc:HGNC:11268]	16473	0.0	0.43598452	No	
+row_57	KRT2	keratin 2 [Source:HGNC Symbol;Acc:HGNC:6439]	17806	0.0	0.40160057	No	
+row_58	KRT1	keratin 1 [Source:HGNC Symbol;Acc:HGNC:6412]	17807	0.0	0.40160057	No	
+row_59	KRT24	keratin 24 [Source:HGNC Symbol;Acc:HGNC:18527]	19158	0.0	0.36675197	No	
+row_60	KRT28	keratin 28 [Source:HGNC Symbol;Acc:HGNC:30842]	19159	0.0	0.36675197	No	
+row_61	KRT26	keratin 26 [Source:HGNC Symbol;Acc:HGNC:30840]	19161	0.0	0.36672616	No	
+row_62	KRT25	keratin 25 [Source:HGNC Symbol;Acc:HGNC:30839]	19162	0.0	0.36672616	No	
+row_63	KRT35	keratin 35 [Source:HGNC Symbol;Acc:HGNC:6453]	19163	0.0	0.36672616	No	
+row_64	KRT31	keratin 31 [Source:HGNC Symbol;Acc:HGNC:6448]	19164	0.0	0.36672616	No	
+row_65	KRT38	keratin 38 [Source:HGNC Symbol;Acc:HGNC:6456]	19170	0.0	0.3665971	No	
+row_66	KRT36	keratin 36 [Source:HGNC Symbol;Acc:HGNC:6454]	19173	0.0	0.36654547	No	
+row_67	KRT6B	keratin 6B [Source:HGNC Symbol;Acc:HGNC:6444]	19199	0.0	0.36590013	No	
+row_68	KRT71	keratin 71 [Source:HGNC Symbol;Acc:HGNC:28927]	19200	0.0	0.36590013	No	
+row_69	KRT77	keratin 77 [Source:HGNC Symbol;Acc:HGNC:20411]	19201	0.0	0.36590013	No	
+row_70	KRT76	keratin 76 [Source:HGNC Symbol;Acc:HGNC:24430]	19202	0.0	0.36590013	No	
+row_71	KRT75	keratin 75 [Source:HGNC Symbol;Acc:HGNC:24431]	19203	0.0	0.36590013	No	
+row_72	KRT74	keratin 74 [Source:HGNC Symbol;Acc:HGNC:28929]	19204	0.0	0.36590013	No	
+row_73	KRT73	keratin 73 [Source:HGNC Symbol;Acc:HGNC:28928]	19205	0.0	0.36590013	No	
+row_74	KRT72	keratin 72 [Source:HGNC Symbol;Acc:HGNC:28932]	19206	0.0	0.36590013	No	
+row_75	KRT40	keratin 40 [Source:HGNC Symbol;Acc:HGNC:26707]	19214	0.0	0.36571944	No	
+row_76	KRT82	keratin 82 [Source:HGNC Symbol;Acc:HGNC:6459]	19235	0.0	0.36520314	No	
+row_77	KRT85	keratin 85 [Source:HGNC Symbol;Acc:HGNC:6462]	19239	0.0	0.36512572	No	
+row_78	KRT84	keratin 84 [Source:HGNC Symbol;Acc:HGNC:6461]	19240	0.0	0.36512572	No	
+row_79	KRT33A	keratin 33A [Source:HGNC Symbol;Acc:HGNC:6450]	19539	0.0	0.3574332	No	
+row_80	LELP1	late cornified envelope like proline rich 1 [Source:HGNC Symbol;Acc:HGNC:32046]	19819	0.0	0.35023117	No	
+row_81	LCE1A	late cornified envelope 1A [Source:HGNC Symbol;Acc:HGNC:29459]	19836	0.0	0.34981814	No	
+row_82	LCE1B	late cornified envelope 1B [Source:HGNC Symbol;Acc:HGNC:16611]	19837	0.0	0.34981814	No	
+row_83	LCE1E	late cornified envelope 1E [Source:HGNC Symbol;Acc:HGNC:29466]	19842	0.0	0.34971488	No	
+row_84	LCE1F	late cornified envelope 1F [Source:HGNC Symbol;Acc:HGNC:29467]	19843	0.0	0.34971488	No	
+row_85	LCE1C	late cornified envelope 1C [Source:HGNC Symbol;Acc:HGNC:29464]	19845	0.0	0.34968907	No	
+row_86	LCE1D	late cornified envelope 1D [Source:HGNC Symbol;Acc:HGNC:29465]	19846	0.0	0.34968907	No	
+row_87	LCE2B	late cornified envelope 2B [Source:HGNC Symbol;Acc:HGNC:16610]	19847	0.0	0.34968907	No	
+row_88	LCE2C	late cornified envelope 2C [Source:HGNC Symbol;Acc:HGNC:29460]	19848	0.0	0.34968907	No	
+row_89	LCE2A	late cornified envelope 2A [Source:HGNC Symbol;Acc:HGNC:29469]	19849	0.0	0.34968907	No	
+row_90	LCE5A	late cornified envelope 5A [Source:HGNC Symbol;Acc:HGNC:16614]	19857	0.0	0.34950837	No	
+row_91	LCE6A	late cornified envelope 6A [Source:HGNC Symbol;Acc:HGNC:31824]	19870	0.0	0.3491986	No	
+row_92	LCE2D	late cornified envelope 2D [Source:HGNC Symbol;Acc:HGNC:16518]	19875	0.0	0.34909534	No	
+row_93	LCE3C	late cornified envelope 3C [Source:HGNC Symbol;Acc:HGNC:16612]	19877	0.0	0.34906954	No	
+row_94	LCE3D	late cornified envelope 3D [Source:HGNC Symbol;Acc:HGNC:16615]	19878	0.0	0.34906954	No	
+row_95	LCE3A	late cornified envelope 3A [Source:HGNC Symbol;Acc:HGNC:29461]	19879	0.0	0.34906954	No	
+row_96	LCE3B	late cornified envelope 3B [Source:HGNC Symbol;Acc:HGNC:29462]	19881	0.0	0.34904373	No	
+row_97	LCE3E	late cornified envelope 3E [Source:HGNC Symbol;Acc:HGNC:29463]	19892	0.0	0.34878558	No	
+row_98	LCE4A	late cornified envelope 4A [Source:HGNC Symbol;Acc:HGNC:16613]	19896	0.0	0.34870815	No	
+row_99	SPRR2E	small proline rich protein 2E [Source:HGNC Symbol;Acc:HGNC:11265]	20340	0.0	0.33727264	No	
+row_100	SPRR2F	small proline rich protein 2F [Source:HGNC Symbol;Acc:HGNC:11266]	20341	0.0	0.33727264	No	
+row_101	SPRR2G	small proline rich protein 2G [Source:HGNC Symbol;Acc:HGNC:11267]	20342	0.0	0.33727264	No	
+row_102	SPRR2A	small proline rich protein 2A [Source:HGNC Symbol;Acc:HGNC:11261]	20347	0.0	0.33716938	No	
+row_103	SPRR2B	small proline rich protein 2B [Source:HGNC Symbol;Acc:HGNC:11262]	20348	0.0	0.33716938	No	
+row_104	SPRR2D	small proline rich protein 2D [Source:HGNC Symbol;Acc:HGNC:11264]	20351	0.0	0.33711776	No	
+row_105	SPRR1A	small proline rich protein 1A [Source:HGNC Symbol;Acc:HGNC:11259]	20353	0.0	0.33709195	No	
+row_106	SPRR1B	small proline rich protein 1B [Source:HGNC Symbol;Acc:HGNC:11260]	20355	0.0	0.33706614	No	
+row_107	KLK13	kallikrein related peptidase 13 [Source:HGNC Symbol;Acc:HGNC:6361]	20483	0.0	0.33378777	No	
+row_108	KLK14	kallikrein related peptidase 14 [Source:HGNC Symbol;Acc:HGNC:6362]	20484	0.0	0.33378777	No	
+row_109	KLK12	kallikrein related peptidase 12 [Source:HGNC Symbol;Acc:HGNC:6360]	20487	0.0	0.33373615	No	
+row_110	LIPM	lipase family member M [Source:HGNC Symbol;Acc:HGNC:23455]	21808	0.0	0.29966196	No	
+row_111	LIPK	lipase family member K [Source:HGNC Symbol;Acc:HGNC:23444]	21809	0.0	0.29966196	No	
+row_112	CSTA	cystatin A [Source:HGNC Symbol;Acc:HGNC:2481]	22563	0.0	0.2802242	No	
+row_113	LORICRIN	loricrin cornified envelope precursor protein [Source:HGNC Symbol;Acc:HGNC:6663]	24317	0.0	0.23497264	No	
+row_114	CASP14	caspase 14 [Source:HGNC Symbol;Acc:HGNC:1502]	24639	0.0	0.22668642	No	
+row_115	SPINK9	serine peptidase inhibitor Kazal type 9 [Source:HGNC Symbol;Acc:HGNC:32951]	27356	-0.07346084713935852	0.15752845	No	
+row_116	KRT33B	keratin 33B [Source:HGNC Symbol;Acc:HGNC:6451]	27891	-0.0963582992553711	0.14499295	No	
+row_117	CELA2A	chymotrypsin like elastase 2A [Source:HGNC Symbol;Acc:HGNC:24609]	28162	-0.10525047034025192	0.13938756	No	
+row_118	KRT78	keratin 78 [Source:HGNC Symbol;Acc:HGNC:28926]	30075	-0.23202049732208252	0.09303923	No	
+row_119	KAZN	kazrin, periplakin interacting protein [Source:HGNC Symbol;Acc:HGNC:29173]	32593	-0.44766876101493835	0.03386895	No	
+row_120	KRT3	keratin 3 [Source:HGNC Symbol;Acc:HGNC:6440]	33698	-0.5653150081634521	0.0126985535	No	
+row_121	KRT27	keratin 27 [Source:HGNC Symbol;Acc:HGNC:30841]	33742	-0.5653150081634521	0.018916577	No	
+row_122	LIPN	lipase family member N [Source:HGNC Symbol;Acc:HGNC:23452]	33825	-0.5653150081634521	0.024127863	No	
+row_123	KRT9	keratin 9 [Source:HGNC Symbol;Acc:HGNC:6447]	35019	-0.6283106207847595	0.0014766342	No	
+row_124	PI3	peptidase inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:8947]	35117	-0.6357532739639282	0.007213785	No	
+row_125	LIPJ	lipase family member J [Source:HGNC Symbol;Acc:HGNC:21773]	35681	-0.7093379497528076	0.0018755713	No	
+row_126	KRT12	keratin 12 [Source:HGNC Symbol;Acc:HGNC:6414]	37198	-1.0146514177322388	-0.024105482	No	
+row_127	KRT39	keratin 39 [Source:HGNC Symbol;Acc:HGNC:32971]	37695	-1.2203583717346191	-0.021089962	No	
+row_128	KRT79	keratin 79 [Source:HGNC Symbol;Acc:HGNC:28930]	38866	-3.958881378173828	2.5757286E-5	No	

@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MX1	MX dynamin like GTPase 1 [Source:HGNC Symbol;Acc:HGNC:7532]	138	3.1930606365203857	0.0838849	Yes	
+row_1	OAS1	2'-5'-oligoadenylate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:8086]	242	2.9127743244171143	0.16099568	Yes	
+row_2	MX2	MX dynamin like GTPase 2 [Source:HGNC Symbol;Acc:HGNC:7533]	253	2.8454365730285645	0.23865697	Yes	
+row_3	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	344	2.554931163787842	0.30630335	Yes	
+row_4	OASL	2'-5'-oligoadenylate synthetase like [Source:HGNC Symbol;Acc:HGNC:8090]	348	2.547271251678467	0.37598	Yes	
+row_5	IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	914	1.9352343082427979	0.41442677	Yes	
+row_6	LY6E	lymphocyte antigen 6 family member E [Source:HGNC Symbol;Acc:HGNC:6727]	1089	1.7567375898361206	0.45805284	Yes	
+row_7	OAS2	2'-5'-oligoadenylate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:8087]	1101	1.7449313402175903	0.5055524	Yes	
+row_8	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	1163	1.6873594522476196	0.55018806	Yes	
+row_9	IFI44L	interferon induced protein 44 like [Source:HGNC Symbol;Acc:HGNC:17817]	1320	1.633937120437622	0.59091485	Yes	
+row_10	XAF1	XIAP associated factor 1 [Source:HGNC Symbol;Acc:HGNC:30932]	1407	1.55430006980896	0.6312632	Yes	
+row_11	IFIT3	interferon induced protein with tetratricopeptide repeats 3 [Source:HGNC Symbol;Acc:HGNC:5411]	1555	1.5153053998947144	0.6689731	Yes	
+row_12	TNFSF10	TNF superfamily member 10 [Source:HGNC Symbol;Acc:HGNC:11925]	1739	1.4117108583450317	0.7029193	Yes	
+row_13	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	2148	1.2251991033554077	0.72596496	Yes	
+row_14	IFITM3	interferon induced transmembrane protein 3 [Source:HGNC Symbol;Acc:HGNC:5414]	2362	1.146116852760315	0.7518658	Yes	
+row_15	SERPING1	serpin family G member 1 [Source:HGNC Symbol;Acc:HGNC:1228]	2509	1.0892032384872437	0.7779332	Yes	
+row_16	LGALS3BP	galectin 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6564]	2882	0.992658793926239	0.7955379	Yes	
+row_17	TAP1	transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]	2890	0.9887744784355164	0.82243407	Yes	
+row_18	IFI35	interferon induced protein 35 [Source:HGNC Symbol;Acc:HGNC:5399]	3022	0.9568993449211121	0.8452647	Yes	
+row_19	TDRD7	tudor domain containing 7 [Source:HGNC Symbol;Acc:HGNC:30831]	3953	0.7605265378952026	0.84214574	Yes	
+row_20	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	3971	0.7576203346252441	0.86245453	Yes	
+row_21	CKAP4	cytoskeleton associated protein 4 [Source:HGNC Symbol;Acc:HGNC:16991]	7972	0.47475841641426086	0.77246594	No	
+row_22	CAMP	cathelicidin antimicrobial peptide [Source:HGNC Symbol;Acc:HGNC:1472]	19552	0.0	0.4743378	No	
+row_23	DEFA3	defensin alpha 3 [Source:HGNC Symbol;Acc:HGNC:2762]	21981	0.0	0.41182327	No	
+row_24	DEFA1	defensin alpha 1 [Source:HGNC Symbol;Acc:HGNC:2761]	21982	0.0	0.41182327	No	
+row_25	S100A8	S100 calcium binding protein A8 [Source:HGNC Symbol;Acc:HGNC:10498]	24288	0.0	0.35247573	No	
+row_26	APOBEC3B	apolipoprotein B mRNA editing enzyme catalytic subunit 3B [Source:HGNC Symbol;Acc:HGNC:17352]	28690	-0.14203548431396484	0.24305125	No	
+row_27	RNASE2	ribonuclease A family member 2 [Source:HGNC Symbol;Acc:HGNC:10045]	29840	-0.22577615082263947	0.21965018	No	
+row_28	FPR2	formyl peptide receptor 2 [Source:HGNC Symbol;Acc:HGNC:3827]	32781	-0.4654243290424347	0.15669815	No	

@@ -1,0 +1,1 @@
+-> % join -1 1 -2 2 noprefix.txt ../../GO_map/go_mapping.txt | sed 's/ /\t/g' | cut -f2 > GO_codes.txt 

@@ -1,0 +1,16 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0043235", "receptor complex", 2.866, 5.273, 3.338, 2.732, 0.977, 0.000, -1, False
+"GO:0044420", "(obsolete) extracellular matrix component", 0.503, -1.584, -6.689, 1.924, 1.000, 0.000, -1, False
+"GO:0045177", "apical part of cell", 2.207, -1.373, 2.531, 2.619, 1.000, 0.000, -1, False
+"GO:0005796", "Golgi lumen", 0.532, -5.763, -2.560, 2.004, 0.968, 0.000, -1, False
+"GO:0016323", "basolateral plasma membrane", 1.159, 3.551, -4.660, 2.340, 0.871, 0.000, -1, False
+"GO:0016324", "apical plasma membrane", 1.877, null, null, 2.549, 0.868, 0.608, 16323, True
+"GO:0005911", "cell-cell junction", 2.579, -4.209, 6.258, 2.687, 0.657, 0.000, -1, False
+"GO:0030057", "desmosome", 0.133, null, null, 1.415, 0.684, 0.581, 5911, True
+"GO:0005923", "bicellular tight junction", 0.622, null, null, 2.072, 0.650, 0.684, 5911, True
+"GO:0070160", "tight junction", 0.659, null, null, 2.097, 0.649, 0.706, 5911, True
+"GO:0043296", "apical junction complex", 0.728, null, null, 2.140, 0.647, 0.717, 5911, True
+"GO:0002116", "semaphorin receptor complex", 0.058, 3.094, 5.751, 1.079, 0.977, 0.159, -1, False
+"GO:0062023", "collagen-containing extracellular matrix", 2.249, 5.311, -2.823, 2.627, 0.847, 0.178, -1, False
+"GO:0005604", "basement membrane", 0.500, null, null, 1.978, 0.855, 0.748, 62023, True
+"GO:0005788", "endoplasmic reticulum lumen", 1.622, -6.548, -0.581, 2.486, 0.968, 0.227, -1, False

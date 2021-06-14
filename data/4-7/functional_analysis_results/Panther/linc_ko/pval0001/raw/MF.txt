@@ -1,0 +1,11 @@
+acylglycerol_O-acyltransferase_activity_(GO:0016411)	25	5	.59	+	8.46	5.70E-04
+microtubule_motor_activity_(GO:0003777)	69	9	1.63	+	5.52	7.72E-05
+motor_activity_(GO:0003774)	131	11	3.10	+	3.55	4.70E-04
+nucleoside-triphosphatase_activity_(GO:0017111)	864	37	20.43	+	1.81	8.74E-04
+protein_binding_(GO:0005515)	14300	402	338.15	+	1.19	8.72E-11
+binding_(GO:0005488)	16484	438	389.79	+	1.12	6.59E-09
+molecular_function_(GO:0003674)	18235	472	431.19	+	1.09	3.54E-11
+molecular_transducer_activity_(GO:0060089)	1516	16	35.85	-	.45	2.63E-04
+signaling_receptor_activity_(GO:0038023)	1516	16	35.85	-	.45	2.63E-04
+transmembrane_signaling_receptor_activity_(GO:0004888)	1325	12	31.33	-	.38	1.02E-04
+G_protein-coupled_receptor_activity_(GO:0004930)	885	6	20.93	-	.29	2.25E-04

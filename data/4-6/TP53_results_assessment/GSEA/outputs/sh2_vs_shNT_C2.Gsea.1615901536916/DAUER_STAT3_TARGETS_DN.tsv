@@ -1,0 +1,49 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MX1	MX dynamin like GTPase 1 [Source:HGNC Symbol;Acc:HGNC:7532]	138	3.1930606365203857	0.048467	Yes	
+row_1	OAS1	2'-5'-oligoadenylate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:8086]	242	2.9127743244171143	0.093269125	Yes	
+row_2	IFIH1	interferon induced with helicase C domain 1 [Source:HGNC Symbol;Acc:HGNC:18873]	262	2.800832509994507	0.13841131	Yes	
+row_3	IFITM1	interferon induced transmembrane protein 1 [Source:HGNC Symbol;Acc:HGNC:5412]	264	2.7938568592071533	0.18390353	Yes	
+row_4	USP18	ubiquitin specific peptidase 18 [Source:HGNC Symbol;Acc:HGNC:12616]	300	2.6715712547302246	0.2265276	Yes	
+row_5	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	344	2.554931163787842	0.2670453	Yes	
+row_6	OASL	2'-5'-oligoadenylate synthetase like [Source:HGNC Symbol;Acc:HGNC:8090]	348	2.547271251678467	0.30846858	Yes	
+row_7	IFI27	interferon alpha inducible protein 27 [Source:HGNC Symbol;Acc:HGNC:5397]	350	2.5426740646362305	0.34986848	Yes	
+row_8	LAMP3	lysosomal associated membrane protein 3 [Source:HGNC Symbol;Acc:HGNC:14582]	690	2.269153356552124	0.37810528	Yes	
+row_9	OAS3	2'-5'-oligoadenylate synthetase 3 [Source:HGNC Symbol;Acc:HGNC:8088]	742	2.1623997688293457	0.4120217	Yes	
+row_10	IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	914	1.9352343082427979	0.4391459	Yes	
+row_11	IFIT1	interferon induced protein with tetratricopeptide repeats 1 [Source:HGNC Symbol;Acc:HGNC:5407]	940	1.9135760068893433	0.4696782	Yes	
+row_12	OAS2	2'-5'-oligoadenylate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:8087]	1101	1.7449313402175903	0.49398533	Yes	
+row_13	HERC6	HECT and RLD domain containing E3 ubiquitin protein ligase family member 6 [Source:HGNC Symbol;Acc:HGNC:26072]	1244	1.679848313331604	0.5176958	Yes	
+row_14	DDX60	DExD/H-box helicase 60 [Source:HGNC Symbol;Acc:HGNC:25942]	1361	1.5923446416854858	0.54065037	Yes	
+row_15	DDX58	DExD/H-box helicase 58 [Source:HGNC Symbol;Acc:HGNC:19102]	1378	1.5819599628448486	0.5660118	Yes	
+row_16	TRANK1	tetratricopeptide repeat and ankyrin repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:29011]	1399	1.5589503049850464	0.59089524	Yes	
+row_17	IFIT3	interferon induced protein with tetratricopeptide repeats 3 [Source:HGNC Symbol;Acc:HGNC:5411]	1555	1.5153053998947144	0.61159	Yes	
+row_18	TNFSF10	TNF superfamily member 10 [Source:HGNC Symbol;Acc:HGNC:11925]	1739	1.4117108583450317	0.62987584	Yes	
+row_19	HERC5	HECT and RLD domain containing E3 ubiquitin protein ligase 5 [Source:HGNC Symbol;Acc:HGNC:24368]	1784	1.3929834365844727	0.6514371	Yes	
+row_20	TRIM22	tripartite motif containing 22 [Source:HGNC Symbol;Acc:HGNC:16379]	1809	1.378853440284729	0.67328334	Yes	
+row_21	AQP3	aquaporin 3 (Gill blood group) [Source:HGNC Symbol;Acc:HGNC:636]	1870	1.3452612161636353	0.69365495	Yes	
+row_22	IFI44	interferon induced protein 44 [Source:HGNC Symbol;Acc:HGNC:16938]	2428	1.1183003187179565	0.6975262	Yes	
+row_23	SAMD9	sterile alpha motif domain containing 9 [Source:HGNC Symbol;Acc:HGNC:1348]	2442	1.111648440361023	0.7153025	Yes	
+row_24	SP110	SP110 nuclear body protein [Source:HGNC Symbol;Acc:HGNC:5401]	2692	1.0442732572555542	0.7259018	Yes	
+row_25	HEXIM1	HEXIM P-TEFb complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:24953]	2738	1.0315769910812378	0.7415492	Yes	
+row_26	HPGD	15-hydroxyprostaglandin dehydrogenase [Source:HGNC Symbol;Acc:HGNC:5154]	2846	1.0078754425048828	0.7552134	Yes	
+row_27	ST8SIA4	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:10871]	2934	0.9804880023002625	0.7689465	Yes	
+row_28	PARP12	poly(ADP-ribose) polymerase family member 12 [Source:HGNC Symbol;Acc:HGNC:21919]	2982	0.9676989316940308	0.7835017	Yes	
+row_29	IFI35	interferon induced protein 35 [Source:HGNC Symbol;Acc:HGNC:5399]	3022	0.9568993449211121	0.79808706	Yes	
+row_30	TDRD7	tudor domain containing 7 [Source:HGNC Symbol;Acc:HGNC:30831]	3953	0.7605265378952026	0.78652096	Yes	
+row_31	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	3971	0.7576203346252441	0.7984263	Yes	
+row_32	GRB14	growth factor receptor bound protein 14 [Source:HGNC Symbol;Acc:HGNC:4565]	4237	0.7122957706451416	0.8032048	Yes	
+row_33	TRIM14	tripartite motif containing 14 [Source:HGNC Symbol;Acc:HGNC:16283]	5722	0.5506746768951416	0.7739487	No	
+row_34	ID3	inhibitor of DNA binding 3, HLH protein [Source:HGNC Symbol;Acc:HGNC:5362]	7841	0.48874375224113464	0.7273519	No	
+row_35	HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	7977	0.47439780831336975	0.73160326	No	
+row_36	PDK4	pyruvate dehydrogenase kinase 4 [Source:HGNC Symbol;Acc:HGNC:8812]	8618	0.40535417199134827	0.72172105	No	
+row_37	TRIM5	tripartite motif containing 5 [Source:HGNC Symbol;Acc:HGNC:16276]	9769	0.30804622173309326	0.6971159	No	
+row_38	HSPA6	heat shock protein family A (Hsp70) member 6 [Source:HGNC Symbol;Acc:HGNC:5239]	10090	0.2793404757976532	0.69342375	No	
+row_39	PGRMC2	progesterone receptor membrane component 2 [Source:HGNC Symbol;Acc:HGNC:16089]	10264	0.263412743806839	0.6932589	No	
+row_40	LAP3	leucine aminopeptidase 3 [Source:HGNC Symbol;Acc:HGNC:18449]	10885	0.222513347864151	0.6809129	No	
+row_41	TLR3	toll like receptor 3 [Source:HGNC Symbol;Acc:HGNC:11849]	12436	0.10585490614175797	0.6427097	No	
+row_42	BCL2L13	BCL2 like 13 [Source:HGNC Symbol;Acc:HGNC:17164]	13453	0.02887696772813797	0.6170081	No	
+row_43	HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	13457	0.02867634780704975	0.61739796	No	
+row_44	DNAJB4	DnaJ heat shock protein family (Hsp40) member B4 [Source:HGNC Symbol;Acc:HGNC:14886]	27131	-0.06990301609039307	0.2663215	No	
+row_45	ATP5MPL	ATP synthase membrane subunit 6.8PL [Source:HGNC Symbol;Acc:HGNC:1188]	27634	-0.09948202967643738	0.2550108	No	
+row_46	PRPF4B	pre-mRNA processing factor 4B [Source:HGNC Symbol;Acc:HGNC:17346]	32742	-0.4609452486038208	0.13096471	No	
+row_47	TMEM97	transmembrane protein 97 [Source:HGNC Symbol;Acc:HGNC:28106]	38395	-1.6442949771881104	0.012158784	No	

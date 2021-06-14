@@ -1,0 +1,8 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0005871", "kinesin complex", 0.266, -2.862, -0.299, 1.708, 0.597, 0.000, -1, False
+"GO:0005819", "spindle", 2.026, null, null, 2.582, 0.546, 0.508, 5871, True
+"GO:0098687", "chromosomal region", 1.787, 2.471, -1.482, 2.528, 0.406, 0.183, -1, False
+"GO:0000775", "chromosome, centromeric region", 1.063, 2.804, 0.664, 2.303, 0.199, 0.461, -1, False
+"GO:0000777", "condensed chromosome kinetochore", 0.564, null, null, 2.029, 0.191, 0.813, 775, True
+"GO:0000779", "condensed chromosome, centromeric region", 0.649, null, null, 2.090, 0.186, 0.880, 775, True
+"GO:0000776", "kinetochore", 0.728, null, null, 2.140, 0.182, 0.903, 775, True

@@ -1,0 +1,3 @@
+-> % cut -d, -f1 BP.csv | sed 's/"//g' | grep '^GO' | sort | uniq > BP.txt
+-> % cut -d, -f1 MF.csv | sed 's/"//g' | grep '^GO' | sort | uniq > MF.txt
+-> % cut -d, -f1 CC.csv | sed 's/"//g' | grep '^GO' | sort | uniq > CC.txt

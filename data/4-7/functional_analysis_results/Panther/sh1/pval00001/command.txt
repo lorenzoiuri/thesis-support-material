@@ -1,0 +1,3 @@
+-> % cat raw/BP.txt | cut -f1 | cut -d'(' -f2 | sed 's/)//g' | sort | uniq > BP.txt
+-> % cat raw/CC.txt | cut -f1 | cut -d'(' -f2 | sed 's/)//g' | sort | uniq > CC.txt
+-> % cat raw/MF.txt | cut -f1 | cut -d'(' -f2 | sed 's/)//g' | sort | uniq > MF.txt

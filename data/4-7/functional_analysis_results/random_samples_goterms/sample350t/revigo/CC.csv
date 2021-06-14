@@ -1,0 +1,21 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0000230", "(obsolete) nuclear mitotic chromosome", 0.499, -6.893, -4.357, 1.924, 1.000, 0.000, -1, False
+"GO:0039641", "viral inner membrane", 42.749, 6.034, -1.860, 1.924, 1.000, 0.000, -1, False
+"GO:0044420", "(obsolete) extracellular matrix component", 0.499, 6.108, 1.273, 1.924, 1.000, 0.000, -1, False
+"GO:0062198", "(obsolete) rDNA replication pause site heterochromatin", 0.499, 5.245, 4.000, 1.924, 1.000, 0.000, -1, False
+"GO:0072517", "host cell viral assembly compartment", 0.005, 1.785, -6.256, 0.301, 1.000, 0.000, -1, False
+"GO:1990129", "(obsolete) pre-primosome complex involved in replication restart", 0.499, -2.042, 7.315, 1.924, 1.000, 0.000, -1, False
+"GO:0140268", "endoplasmic reticulum-plasma membrane contact site", 0.053, 4.212, -4.578, 1.041, 0.990, 0.000, -1, False
+"GO:0045169", "fusome", 3.190, 2.514, -1.087, 2.778, 0.973, 0.000, -1, False
+"GO:0071057", "alphav-beta3 integrin-ADAM15 complex", 0.098, -1.449, -6.222, 1.279, 0.962, 0.000, -1, False
+"GO:0005911", "cell-cell junction", 2.579, 0.456, 2.713, 2.687, 0.929, 0.000, -1, False
+"GO:0044647", "host-symbiont bicellular tight junction", 0.622, null, null, 2.072, 0.929, 0.684, 5911, True
+"GO:0030075", "bacterial thylakoid", 2.293, 2.584, 6.329, 2.635, 0.955, 0.015, -1, False
+"GO:0071601", "sphere organelle", 0.395, -7.378, 0.737, 1.875, 0.923, 0.031, -1, False
+"GO:0005739", "mitochondrion", 8.641, -4.723, 6.430, 3.211, 0.950, 0.059, -1, False
+"GO:0005971", "ribonucleoside-diphosphate reductase complex", 0.005, -2.558, -1.924, 0.301, 0.935, 0.104, -1, False
+"GO:1990499", "raps-insc complex", 0.279, -3.480, -5.655, 1.724, 0.942, 0.136, -1, False
+"GO:0034493", "melanosome lumen", 0.573, -6.610, 3.092, 2.033, 0.920, 0.163, -1, False
+"GO:0000229", "cytoplasmic chromosome", 0.670, 1.334, 6.863, 2.104, 0.949, 0.208, -1, False
+"GO:0031981", "nuclear lumen", 23.264, -6.435, 1.814, 3.641, 0.897, 0.263, -1, False
+"GO:0031598", "nuclear proteasome regulatory particle", 0.089, -4.751, -0.852, 1.230, 0.878, 0.284, -1, False

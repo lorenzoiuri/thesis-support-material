@@ -1,0 +1,72 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CCL5	C-C motif chemokine ligand 5 [Source:HGNC Symbol;Acc:HGNC:10632]	18	4.212600231170654	0.05517221	Yes	
+row_1	IL6	interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	27	4.014577865600586	0.107986875	Yes	
+row_2	CCL3	C-C motif chemokine ligand 3 [Source:HGNC Symbol;Acc:HGNC:10627]	38	3.961982250213623	0.16005535	Yes	
+row_3	CXCL16	C-X-C motif chemokine ligand 16 [Source:HGNC Symbol;Acc:HGNC:16642]	48	3.8840267658233643	0.21112004	Yes	
+row_4	C3	complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	71	3.6319797039031982	0.25852084	Yes	
+row_5	CXCL11	C-X-C motif chemokine ligand 11 [Source:HGNC Symbol;Acc:HGNC:10638]	72	3.629004955291748	0.3064494	Yes	
+row_6	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	78	3.6152074337005615	0.3540669	Yes	
+row_7	IL18R1	interleukin 18 receptor 1 [Source:HGNC Symbol;Acc:HGNC:5988]	127	3.2599666118621826	0.39588434	Yes	
+row_8	CXCL1	C-X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:4602]	209	3.0025007724761963	0.43345082	Yes	
+row_9	CXCL2	C-X-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:4603]	268	2.784642457962036	0.46873286	Yes	
+row_10	CXCL10	C-X-C motif chemokine ligand 10 [Source:HGNC Symbol;Acc:HGNC:10637]	308	2.651500701904297	0.5027462	Yes	
+row_11	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	345	2.548173666000366	0.5354723	Yes	
+row_12	CXCL8	C-X-C motif chemokine ligand 8 [Source:HGNC Symbol;Acc:HGNC:6025]	367	2.481452465057373	0.5677037	Yes	
+row_13	NFKB2	nuclear factor kappa B subunit 2 [Source:HGNC Symbol;Acc:HGNC:7795]	732	2.176605701446533	0.5870682	Yes	
+row_14	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	789	2.0837268829345703	0.61314476	Yes	
+row_15	RELB	RELB proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9956]	860	1.9784568548202515	0.6374701	Yes	
+row_16	CXCL3	C-X-C motif chemokine ligand 3 [Source:HGNC Symbol;Acc:HGNC:4604]	929	1.930860996246338	0.66121846	Yes	
+row_17	IL22RA1	interleukin 22 receptor subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:13700]	1039	1.8062814474105835	0.6822647	Yes	
+row_18	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	1141	1.7066831588745117	0.70220166	Yes	
+row_19	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	1171	1.6829501390457153	0.72368103	Yes	
+row_20	HLA-H	major histocompatibility complex, class I, H (pseudogene) [Source:HGNC Symbol;Acc:HGNC:4965]	1276	1.6633884906768799	0.742969	Yes	
+row_21	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	1733	1.4138264656066895	0.749888	Yes	
+row_22	CCL20	C-C motif chemokine ligand 20 [Source:HGNC Symbol;Acc:HGNC:10619]	2197	1.2028003931045532	0.75383955	Yes	
+row_23	C2	complement C2 [Source:HGNC Symbol;Acc:HGNC:1248]	2524	1.0872797966003418	0.7597966	Yes	
+row_24	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	2837	1.0104411840438843	0.76509976	Yes	
+row_25	CCR1	C-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:1602]	3043	0.9490092992782593	0.7723495	Yes	
+row_26	CCR3	C-C motif chemokine receptor 3 [Source:HGNC Symbol;Acc:HGNC:1604]	3180	0.9210779666900635	0.78100884	Yes	
+row_27	IL10	interleukin 10 [Source:HGNC Symbol;Acc:HGNC:5962]	4471	0.6750409603118896	0.7566742	No	
+row_28	CCR10	C-C motif chemokine receptor 10 [Source:HGNC Symbol;Acc:HGNC:4474]	5464	0.5822076201438904	0.73879445	No	
+row_29	IFNGR1	interferon gamma receptor 1 [Source:HGNC Symbol;Acc:HGNC:5439]	5755	0.5463321208953857	0.7385351	No	
+row_30	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	5801	0.5414800643920898	0.74452657	No	
+row_31	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	6580	0.5346364378929138	0.7315345	No	
+row_32	IL7	interleukin 7 [Source:HGNC Symbol;Acc:HGNC:6023]	7614	0.5149306654930115	0.71170944	No	
+row_33	IL17RA	interleukin 17 receptor A [Source:HGNC Symbol;Acc:HGNC:5985]	8067	0.46448007225990295	0.70619345	No	
+row_34	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	8859	0.3808797597885132	0.6908356	No	
+row_35	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	9137	0.35656678676605225	0.6884051	No	
+row_36	C3AR1	complement C3a receptor 1 [Source:HGNC Symbol;Acc:HGNC:1319]	9606	0.3164723217487335	0.68052197	No	
+row_37	IL1R2	interleukin 1 receptor type 2 [Source:HGNC Symbol;Acc:HGNC:5994]	10323	0.25790369510650635	0.6654731	No	
+row_38	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	11039	0.21203769743442535	0.6498442	No	
+row_39	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	11818	0.14698725938796997	0.6317324	No	
+row_40	C5AR1	complement C5a receptor 1 [Source:HGNC Symbol;Acc:HGNC:1338]	12754	0.0835593119263649	0.60873616	No	
+row_41	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	13828	0.0016777720302343369	0.58110154	No	
+row_42	HLA-DPB2	major histocompatibility complex, class II, DP beta 2 (pseudogene) [Source:HGNC Symbol;Acc:HGNC:4941]	15768	0.0	0.53112346	No	
+row_43	CXCL13	C-X-C motif chemokine ligand 13 [Source:HGNC Symbol;Acc:HGNC:10639]	15771	0.0	0.5310719	No	
+row_44	CXCL6	C-X-C motif chemokine ligand 6 [Source:HGNC Symbol;Acc:HGNC:10643]	16105	0.0	0.5224888	No	
+row_45	CXCL9	C-X-C motif chemokine ligand 9 [Source:HGNC Symbol;Acc:HGNC:7098]	16107	0.0	0.522463	No	
+row_46	CCL8	C-C motif chemokine ligand 8 [Source:HGNC Symbol;Acc:HGNC:10635]	19880	0.0	0.425239	No	
+row_47	CCL7	C-C motif chemokine ligand 7 [Source:HGNC Symbol;Acc:HGNC:10634]	19881	0.0	0.425239	No	
+row_48	CCL1	C-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10609]	19888	0.0	0.42508435	No	
+row_49	CCL13	C-C motif chemokine ligand 13 [Source:HGNC Symbol;Acc:HGNC:10611]	23030	0.0	0.34412447	No	
+row_50	CCL18	C-C motif chemokine ligand 18 [Source:HGNC Symbol;Acc:HGNC:10616]	23043	0.0	0.34381518	No	
+row_51	CCL23	C-C motif chemokine ligand 23 [Source:HGNC Symbol;Acc:HGNC:10622]	23048	0.0	0.34371206	No	
+row_52	HLA-DOA	major histocompatibility complex, class II, DO alpha [Source:HGNC Symbol;Acc:HGNC:4936]	26685	-0.03874872252345085	0.25050524	No	
+row_53	IL12RB1	interleukin 12 receptor subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:5971]	26816	-0.048860762268304825	0.24779977	No	
+row_54	HLA-DQB2	major histocompatibility complex, class II, DQ beta 2 [Source:HGNC Symbol;Acc:HGNC:4945]	26835	-0.04953407868742943	0.24799003	No	
+row_55	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	27239	-0.07932686060667038	0.23865029	No	
+row_56	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	27273	-0.0814974457025528	0.23887606	No	
+row_57	HLA-DRB5	major histocompatibility complex, class II, DR beta 5 [Source:HGNC Symbol;Acc:HGNC:4953]	27632	-0.0993843525648117	0.23096111	No	
+row_58	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	28104	-0.12093611806631088	0.22041821	No	
+row_59	IL13RA1	interleukin 13 receptor subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:5974]	29264	-0.18274585902690887	0.19295831	No	
+row_60	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	29446	-0.1973849982023239	0.1908999	No	
+row_61	IL1A	interleukin 1 alpha [Source:HGNC Symbol;Acc:HGNC:5991]	29997	-0.2388957142829895	0.17987865	No	
+row_62	IL21R	interleukin 21 receptor [Source:HGNC Symbol;Acc:HGNC:6006]	30236	-0.25565090775489807	0.17712055	No	
+row_63	CCL19	C-C motif chemokine ligand 19 [Source:HGNC Symbol;Acc:HGNC:10617]	31047	-0.32052209973335266	0.16047582	No	
+row_64	IL16	interleukin 16 [Source:HGNC Symbol;Acc:HGNC:5980]	31111	-0.3233639895915985	0.16312267	No	
+row_65	CCR5	C-C motif chemokine receptor 5 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:1606]	31691	-0.36393487453460693	0.15300536	No	
+row_66	HLA-DRA	major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	31801	-0.37206318974494934	0.15510973	No	
+row_67	CCL2	C-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:10618]	32233	-0.4149048924446106	0.14948031	No	
+row_68	IL12B	interleukin 12B [Source:HGNC Symbol;Acc:HGNC:5970]	32875	-0.47427570819854736	0.1392222	No	
+row_69	CD86	CD86 molecule [Source:HGNC Symbol;Acc:HGNC:1705]	33877	-0.5653150081634521	0.12088741	No	
+row_70	CCR7	C-C motif chemokine receptor 7 [Source:HGNC Symbol;Acc:HGNC:1608]	34660	-0.5834054946899414	0.1084363	No	

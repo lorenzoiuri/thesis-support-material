@@ -1,0 +1,335 @@
+<graph label="Cytoscape JS" directed="0" Graphic="1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML">
+<att name="documentVersion" value="0.1"/>
+<node id="GO:0005575" label="cellular_component">
+	<att type="string" name="description" value="cellular_component"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="4.274"/>
+	<att type="real" name="uniqueness" value="1.000"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-63.390" y="192.913" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0005622" label="intracellular anatomical structure">
+	<att type="string" name="description" value="intracellular anatomical structure"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="4.168"/>
+	<att type="real" name="uniqueness" value="1.000"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-155.615" y="-79.734" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0005737" label="cytoplasm">
+	<att type="string" name="description" value="cytoplasm"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="4.074"/>
+	<att type="real" name="uniqueness" value="0.954"/>
+	<att type="real" name="dispensability" value="0.028"/>
+	<graphics type="ELLIPSE" x="32.984" y="-154.849" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0005741" label="mitochondrial outer membrane">
+	<att type="string" name="description" value="mitochondrial outer membrane"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="2.301"/>
+	<att type="real" name="uniqueness" value="0.788"/>
+	<att type="real" name="dispensability" value="0.345"/>
+	<graphics type="ELLIPSE" x="-126.748" y="122.685" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0005765" label="lysosomal membrane">
+	<att type="string" name="description" value="lysosomal membrane"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="2.595"/>
+	<att type="real" name="uniqueness" value="0.778"/>
+	<att type="real" name="dispensability" value="0.457"/>
+	<graphics type="ELLIPSE" x="-126.193" y="109.448" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0005783" label="endoplasmic reticulum">
+	<att type="string" name="description" value="endoplasmic reticulum"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="3.298"/>
+	<att type="real" name="uniqueness" value="0.891"/>
+	<att type="real" name="dispensability" value="0.449"/>
+	<graphics type="ELLIPSE" x="-100.000" y="-126.409" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0005794" label="Golgi apparatus">
+	<att type="string" name="description" value="Golgi apparatus"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="3.200"/>
+	<att type="real" name="uniqueness" value="0.895"/>
+	<att type="real" name="dispensability" value="0.091"/>
+	<graphics type="ELLIPSE" x="-90.367" y="-132.158" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0005829" label="cytosol">
+	<att type="string" name="description" value="cytosol"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="3.727"/>
+	<att type="real" name="uniqueness" value="0.944"/>
+	<att type="real" name="dispensability" value="0.075"/>
+	<graphics type="ELLIPSE" x="51.348" y="196.775" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0005871" label="kinesin complex">
+	<att type="string" name="description" value="kinesin complex"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="1.708"/>
+	<att type="real" name="uniqueness" value="0.776"/>
+	<att type="real" name="dispensability" value="0.187"/>
+	<graphics type="ELLIPSE" x="136.584" y="97.689" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0012505" label="endomembrane system">
+	<att type="string" name="description" value="endomembrane system"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="3.664"/>
+	<att type="real" name="uniqueness" value="1.000"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-25.854" y="-163.256" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0012506" label="vesicle membrane">
+	<att type="string" name="description" value="vesicle membrane"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="3.076"/>
+	<att type="real" name="uniqueness" value="0.812"/>
+	<att type="real" name="dispensability" value="0.449"/>
+	<graphics type="ELLIPSE" x="-136.759" y="91.702" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0015630" label="microtubule cytoskeleton">
+	<att type="string" name="description" value="microtubule cytoskeleton"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="3.113"/>
+	<att type="real" name="uniqueness" value="0.746"/>
+	<att type="real" name="dispensability" value="0.491"/>
+	<graphics type="ELLIPSE" x="114.793" y="123.668" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0019867" label="outer membrane">
+	<att type="string" name="description" value="outer membrane"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="2.354"/>
+	<att type="real" name="uniqueness" value="0.959"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-180.086" y="-27.778" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0030659" label="cytoplasmic vesicle membrane">
+	<att type="string" name="description" value="cytoplasmic vesicle membrane"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="2.898"/>
+	<att type="real" name="uniqueness" value="0.792"/>
+	<att type="real" name="dispensability" value="0.085"/>
+	<graphics type="ELLIPSE" x="-144.451" y="101.614" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0031090" label="organelle membrane">
+	<att type="string" name="description" value="organelle membrane"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="3.558"/>
+	<att type="real" name="uniqueness" value="0.898"/>
+	<att type="real" name="dispensability" value="0.134"/>
+	<graphics type="ELLIPSE" x="-166.913" y="31.267" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0031974" label="membrane-enclosed lumen">
+	<att type="string" name="description" value="membrane-enclosed lumen"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="3.741"/>
+	<att type="real" name="uniqueness" value="1.000"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-89.880" y="-30.443" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0043226" label="organelle">
+	<att type="string" name="description" value="organelle"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="4.140"/>
+	<att type="real" name="uniqueness" value="1.000"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-18.824" y="39.321" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0043227" label="membrane-bounded organelle">
+	<att type="string" name="description" value="membrane-bounded organelle"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="4.114"/>
+	<att type="real" name="uniqueness" value="0.914"/>
+	<att type="real" name="dispensability" value="0.198"/>
+	<graphics type="ELLIPSE" x="108.733" y="-117.194" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0043228" label="non-membrane-bounded organelle">
+	<att type="string" name="description" value="non-membrane-bounded organelle"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="3.703"/>
+	<att type="real" name="uniqueness" value="0.940"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-6.399" y="201.784" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0043229" label="intracellular organelle">
+	<att type="string" name="description" value="intracellular organelle"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="4.115"/>
+	<att type="real" name="uniqueness" value="0.902"/>
+	<att type="real" name="dispensability" value="0.221"/>
+	<graphics type="ELLIPSE" x="79.992" y="-124.021" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0043231" label="intracellular membrane-bounded organelle">
+	<att type="string" name="description" value="intracellular membrane-bounded organelle"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="4.077"/>
+	<att type="real" name="uniqueness" value="0.886"/>
+	<att type="real" name="dispensability" value="0.134"/>
+	<graphics type="ELLIPSE" x="98.683" y="-81.606" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0043232" label="intracellular non-membrane-bounded organelle">
+	<att type="string" name="description" value="intracellular non-membrane-bounded organelle"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="3.702"/>
+	<att type="real" name="uniqueness" value="0.778"/>
+	<att type="real" name="dispensability" value="0.266"/>
+	<graphics type="ELLIPSE" x="106.269" y="107.156" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0043235" label="receptor complex">
+	<att type="string" name="description" value="receptor complex"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="2.689"/>
+	<att type="real" name="uniqueness" value="0.973"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="172.124" y="38.973" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0044599" label="AP-5 adaptor complex">
+	<att type="string" name="description" value="AP-5 adaptor complex"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="0.000"/>
+	<att type="real" name="uniqueness" value="0.946"/>
+	<att type="real" name="dispensability" value="0.132"/>
+	<graphics type="ELLIPSE" x="174.052" y="-3.073" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0048471" label="perinuclear region of cytoplasm">
+	<att type="string" name="description" value="perinuclear region of cytoplasm"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="2.860"/>
+	<att type="real" name="uniqueness" value="0.962"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="49.083" y="-0.814" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0062023" label="collagen-containing extracellular matrix">
+	<att type="string" name="description" value="collagen-containing extracellular matrix"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="2.628"/>
+	<att type="real" name="uniqueness" value="1.000"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-5.555" y="131.496" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0070013" label="intracellular organelle lumen">
+	<att type="string" name="description" value="intracellular organelle lumen"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="3.741"/>
+	<att type="real" name="uniqueness" value="0.887"/>
+	<att type="real" name="dispensability" value="0.064"/>
+	<graphics type="ELLIPSE" x="158.264" y="-62.964" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0072686" label="mitotic spindle">
+	<att type="string" name="description" value="mitotic spindle"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="2.193"/>
+	<att type="real" name="uniqueness" value="0.752"/>
+	<att type="real" name="dispensability" value="0.465"/>
+	<graphics type="ELLIPSE" x="126.047" y="124.786" fill="#80000000ff80000000"/>
+</node>
+<node id="GO:0110165" label="cellular anatomical entity">
+	<att type="string" name="description" value="cellular anatomical entity"/>
+	<att type="real" name="value" value="0.000"/>
+	<att type="real" name="log_size" value="4.270"/>
+	<att type="real" name="uniqueness" value="1.000"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-17.525" y="-70.616" fill="#80000000ff80000000"/>
+</node>
+<edge id="e0" target="GO:0005737" source="GO:0043229" directed="false" label="e104">
+	<att type="real" name="weight" value="0.128"/>
+	<graphics width="1.129" fill="#edecec"/>
+</edge>
+<edge id="e1" target="GO:0005737" source="GO:0043231" directed="false" label="e104">
+	<att type="real" name="weight" value="0.116"/>
+	<graphics width="1.000" fill="#edecec"/>
+</edge>
+<edge id="e2" target="GO:0005741" source="GO:0005765" directed="false" label="e104">
+	<att type="real" name="weight" value="0.457"/>
+	<graphics width="4.638" fill="#edecec"/>
+</edge>
+<edge id="e3" target="GO:0005741" source="GO:0012506" directed="false" label="e104">
+	<att type="real" name="weight" value="0.365"/>
+	<graphics width="3.654" fill="#edecec"/>
+</edge>
+<edge id="e4" target="GO:0005741" source="GO:0030659" directed="false" label="e104">
+	<att type="real" name="weight" value="0.345"/>
+	<graphics width="3.447" fill="#edecec"/>
+</edge>
+<edge id="e5" target="GO:0005765" source="GO:0012506" directed="false" label="e104">
+	<att type="real" name="weight" value="0.402"/>
+	<graphics width="4.052" fill="#edecec"/>
+</edge>
+<edge id="e6" target="GO:0005765" source="GO:0030659" directed="false" label="e104">
+	<att type="real" name="weight" value="0.379"/>
+	<graphics width="3.802" fill="#edecec"/>
+</edge>
+<edge id="e7" target="GO:0005765" source="GO:0031090" directed="false" label="e104">
+	<att type="real" name="weight" value="0.117"/>
+	<graphics width="1.016" fill="#edecec"/>
+</edge>
+<edge id="e8" target="GO:0005783" source="GO:0005794" directed="false" label="e104">
+	<att type="real" name="weight" value="0.449"/>
+	<graphics width="4.547" fill="#edecec"/>
+</edge>
+<edge id="e9" target="GO:0005871" source="GO:0015630" directed="false" label="e104">
+	<att type="real" name="weight" value="0.427"/>
+	<graphics width="4.318" fill="#edecec"/>
+</edge>
+<edge id="e10" target="GO:0005871" source="GO:0043232" directed="false" label="e104">
+	<att type="real" name="weight" value="0.266"/>
+	<graphics width="2.603" fill="#edecec"/>
+</edge>
+<edge id="e11" target="GO:0005871" source="GO:0043235" directed="false" label="e104">
+	<att type="real" name="weight" value="0.187"/>
+	<graphics width="1.758" fill="#edecec"/>
+</edge>
+<edge id="e12" target="GO:0005871" source="GO:0072686" directed="false" label="e104">
+	<att type="real" name="weight" value="0.465"/>
+	<graphics width="4.725" fill="#edecec"/>
+</edge>
+<edge id="e13" target="GO:0012506" source="GO:0030659" directed="false" label="e104">
+	<att type="real" name="weight" value="0.449"/>
+	<graphics width="4.555" fill="#edecec"/>
+</edge>
+<edge id="e14" target="GO:0012506" source="GO:0031090" directed="false" label="e104">
+	<att type="real" name="weight" value="0.147"/>
+	<graphics width="1.330" fill="#edecec"/>
+</edge>
+<edge id="e15" target="GO:0015630" source="GO:0043232" directed="false" label="e104">
+	<att type="real" name="weight" value="0.482"/>
+	<graphics width="4.904" fill="#edecec"/>
+</edge>
+<edge id="e16" target="GO:0015630" source="GO:0072686" directed="false" label="e104">
+	<att type="real" name="weight" value="0.491"/>
+	<graphics width="5.000" fill="#edecec"/>
+</edge>
+<edge id="e17" target="GO:0030659" source="GO:0031090" directed="false" label="e104">
+	<att type="real" name="weight" value="0.134"/>
+	<graphics width="1.196" fill="#edecec"/>
+</edge>
+<edge id="e18" target="GO:0043227" source="GO:0043229" directed="false" label="e104">
+	<att type="real" name="weight" value="0.221"/>
+	<graphics width="2.123" fill="#edecec"/>
+</edge>
+<edge id="e19" target="GO:0043227" source="GO:0043231" directed="false" label="e104">
+	<att type="real" name="weight" value="0.198"/>
+	<graphics width="1.875" fill="#edecec"/>
+</edge>
+<edge id="e20" target="GO:0043229" source="GO:0043231" directed="false" label="e104">
+	<att type="real" name="weight" value="0.198"/>
+	<graphics width="1.881" fill="#edecec"/>
+</edge>
+<edge id="e21" target="GO:0043231" source="GO:0043232" directed="false" label="e104">
+	<att type="real" name="weight" value="0.127"/>
+	<graphics width="1.124" fill="#edecec"/>
+</edge>
+<edge id="e22" target="GO:0043231" source="GO:0070013" directed="false" label="e104">
+	<att type="real" name="weight" value="0.134"/>
+	<graphics width="1.195" fill="#edecec"/>
+</edge>
+<edge id="e23" target="GO:0043232" source="GO:0072686" directed="false" label="e104">
+	<att type="real" name="weight" value="0.315"/>
+	<graphics width="3.122" fill="#edecec"/>
+</edge>
+<edge id="e24" target="GO:0043235" source="GO:0044599" directed="false" label="e104">
+	<att type="real" name="weight" value="0.132"/>
+	<graphics width="1.177" fill="#edecec"/>
+</edge>
+</graph>

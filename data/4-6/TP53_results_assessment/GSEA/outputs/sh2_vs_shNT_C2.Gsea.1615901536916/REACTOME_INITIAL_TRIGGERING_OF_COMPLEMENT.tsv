@@ -1,0 +1,79 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	C3	complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	71	3.6319797039031982	0.1435366	Yes	
+row_1	GZMM	granzyme M [Source:HGNC Symbol;Acc:HGNC:4712]	84	3.6152074337005615	0.28792292	Yes	
+row_2	CFB	complement factor B [Source:HGNC Symbol;Acc:HGNC:1037]	240	2.9179439544677734	0.40071532	Yes	
+row_3	C1S	complement C1s [Source:HGNC Symbol;Acc:HGNC:1247]	330	2.581235408782959	0.5017327	Yes	
+row_4	MASP1	mannan binding lectin serine peptidase 1 [Source:HGNC Symbol;Acc:HGNC:6901]	989	1.8619791269302368	0.55929375	Yes	
+row_5	C4A	complement C4A (Rodgers blood group) [Source:HGNC Symbol;Acc:HGNC:1323]	999	1.8527443408966064	0.63321626	Yes	
+row_6	C1R	complement C1r [Source:HGNC Symbol;Acc:HGNC:1246]	1009	1.840549111366272	0.70665073	Yes	
+row_7	C4B	complement C4B (Chido blood group) [Source:HGNC Symbol;Acc:HGNC:1324]	1861	1.3502167463302612	0.7387534	Yes	
+row_8	C2	complement C2 [Source:HGNC Symbol;Acc:HGNC:1248]	2524	1.0872797966003418	0.7652046	Yes	
+row_9	CFD	complement factor D [Source:HGNC Symbol;Acc:HGNC:2771]	3205	0.9160419702529907	0.7843381	Yes	
+row_10	COLEC11	collectin subfamily member 11 [Source:HGNC Symbol;Acc:HGNC:17213]	4754	0.6363897323608398	0.7699019	No	
+row_11	MBL2	mannose binding lectin 2 [Source:HGNC Symbol;Acc:HGNC:6922]	5629	0.5608338713645935	0.76981723	No	
+row_12	CRP	C-reactive protein [Source:HGNC Symbol;Acc:HGNC:2367]	6659	0.5303168296813965	0.7645152	No	
+row_13	MASP2	mannan binding lectin serine peptidase 2 [Source:HGNC Symbol;Acc:HGNC:6902]	8023	0.4702571928501129	0.748199	No	
+row_14	CFP	complement factor properdin [Source:HGNC Symbol;Acc:HGNC:8864]	8697	0.3982548117637634	0.746789	No	
+row_15	IGLV1-51	immunoglobulin lambda variable 1-51 [Source:HGNC Symbol;Acc:HGNC:5882]	8977	0.3727608323097229	0.7545158	No	
+row_16	IGHV3-13	immunoglobulin heavy variable 3-13 [Source:HGNC Symbol;Acc:HGNC:5581]	11866	0.1424972414970398	0.685767	No	
+row_17	COLEC10	collectin subfamily member 10 [Source:HGNC Symbol;Acc:HGNC:2220]	11996	0.1358962506055832	0.6878805	No	
+row_18	IGLV2-11	immunoglobulin lambda variable 2-11 [Source:HGNC Symbol;Acc:HGNC:5887]	14225	0.0	0.63044304	No	
+row_19	IGLV2-14	immunoglobulin lambda variable 2-14 [Source:HGNC Symbol;Acc:HGNC:5888]	14226	0.0	0.63044304	No	
+row_20	IGLV2-23	immunoglobulin lambda variable 2-23 [Source:HGNC Symbol;Acc:HGNC:5890]	14228	0.0	0.6304173	No	
+row_21	IGHG4	immunoglobulin heavy constant gamma 4 (G4m marker) [Source:HGNC Symbol;Acc:HGNC:5528]	14767	0.0	0.6165477	No	
+row_22	IGHG1	immunoglobulin heavy constant gamma 1 (G1m marker) [Source:HGNC Symbol;Acc:HGNC:5525]	14768	0.0	0.6165477	No	
+row_23	IGHG2	immunoglobulin heavy constant gamma 2 (G2m marker) [Source:HGNC Symbol;Acc:HGNC:5526]	14769	0.0	0.6165477	No	
+row_24	IGLC3	immunoglobulin lambda constant 3 (Kern-Oz+ marker) [Source:HGNC Symbol;Acc:HGNC:5857]	15095	0.0	0.60816926	No	
+row_25	IGLC2	immunoglobulin lambda constant 2 [Source:HGNC Symbol;Acc:HGNC:5856]	15101	0.0	0.60804033	No	
+row_26	IGHV3-23	immunoglobulin heavy variable 3-23 [Source:HGNC Symbol;Acc:HGNC:5588]	15240	0.0	0.60448277	No	
+row_27	IGHV3-30	immunoglobulin heavy variable 3-30 [Source:HGNC Symbol;Acc:HGNC:5591]	15250	0.0	0.6042507	No	
+row_28	IGHV3-33	immunoglobulin heavy variable 3-33 [Source:HGNC Symbol;Acc:HGNC:5596]	15251	0.0	0.6042507	No	
+row_29	IGHV3-11	immunoglobulin heavy variable 3-11 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:5580]	15280	0.0	0.6035289	No	
+row_30	IGHV3-48	immunoglobulin heavy variable 3-48 [Source:HGNC Symbol;Acc:HGNC:5606]	15403	0.0	0.60038376	No	
+row_31	IGHV3-53	immunoglobulin heavy variable 3-53 [Source:HGNC Symbol;Acc:HGNC:5610]	15410	0.0	0.6002291	No	
+row_32	IGKV1-5	immunoglobulin kappa variable 1-5 [Source:HGNC Symbol;Acc:HGNC:5741]	15442	0.0	0.5994299	No	
+row_33	IGKV4-1	immunoglobulin kappa variable 4-1 [Source:HGNC Symbol;Acc:HGNC:5834]	16023	0.0	0.5844776	No	
+row_34	C1QB	complement C1q B chain [Source:HGNC Symbol;Acc:HGNC:1242]	16469	0.0	0.57300556	No	
+row_35	C1QA	complement C1q A chain [Source:HGNC Symbol;Acc:HGNC:1241]	16470	0.0	0.57300556	No	
+row_36	C1QC	complement C1q C chain [Source:HGNC Symbol;Acc:HGNC:1245]	16476	0.0	0.57287663	No	
+row_37	IGLV3-1	immunoglobulin lambda variable 3-1 [Source:HGNC Symbol;Acc:HGNC:5896]	17066	0.0	0.55769235	No	
+row_38	IGKV1-39	immunoglobulin kappa variable 1-39 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:5740]	17071	0.0	0.55758923	No	
+row_39	IGKV1-33	immunoglobulin kappa variable 1-33 [Source:HGNC Symbol;Acc:HGNC:5737]	17078	0.0	0.55743456	No	
+row_40	IGKV1-16	immunoglobulin kappa variable 1-16 [Source:HGNC Symbol;Acc:HGNC:5732]	17091	0.0	0.55712515	No	
+row_41	IGKV1-17	immunoglobulin kappa variable 1-17 [Source:HGNC Symbol;Acc:HGNC:5733]	17092	0.0	0.55712515	No	
+row_42	IGKV1-12	immunoglobulin kappa variable 1-12 [Source:HGNC Symbol;Acc:HGNC:5730]	17093	0.0	0.55712515	No	
+row_43	IGKV2D-28	immunoglobulin kappa variable 2D-28 [Source:HGNC Symbol;Acc:HGNC:5799]	17228	0.0	0.5536707	No	
+row_44	IGKV2D-30	immunoglobulin kappa variable 2D-30 [Source:HGNC Symbol;Acc:HGNC:5801]	17236	0.0	0.5534902	No	
+row_45	IGKV2D-40	immunoglobulin kappa variable 2D-40 [Source:HGNC Symbol;Acc:HGNC:5804]	17241	0.0	0.5533871	No	
+row_46	IGKV5-2	immunoglobulin kappa variable 5-2 [Source:HGNC Symbol;Acc:HGNC:5835]	17937	0.0	0.5354701	No	
+row_47	IGLV2-8	immunoglobulin lambda variable 2-8 [Source:HGNC Symbol;Acc:HGNC:5895]	18571	0.0	0.51915145	No	
+row_48	IGKV1D-39	immunoglobulin kappa variable 1D-39 [Source:HGNC Symbol;Acc:HGNC:5756]	19830	0.0	0.48672044	No	
+row_49	IGKV1D-33	immunoglobulin kappa variable 1D-33 [Source:HGNC Symbol;Acc:HGNC:5753]	19831	0.0	0.48672044	No	
+row_50	IGKV1D-16	immunoglobulin kappa variable 1D-16 [Source:HGNC Symbol;Acc:HGNC:5748]	19853	0.0	0.48617905	No	
+row_51	IGLV6-57	immunoglobulin lambda variable 6-57 [Source:HGNC Symbol;Acc:HGNC:5927]	19994	0.0	0.48256987	No	
+row_52	IGHV4-59	immunoglobulin heavy variable 4-59 [Source:HGNC Symbol;Acc:HGNC:5654]	21079	0.0	0.45462453	No	
+row_53	IGHV4-34	immunoglobulin heavy variable 4-34 [Source:HGNC Symbol;Acc:HGNC:5650]	21087	0.0	0.45444408	No	
+row_54	IGHV4-39	immunoglobulin heavy variable 4-39 [Source:HGNC Symbol;Acc:HGNC:5651]	21088	0.0	0.45444408	No	
+row_55	IGLV3-19	immunoglobulin lambda variable 3-19 [Source:HGNC Symbol;Acc:HGNC:5903]	21426	0.0	0.44575626	No	
+row_56	IGLV3-25	immunoglobulin lambda variable 3-25 [Source:HGNC Symbol;Acc:HGNC:5908]	21432	0.0	0.44562736	No	
+row_57	IGLV3-27	immunoglobulin lambda variable 3-27 [Source:HGNC Symbol;Acc:HGNC:5910]	21434	0.0	0.44560158	No	
+row_58	IGLV3-21	immunoglobulin lambda variable 3-21 [Source:HGNC Symbol;Acc:HGNC:5905]	21435	0.0	0.44560158	No	
+row_59	IGKV3D-20	immunoglobulin kappa variable 3D-20 [Source:HGNC Symbol;Acc:HGNC:5825]	22178	0.0	0.42647293	No	
+row_60	IGLV1-40	immunoglobulin lambda variable 1-40 [Source:HGNC Symbol;Acc:HGNC:5877]	22577	0.0	0.41621256	No	
+row_61	IGLV1-47	immunoglobulin lambda variable 1-47 [Source:HGNC Symbol;Acc:HGNC:5880]	22578	0.0	0.41621256	No	
+row_62	IGLV1-44	immunoglobulin lambda variable 1-44 [Source:HGNC Symbol;Acc:HGNC:5879]	22579	0.0	0.41621256	No	
+row_63	IGKV3-15	immunoglobulin kappa variable 3-15 [Source:HGNC Symbol;Acc:HGNC:5816]	22901	0.0	0.40793723	No	
+row_64	IGKV3-11	immunoglobulin kappa variable 3-11 [Source:HGNC Symbol;Acc:HGNC:5815]	22906	0.0	0.4078341	No	
+row_65	IGKV3-20	immunoglobulin kappa variable 3-20 [Source:HGNC Symbol;Acc:HGNC:5817]	22921	0.0	0.4074732	No	
+row_66	IGHV2-70	immunoglobulin heavy variable 2-70 [Source:HGNC Symbol;Acc:HGNC:5577]	23100	0.0	0.4028844	No	
+row_67	IGHV1-69	immunoglobulin heavy variable 1-69 [Source:HGNC Symbol;Acc:HGNC:5558]	23512	0.0	0.39228886	No	
+row_68	IGHV1-46	immunoglobulin heavy variable 1-46 [Source:HGNC Symbol;Acc:HGNC:5554]	23534	0.0	0.3917475	No	
+row_69	IGLV7-43	immunoglobulin lambda variable 7-43 [Source:HGNC Symbol;Acc:HGNC:5929]	23886	0.0	0.38269877	No	
+row_70	IGKV2-28	immunoglobulin kappa variable 2-28 [Source:HGNC Symbol;Acc:HGNC:5783]	23892	0.0	0.38256988	No	
+row_71	IGKV2-30	immunoglobulin kappa variable 2-30 [Source:HGNC Symbol;Acc:HGNC:5785]	23899	0.0	0.3824152	No	
+row_72	FCN1	ficolin 1 [Source:HGNC Symbol;Acc:HGNC:3623]	24214	0.0	0.37432033	No	
+row_73	FCN2	ficolin 2 [Source:HGNC Symbol;Acc:HGNC:3624]	24215	0.0	0.37432033	No	
+row_74	IGHV3-7	immunoglobulin heavy variable 3-7 [Source:HGNC Symbol;Acc:HGNC:5620]	24652	0.0	0.36308032	No	
+row_75	IGHV1-2	immunoglobulin heavy variable 1-2 [Source:HGNC Symbol;Acc:HGNC:5550]	25858	0.0	0.3320156	No	
+row_76	IGHV2-5	immunoglobulin heavy variable 2-5 [Source:HGNC Symbol;Acc:HGNC:5576]	26071	0.0	0.32655028	No	
+row_77	FCN3	ficolin 3 [Source:HGNC Symbol;Acc:HGNC:3625]	27403	-0.08251651376485825	0.29553998	No	

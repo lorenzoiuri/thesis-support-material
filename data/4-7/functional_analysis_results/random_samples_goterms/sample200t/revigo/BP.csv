@@ -1,0 +1,128 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Uniqueness, Dispensability, Representative, Eliminated
+"GO:0033627", "cell adhesion mediated by integrin", 0.140, 4.001, -6.358, 1.415, 0.998, 0.000, -1, False
+"GO:0048543", "phytochrome chromophore biosynthetic process", 0.055, 4.829, -5.840, 1.000, 0.982, 0.000, -1, False
+"GO:0052221", "(obsolete) positive chemotaxis in environment of other organism involved in symbiotic interaction", 0.495, 5.678, -5.103, 1.924, 1.000, 0.000, -1, False
+"GO:0060899", "(obsolete) regulation of transcription involved in eye field cell fate commitment of camera-type eye", 0.495, 3.315, -4.829, 1.924, 1.000, 0.000, -1, False
+"GO:0075100", "(obsolete) positive regulation by host of symbiont protein kinase-mediated signal transduction", 0.495, 4.579, -4.825, 1.924, 1.000, 0.000, -1, False
+"GO:0090719", "adaptive immune effector response involving T cells and B lineage cells", 0.955, 7.289, 2.102, 2.233, 0.977, 0.000, -1, False
+"GO:0097752", "regulation of DNA stability", 0.022, 1.305, -7.478, 0.699, 0.986, 0.000, -1, False
+"GO:0098689", "latency-replication decision", 0.173, 2.606, 2.262, 1.491, 0.962, 0.000, -1, False
+"GO:1900061", "(obsolete) positive regulation of transcription from RNA polymerase II promoter involved in calcium-mediated signaling", 0.495, 3.107, -3.349, 1.924, 1.000, 0.000, -1, False
+"GO:1900435", "(obsolete) negative regulation of filamentous growth of a population of unicellular organisms in response to starvation", 0.495, 1.645, -4.011, 1.924, 1.000, 0.000, -1, False
+"GO:1901226", "(obsolete) positive regulation of transcription from RNA polymerase II promoter involved in heart development", 0.495, 2.739, -0.179, 1.924, 1.000, 0.000, -1, False
+"GO:1990045", "sclerotium development", 0.984, 5.383, -1.004, 2.246, 0.958, 0.000, -1, False
+"GO:0098925", "retrograde trans-synaptic signaling by nitric oxide, modulating synaptic transmission", 0.006, 0.599, -0.140, 0.301, 0.982, 0.002, -1, False
+"GO:1905584", "outer hair cell apoptotic process", 0.006, 0.795, -2.603, 0.301, 0.993, 0.002, -1, False
+"GO:0035350", "FAD transmembrane transport", 0.011, 4.294, 6.248, 0.477, 0.974, 0.002, -1, False
+"GO:1905071", "tight junction disassembly", 0.174, -0.027, 5.406, 1.505, 0.984, 0.003, -1, False
+"GO:1905023", "positive regulation of threonine-tRNA ligase activity", 0.006, -3.807, 0.314, 0.301, 0.977, 0.012, -1, False
+"GO:2000674", "regulation of type B pancreatic cell apoptotic process", 0.050, 0.858, 3.638, 1.000, 0.983, 0.013, -1, False
+"GO:0061168", "regulation of hair follicle placode formation", 0.006, -3.159, -6.474, 0.301, 0.961, 0.016, -1, False
+"GO:0034444", "regulation of plasma lipoprotein oxidation", 0.017, 0.494, -6.436, 0.602, 0.957, 0.021, -1, False
+"GO:2000705", "regulation of dense core granule biogenesis", 0.017, 2.723, -6.614, 0.602, 0.974, 0.021, -1, False
+"GO:0000960", "regulation of mitochondrial RNA catabolic process", 0.028, -7.619, -0.698, 0.778, 0.954, 0.022, -1, False
+"GO:0106056", "regulation of calcineurin-mediated signaling", 0.202, -5.629, -4.117, 1.568, 0.952, 0.025, -1, False
+"GO:0120235", "regulation of posttranslational protein targeting to membrane, translocation", 0.197, -1.927, -2.211, 1.556, 0.928, 0.027, -1, False
+"GO:1904154", "positive regulation of retrograde protein transport, ER to cytosol", 0.017, null, null, 0.602, 0.926, 0.563, 120235, True
+"GO:1902274", "positive regulation of (R)-carnitine transmembrane transport", 0.105, null, null, 1.279, 0.925, 0.776, 120235, True
+"GO:0018322", "protein tyrosinylation", 0.006, -2.489, 7.446, 0.301, 0.969, 0.049, -1, False
+"GO:0019604", "toluene oxidation to catechol", 0.138, -3.466, 4.259, 1.398, 0.960, 0.060, -1, False
+"GO:0042361", "menaquinone catabolic process", 0.022, -6.143, 4.087, 0.699, 0.949, 0.064, -1, False
+"GO:0014889", "muscle atrophy", 0.056, 2.321, -1.869, 1.041, 0.968, 0.066, -1, False
+"GO:0032619", "interleukin-16 production", 0.024, 5.448, 5.722, 0.699, 0.958, 0.079, -1, False
+"GO:0035901", "cellular response to isolation stress", 0.573, -0.958, 2.921, 2.013, 0.973, 0.082, -1, False
+"GO:0061482", "response to irinotecan", 2.657, 6.677, 3.660, 2.676, 0.970, 0.097, -1, False
+"GO:0048010", "vascular endothelial growth factor receptor signaling pathway", 0.381, -0.687, 1.313, 1.839, 0.955, 0.115, -1, False
+"GO:0051383", "kinetochore organization", 0.107, -0.168, 7.682, 1.301, 0.977, 0.121, -1, False
+"GO:0070199", "establishment of protein localization to chromosome", 0.084, 2.785, 6.963, 1.204, 0.967, 0.125, -1, False
+"GO:1900899", "regulation of heptadecane metabolic process", 4.067, -7.352, 1.041, 2.856, 0.953, 0.125, -1, False
+"GO:0031671", "primary cell septum biogenesis", 0.451, -0.513, 6.675, 1.857, 0.979, 0.135, -1, False
+"GO:2001229", "negative regulation of response to gamma radiation", 0.006, -6.662, -3.246, 0.301, 0.950, 0.142, -1, False
+"GO:0032941", "secretion by tissue", 0.107, 3.000, 5.284, 1.301, 0.954, 0.145, -1, False
+"GO:0061430", "bone trabecula morphogenesis", 0.056, 5.920, -2.865, 1.041, 0.954, 0.146, -1, False
+"GO:1903018", "regulation of glycoprotein metabolic process", 0.264, -6.381, 0.846, 1.681, 0.952, 0.156, -1, False
+"GO:0120292", "positive regulation of mitotic recombination-dependent replication fork processing", 0.107, -6.922, -0.332, 1.279, 0.934, 0.156, -1, False
+"GO:0008057", "eye pigment granule organization", 0.006, 0.603, 7.934, 0.301, 0.967, 0.158, -1, False
+"GO:0043480", "pigment accumulation in tissues", 1.421, null, null, 2.405, 0.942, 0.754, 8057, True
+"GO:0060324", "face development", 0.247, 7.371, 0.052, 1.653, 0.952, 0.167, -1, False
+"GO:0048036", "central complex development", 0.984, null, null, 2.246, 0.925, 0.573, 60324, True
+"GO:1904384", "cellular response to sodium phosphate", 0.013, 5.503, 3.786, 0.477, 0.965, 0.174, -1, False
+"GO:0060719", "chorionic trophoblast cell development", 0.491, 5.825, -0.190, 1.944, 0.953, 0.178, -1, False
+"GO:0010987", "negative regulation of high-density lipoprotein particle clearance", 0.006, -0.480, -6.914, 0.301, 0.946, 0.179, -1, False
+"GO:1904343", "positive regulation of colon smooth muscle contraction", 0.006, -0.263, -6.121, 0.301, 0.947, 0.179, -1, False
+"GO:0006475", "internal protein amino acid acetylation", 0.634, -2.861, 6.663, 2.057, 0.958, 0.181, -1, False
+"GO:0032005", "signal transduction involved in positive regulation of conjugation with cellular fusion", 1.394, -1.893, 0.249, 2.396, 0.929, 0.184, -1, False
+"GO:0090008", "hypoblast development", 0.800, 6.664, -1.553, 2.155, 0.939, 0.188, -1, False
+"GO:1901542", "regulation of ent-pimara-8(14),15-diene biosynthetic process", 1.912, -7.101, 1.549, 2.533, 0.952, 0.199, -1, False
+"GO:0018103", "protein C-linked glycosylation", 0.028, -3.808, 6.417, 0.778, 0.943, 0.203, -1, False
+"GO:0030208", "dermatan sulfate biosynthetic process", 0.067, null, null, 1.114, 0.937, 0.518, 18103, True
+"GO:0070170", "regulation of tooth mineralization", 0.056, -1.788, -6.516, 1.041, 0.944, 0.204, -1, False
+"GO:1904570", "negative regulation of selenocysteine incorporation", 0.006, -5.560, 1.243, 0.301, 0.934, 0.210, -1, False
+"GO:0010342", "endosperm cellularization", 0.006, 6.196, -3.413, 0.301, 0.952, 0.221, -1, False
+"GO:0021522", "spinal cord motor neuron differentiation", 0.163, 6.728, -0.543, 1.477, 0.936, 0.226, -1, False
+"GO:0002410", "plasmacytoid dendritic cell chemotaxis", 0.011, 6.237, 2.981, 0.477, 0.945, 0.228, -1, False
+"GO:0097712", "vesicle targeting, trans-Golgi to periciliary membrane compartment", 0.006, 1.370, 6.886, 0.301, 0.945, 0.229, -1, False
+"GO:0099069", "synaptic vesicle tethering involved in synaptic vesicle exocytosis", 0.006, null, null, 0.301, 0.921, 0.536, 97712, True
+"GO:0048200", "Golgi transport vesicle coating", 0.034, null, null, 0.845, 0.939, 0.621, 97712, True
+"GO:0051170", "import into nucleus", 0.622, 2.823, 6.437, 2.049, 0.962, 0.246, -1, False
+"GO:0002326", "B cell lineage commitment", 0.034, 6.644, 0.675, 0.845, 0.936, 0.247, -1, False
+"GO:0001197", "positive regulation of mating-type specific transcription from RNA polymerase II promoter", 0.055, null, null, 1.255, 0.897, 0.556, 2326, True
+"GO:0043939", "negative regulation of sporulation", 0.140, -3.015, -5.585, 1.415, 0.931, 0.248, -1, False
+"GO:0090532", "L-ascorbic acid biosynthetic process via UDP-alpha-D-glucuronate", 0.011, -5.400, 5.431, 0.477, 0.939, 0.250, -1, False
+"GO:0033350", "apiose biosynthetic process", 0.297, null, null, 1.732, 0.934, 0.778, 90532, True
+"GO:0051467", "detection of steroid hormone stimulus", 0.626, 6.450, 4.167, 2.049, 0.968, 0.251, -1, False
+"GO:0046342", "CDP-diacylglycerol catabolic process", 0.029, -5.660, 3.969, 0.778, 0.941, 0.254, -1, False
+"GO:0050493", "GPI anchor biosynthetic process via N-threonyl-glycosylphosphatidylinositolethanolamine", 0.233, null, null, 1.623, 0.919, 0.551, 46342, True
+"GO:0033542", "fatty acid beta-oxidation, unsaturated, even number", 0.070, null, null, 1.114, 0.929, 0.576, 46342, True
+"GO:1903615", "positive regulation of protein tyrosine phosphatase activity", 0.017, -5.685, 0.129, 0.602, 0.932, 0.254, -1, False
+"GO:0045459", "iron incorporation into iron-sulfur cluster via tetrakis-L-cysteinyl triiron tetrasulfide", 0.025, -1.663, 6.936, 0.699, 0.945, 0.254, -1, False
+"GO:1900169", "regulation of glucocorticoid mediated signaling pathway", 0.677, -5.825, -3.844, 2.083, 0.950, 0.266, -1, False
+"GO:0050856", "regulation of T cell receptor signaling pathway", 0.224, -5.508, -3.494, 1.613, 0.942, 0.269, -1, False
+"GO:0000719", "photoreactive repair", 0.006, -2.336, 3.884, 0.301, 0.946, 0.286, -1, False
+"GO:2000538", "positive regulation of B cell chemotaxis", 0.011, -4.455, -2.814, 0.477, 0.924, 0.291, -1, False
+"GO:1905315", "cell proliferation involved in endocardial cushion morphogenesis", 0.006, 6.718, -2.384, 0.301, 0.932, 0.293, -1, False
+"GO:0051888", "positive regulation of timing of exogen", 0.011, -1.483, -6.266, 0.477, 0.934, 0.294, -1, False
+"GO:0140124", "positive regulation of Lewy body formation", 0.006, 2.160, -6.275, 0.301, 0.957, 0.297, -1, False
+"GO:1905651", "regulation of artery morphogenesis", 0.017, -3.454, -6.268, 0.602, 0.959, 0.302, -1, False
+"GO:0007369", "gastrulation", 0.830, 6.043, -2.112, 2.173, 0.929, 0.310, -1, False
+"GO:0060886", "clearance of cells from fusion plate by epithelial to mesenchymal transition", 0.077, null, null, 1.146, 0.911, 0.568, 7369, True
+"GO:0016071", "mRNA metabolic process", 3.863, -2.910, 4.956, 2.839, 0.948, 0.311, -1, False
+"GO:0046707", "IDP metabolic process", 0.011, -4.600, 4.941, 0.477, 0.929, 0.330, -1, False
+"GO:1904457", "positive regulation of neuronal action potential", 0.006, -0.999, -5.221, 0.301, 0.926, 0.341, -1, False
+"GO:0098962", "regulation of postsynaptic neurotransmitter receptor activity", 0.090, null, null, 1.230, 0.923, 0.576, 1904457, True
+"GO:1905337", "positive regulation of aggrephagy", 0.017, -7.233, -1.081, 0.602, 0.940, 0.345, -1, False
+"GO:0010507", "negative regulation of autophagy", 0.465, null, null, 1.924, 0.920, 0.557, 1905337, True
+"GO:0098865", "modification by symbiont of host bicellular tight junctions", 0.006, 3.044, 2.106, 0.301, 0.949, 0.355, -1, False
+"GO:0039502", "suppression by virus of host type I interferon-mediated signaling pathway", 0.006, null, null, 0.301, 0.866, 0.633, 98865, True
+"GO:0052148", "modulation by symbiont of host catalytic activity", 0.006, null, null, 0.301, 0.929, 0.633, 98865, True
+"GO:0060190", "negative regulation of protein desumoylation", 0.315, -5.356, -0.231, 1.756, 0.921, 0.355, -1, False
+"GO:0072200", "negative regulation of mesenchymal cell proliferation involved in ureter development", 0.006, -2.144, -6.020, 0.301, 0.927, 0.356, -1, False
+"GO:0090253", "convergent extension involved in imaginal disc-derived wing morphogenesis", 0.013, 6.732, -2.089, 0.477, 0.927, 0.369, -1, False
+"GO:2001118", "tetrahydromethanopterin biosynthetic process", 0.079, -4.021, 5.285, 1.176, 0.934, 0.372, -1, False
+"GO:0090109", "regulation of cell-substrate junction assembly", 0.359, 2.272, -6.608, 1.813, 0.966, 0.383, -1, False
+"GO:0031087", "deadenylation-independent decapping of nuclear-transcribed mRNA", 0.028, -4.587, 3.236, 0.778, 0.893, 0.387, -1, False
+"GO:0043267", "negative regulation of potassium ion transport", 0.174, -2.660, -2.611, 1.505, 0.923, 0.388, -1, False
+"GO:0021739", "mesencephalic trigeminal nucleus development", 0.011, 7.404, -0.158, 0.477, 0.944, 0.403, -1, False
+"GO:0034724", "DNA replication-independent nucleosome organization", 0.224, 0.006, 7.468, 1.613, 0.976, 0.412, -1, False
+"GO:0061326", "renal tubule development", 0.421, 6.927, -1.460, 1.881, 0.923, 0.415, -1, False
+"GO:0070268", "cornification", 0.634, null, null, 2.057, 0.913, 0.504, 61326, True
+"GO:0072079", "nephron tubule formation", 0.090, null, null, 1.230, 0.910, 0.659, 61326, True
+"GO:1901533", "negative regulation of hematopoietic progenitor cell differentiation", 0.062, -3.290, -5.453, 1.079, 0.930, 0.417, -1, False
+"GO:0000187", "activation of MAPK activity", 0.875, -5.658, -1.387, 2.196, 0.885, 0.417, -1, False
+"GO:0051932", "synaptic transmission, GABAergic", 0.084, 0.228, 0.135, 1.204, 0.980, 0.434, -1, False
+"GO:2001306", "lipoxin B4 biosynthetic process", 0.006, -5.349, 4.927, 0.301, 0.931, 0.436, -1, False
+"GO:0002714", "positive regulation of B cell mediated immunity", 0.213, -5.682, -3.023, 1.591, 0.926, 0.442, -1, False
+"GO:0048294", "negative regulation of isotype switching to IgE isotypes", 0.017, null, null, 0.602, 0.860, 0.779, 2714, True
+"GO:0019468", "nopaline catabolic process", 0.025, -5.816, 4.477, 0.699, 0.938, 0.443, -1, False
+"GO:0010771", "negative regulation of cell morphogenesis involved in differentiation", 0.079, -3.300, -5.738, 1.176, 0.925, 0.446, -1, False
+"GO:0071280", "cellular response to copper ion", 0.163, 5.675, 3.564, 1.477, 0.959, 0.449, -1, False
+"GO:1902901", "positive regulation of transcription from RNA polymerase II promoter involved in stress response to cadmium ion", 0.060, null, null, 1.041, 0.905, 0.557, 71280, True
+"GO:0046760", "viral budding from Golgi membrane", 0.118, 2.813, 2.517, 1.342, 0.955, 0.453, -1, False
+"GO:0046761", "viral budding from plasma membrane", 0.118, null, null, 1.342, 0.941, 0.967, 46760, True
+"GO:0072698", "protein localization to microtubule cytoskeleton", 0.213, 2.478, 7.033, 1.591, 0.967, 0.458, -1, False
+"GO:0010970", "transport along microtubule", 0.847, 3.114, 6.184, 2.182, 0.958, 0.463, -1, False
+"GO:1903807", "L-threonine import across plasma membrane", 0.110, 3.971, 6.343, 1.301, 0.971, 0.489, -1, False
+"GO:1901952", "negative regulation of anterograde dense core granule transport", 0.008, -2.436, -2.351, 0.301, 0.919, 0.493, -1, False
+"GO:1904052", "negative regulation of protein targeting to vacuole involved in autophagy", 0.059, null, null, 1.041, 0.908, 0.686, 1901952, True
+"GO:1990215", "negative regulation by symbiont of host intracellular transport", 0.090, null, null, 1.230, 0.855, 0.799, 1901952, True
+"GO:0072762", "cellular response to carbendazim", 0.131, 6.160, 4.034, 1.380, 0.965, 0.498, -1, False

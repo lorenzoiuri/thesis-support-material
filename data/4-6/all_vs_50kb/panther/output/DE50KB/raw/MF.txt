@@ -1,0 +1,9 @@
+Analysis Type:	PANTHER Overrepresentation Test (Released 20210224)
+Annotation Version and Release Date:	PANTHER version 16.0 Released 2020-12-01
+Analyzed List:	DE50KB.txt (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+PANTHER GO-Slim Molecular Function	Homo sapiens - REFLIST (20595)	DE50KB.txt (216)	DE50KB.txt (expected)	DE50KB.txt (over/under)	DE50KB.txt (fold Enrichment)	DE50KB.txt (raw P-value)	DE50KB.txt (FDR)
+microtubule motor activity (GO:0003777)	54	6	.57	+	10.59	3.66E-05	2.03E-02
+motor activity (GO:0003774)	70	6	.73	+	8.17	1.39E-04	3.86E-02
